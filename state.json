@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-07-22T07:14:31.867Z"
+    "checkedAt": "2026-07-22T11:22:50.065Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-07-22T07:14:34.271Z"
+    "checkedAt": "2026-07-22T11:22:52.495Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-07-22T07:14:36.804Z"
+    "checkedAt": "2026-07-22T11:22:54.921Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {},
@@ -58,7 +58,7 @@
   "Pokemon Center Australia - TCG": {},
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
-    "checkedAt": "2026-07-22T07:16:08.159Z"
+    "checkedAt": "2026-07-22T11:24:25.422Z"
   },
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {},
@@ -240,6 +240,6 @@
       "base2",
       "base1"
     ],
-    "checkedAt": "2026-07-22T03:39:03.051Z"
+    "checkedAt": "2026-07-22T11:24:35.871Z"
   }
 }
