@@ -1,0 +1,87 @@
+{
+  "checkIntervalNote": "Actual interval is set by the cron schedule in .github/workflows/watch.yml, not here.",
+  "targets": [
+    {
+      "name": "JB Hi-Fi - 30th Celebration Knock Out Collection",
+      "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-knock-out-collection-card-game",
+      "type": "product"
+    },
+    {
+      "name": "JB Hi-Fi - 30th Celebration 5 Booster Tin",
+      "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-5-booster-tin-assorted-styles-card-game",
+      "type": "product"
+    },
+    {
+      "name": "JB Hi-Fi - Pokemon TCG collection (new listings)",
+      "url": "https://www.jbhifi.com.au/collections/collectibles-merchandise/pokemon-trading-cards",
+      "type": "page",
+      "keyword": "30th Celebration"
+    },
+    {
+      "name": "EB Games - Pokemon TCG search",
+      "url": "https://www.ebgames.com.au/search?q=pokemon%2030th%20celebration",
+      "type": "page",
+      "keyword": "30th Celebration"
+    },
+    {
+      "name": "Big W - Pokemon TCG search",
+      "url": "https://www.bigw.com.au/search?q=pokemon%20tcg%2030th",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Kmart - Pokemon TCG search",
+      "url": "https://www.kmart.com.au/search/?q=pokemon%20tcg%2030th",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Target AU - Pokemon TCG search",
+      "url": "https://www.target.com.au/search?text=pokemon%20tcg%2030th",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Collectible Madness - Pokemon TCG",
+      "url": "https://collectiblemadness.com.au/collections/pokemon-trading-card-game",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "ZiNG Pop Culture - Pokemon TCG",
+      "url": "https://www.zingpopculture.com.au/featured/pokemon-trading-card-game",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Pokemon Center Australia - TCG",
+      "url": "https://www.pokemoncenter.com/en-au/category/trading-card-game",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Good Games - Pokemon TCG",
+      "url": "https://www.goodgames.com.au/collections/pokemon/pokemontcg",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Kollecter - Pokemon TCG",
+      "url": "https://www.kollecter.com.au/collections/pokemon-tcg",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "TCGroup AU - Pokemon TCG",
+      "url": "https://www.tcgroupau.com.au/collections/pokemon-tcg",
+      "type": "page",
+      "keyword": "30th"
+    },
+    {
+      "name": "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)",
+      "url": "https://www.amazon.com.au/s?k=pokemon+tcg+30th+celebration",
+      "type": "page",
+      "keyword": "30th"
+    }
+  ]
+}

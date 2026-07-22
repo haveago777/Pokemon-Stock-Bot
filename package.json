@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-stock-bot",
+  "version": "1.0.0",
+  "description": "Watches AU retailer pages for Pokemon TCG 30th Celebration stock/preorders and alerts via Telegram.",
+  "main": "checker.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node checker.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
