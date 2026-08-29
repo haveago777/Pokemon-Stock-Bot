@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-08-29T07:22:04.644Z"
+    "checkedAt": "2026-08-29T13:15:54.161Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-08-29T07:22:07.105Z"
+    "checkedAt": "2026-08-29T13:15:57.552Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-08-29T07:22:09.680Z"
+    "checkedAt": "2026-08-29T13:16:00.082Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {},
@@ -17,6 +17,8 @@
   "Target AU - Pokemon TCG search": {},
   "Collectible Madness - Pokemon TCG": {
     "itemUrls": [
+      "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box",
+      "https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box",
       "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-tcg-30th-celebration-mini-tin",
       "https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-mini-tin",
       "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-tcg-30th-celebration-tin",
@@ -36,11 +38,9 @@
       "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
       "https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
       "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-tcg-30th-celebration-poster-collection",
-      "https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-poster-collection",
-      "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products/pokemon-tcg-30th-celebration-binder-collection",
-      "https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-binder-collection"
+      "https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-poster-collection"
     ],
-    "checkedAt": "2026-08-29T07:23:33.989Z"
+    "checkedAt": "2026-08-29T13:17:25.084Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -49,7 +49,7 @@
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
-    "checkedAt": "2026-08-29T07:23:41.397Z"
+    "checkedAt": "2026-08-29T13:17:32.352Z"
   },
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {},
@@ -319,6 +319,6 @@
       "base2",
       "base1"
     ],
-    "checkedAt": "2026-08-29T07:23:50.939Z"
+    "checkedAt": "2026-08-29T13:17:43.188Z"
   }
 }
