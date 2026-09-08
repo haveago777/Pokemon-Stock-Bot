@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Pokemon TCG Stock Bot - Alert History</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0f0f12;
+    color: #e8e8ec;
+    margin: 0;
+    padding: 16px;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1 {
+    font-size: 1.3rem;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #9a9aa5;
+    font-size: 0.85rem;
+    margin-bottom: 20px;
+  }
+  .entry {
+    background: #1a1a1f;
+    border: 1px solid #2a2a32;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+  .entry a {
+    color: #7aa2ff;
+  }
+  .timestamp {
+    color: #7a7a85;
+    font-size: 0.78rem;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .empty {
+    color: #7a7a85;
+    text-align: center;
+    margin-top: 60px;
+  }
+  .error {
+    color: #ff8a8a;
+    text-align: center;
+    margin-top: 60px;
+  }
+</style>
+</head>
+<body>
+  <h1>Pokemon TCG Stock Bot</h1>
+  <div class="subtitle">Alert history - newest first</div>
+  <div id="log"></div>
+
+  <script>
+    async function loadLog() {
+      const logEl = document.getElementById("log");
+      try {
+        const res = await fetch("alerts-log.json?_=" + Date.now());
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const entries = await res.json();
+
+        if (!entries || entries.length === 0) {
+          logEl.innerHTML = '<div class="empty">No alerts yet. This page updates automatically as the bot finds things.</div>';
+          return;
+        }
+
+        logEl.innerHTML = entries
+          .slice()
+          .reverse()
+          .map((e) => {
+            const date = new Date(e.timestamp);
+            const when = date.toLocaleString("en-AU", {
+              dateStyle: "medium",
+              timeStyle: "short",
+            });
+            const escaped = e.message
+              .replace(/&/g, "&amp;")
+              .replace(/</g, "&lt;")
+              .replace(/>/g, "&gt;");
+            const withLinks = escaped
+              .replace(/&lt;b&gt;/g, "<b>")
+              .replace(/&lt;\/b&gt;/g, "</b>")
+              .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+            return (
+              '<div class="entry"><span class="timestamp">' +
+              when +
+              "</span>" +
+              withLinks +
+              "</div>"
+            );
+          })
+          .join("");
+      } catch (err) {
+        logEl.innerHTML = '<div class="error">Couldn\'t load alert history (' + err.message + ')</div>';
+      }
+    }
+    loadLog();
+  </script>
+</body>
+</html>
