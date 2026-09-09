@@ -1,20 +1,20 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-09T19:44:54.047Z"
+    "checkedAt": "2026-09-09T21:59:03.141Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-09T19:44:56.632Z"
+    "checkedAt": "2026-09-09T21:59:05.721Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-09-09T19:44:59.235Z"
+    "checkedAt": "2026-09-09T21:59:08.166Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-09-09T19:45:06.988Z"
+    "checkedAt": "2026-09-09T21:59:16.081Z"
   },
   "Kmart - Pokemon TCG search": {},
   "Target AU - Pokemon TCG search": {
@@ -22,7 +22,7 @@
       "https://www.target.com.au/p/pokemon-3-th-anniversary-battle-figure-multipack/73242727",
       "https://www.target.com.au/p/pokemon-3-th-anniversary-2-cm-pastel-plush-assorted/72817346"
     ],
-    "checkedAt": "2026-09-09T19:45:18.506Z"
+    "checkedAt": "2026-09-09T21:59:26.720Z"
   },
   "Collectible Madness - Pokemon TCG": {
     "products": [
@@ -89,12 +89,12 @@
       {
         "handle": "pokemon-tcg-30th-celebration-figure-collection-mewtwo",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-figure-collection-mew",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-ditto-premium-collection",
@@ -112,7 +112,7 @@
         "price": "$288.00"
       }
     ],
-    "checkedAt": "2026-09-09T19:45:20.725Z"
+    "checkedAt": "2026-09-09T21:59:29.131Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -126,11 +126,11 @@
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-09T19:45:39.167Z"
+    "checkedAt": "2026-09-09T21:59:47.405Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "0",
-    "checkedAt": "2026-09-09T00:09:39.780Z"
+    "checkedAt": "2026-09-09T21:59:49.485Z"
   },
   "_setWatch": {
     "knownSetIds": [
@@ -313,7 +313,7 @@
   },
   "Good Games TCG - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-09T19:45:33.896Z"
+    "checkedAt": "2026-09-09T21:59:42.091Z"
   },
   "Kollecter - 30th Celebration": {
     "products": [
@@ -363,7 +363,7 @@
         "price": "$0.00"
       }
     ],
-    "checkedAt": "2026-09-09T19:45:36.734Z"
+    "checkedAt": "2026-09-09T21:59:44.778Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -439,7 +439,7 @@
         "price": "$29.99"
       }
     ],
-    "checkedAt": "2026-09-09T19:45:52.228Z"
+    "checkedAt": "2026-09-09T21:59:56.756Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "itemUrls": [
@@ -447,12 +447,12 @@
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-futuristic-box",
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-m6a-booster-box"
     ],
-    "checkedAt": "2026-09-09T19:45:54.736Z"
+    "checkedAt": "2026-09-09T21:59:59.228Z"
   },
   "OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)": {},
   "Raptor Games - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:02.459Z"
+    "checkedAt": "2026-09-09T22:00:06.613Z"
   },
   "Gameology - Pokemon Preorders": {
     "products": [
@@ -482,11 +482,11 @@
         "price": "$72.00"
       }
     ],
-    "checkedAt": "2026-09-09T19:46:05.139Z"
+    "checkedAt": "2026-09-09T22:00:09.293Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:07.674Z"
+    "checkedAt": "2026-09-09T22:00:11.719Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "itemUrls": [
@@ -505,35 +505,35 @@
       "https://www.m-g.com.au/product/pokemon-30th-celebration-tech-sticker-blister/",
       "https://www.m-g.com.au/product/pokemon-30th-celebration-ultra-premium-day-night-collection/"
     ],
-    "checkedAt": "2026-09-09T19:46:10.965Z"
+    "checkedAt": "2026-09-09T22:00:14.320Z"
   },
   "Hobbyco - Trading Card Games": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:13.391Z"
+    "checkedAt": "2026-09-09T22:00:16.911Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:16.034Z"
+    "checkedAt": "2026-09-09T22:00:20.272Z"
   },
   "Troll Australia - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:18.376Z"
+    "checkedAt": "2026-09-09T22:00:22.775Z"
   },
   "PokeTrader Australia": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:21.701Z"
+    "checkedAt": "2026-09-09T22:00:25.901Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:24.373Z"
+    "checkedAt": "2026-09-09T22:00:31.635Z"
   },
   "The Card Cave - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:26.977Z"
+    "checkedAt": "2026-09-09T22:00:33.845Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-09T19:46:29.706Z"
+    "checkedAt": "2026-09-09T22:00:37.146Z"
   },
   "_heartbeat": {
     "lastSentDate": "2026-09-09"
