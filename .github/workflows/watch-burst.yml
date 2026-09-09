@@ -1,0 +1,42 @@
+name: Watch Pokemon TCG Stock (Burst Mode)
+
+on:
+  workflow_dispatch: {} # tap "Run workflow" anytime for an instant check
+  schedule:
+    # Every 2 minutes across Sept 15-16 (UTC) - covers the AEST day of the
+    # main 30th Celebration release (Sept 16 in Australia).
+    - cron: "*/2 * 15,16 9 *"
+    # Every 2 minutes across Nov 5-6 (UTC) - covers the AEDT day of the
+    # Ultra Premium Collection release (Nov 6 in Australia).
+    - cron: "*/2 * 5,6 11 *"
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run stock checker (burst mode)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BURST_MODE: "true"
+        run: node checker.js
+
+      - name: Commit updated state
+        run: |
+          git config user.name "stock-bot"
+          git config user.email "stock-bot@users.noreply.github.com"
+          git add state.json docs/alerts-log.json config.json
+          git diff --quiet --cached || git commit -m "Update state (burst) [skip ci]"
+          git push
