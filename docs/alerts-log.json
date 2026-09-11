@@ -22,5 +22,9 @@
   {
     "timestamp": "2026-09-10T18:22:37.400Z",
     "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Pokemon Select 30th Anniversary Glitter Battle Figure - Assorted\n  https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710"
+  },
+  {
+    "timestamp": "2026-09-11T00:49:09.540Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\nNo separate message means nothing new to report today."
   }
 ]
