@@ -1,20 +1,20 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-13T17:37:48.570Z"
+    "checkedAt": "2026-09-13T19:44:09.134Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-13T17:37:51.531Z"
+    "checkedAt": "2026-09-13T19:44:11.585Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-09-13T17:37:53.970Z"
+    "checkedAt": "2026-09-13T19:44:14.121Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-09-13T17:38:02.436Z"
+    "checkedAt": "2026-09-13T19:44:21.918Z"
   },
   "Kmart - Pokemon TCG search": {},
   "Target AU - Pokemon TCG search": {
@@ -23,7 +23,7 @@
       "https://www.target.com.au/p/pokemon-3-th-anniversary-battle-figure-multipack/73242727",
       "https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710"
     ],
-    "checkedAt": "2026-09-13T17:38:15.968Z"
+    "checkedAt": "2026-09-13T19:44:32.463Z"
   },
   "Collectible Madness - Pokemon TCG": {
     "products": [
@@ -113,7 +113,7 @@
         "price": "$286.00"
       }
     ],
-    "checkedAt": "2026-09-13T17:38:18.748Z"
+    "checkedAt": "2026-09-13T19:44:35.035Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -127,7 +127,7 @@
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-13T17:38:38.379Z"
+    "checkedAt": "2026-09-13T19:44:53.448Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "0",
@@ -310,11 +310,11 @@
       "base2",
       "base1"
     ],
-    "checkedAt": "2026-09-13T14:41:19.658Z"
+    "checkedAt": "2026-09-13T19:45:50.213Z"
   },
   "Good Games TCG - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-13T17:38:32.796Z"
+    "checkedAt": "2026-09-13T19:44:48.506Z"
   },
   "Kollecter - 30th Celebration": {
     "products": [
@@ -364,7 +364,7 @@
         "price": "$0.00"
       }
     ],
-    "checkedAt": "2026-09-13T17:38:35.323Z"
+    "checkedAt": "2026-09-13T19:44:50.992Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -440,7 +440,7 @@
         "price": "$29.99"
       }
     ],
-    "checkedAt": "2026-09-13T17:38:52.127Z"
+    "checkedAt": "2026-09-13T19:45:06.541Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "itemUrls": [
@@ -448,12 +448,12 @@
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-futuristic-box",
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-m6a-booster-box"
     ],
-    "checkedAt": "2026-09-13T17:38:54.940Z"
+    "checkedAt": "2026-09-13T19:45:09.134Z"
   },
   "OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)": {},
   "Raptor Games - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:02.818Z"
+    "checkedAt": "2026-09-13T19:45:16.668Z"
   },
   "Gameology - Pokemon Preorders": {
     "products": [
@@ -483,11 +483,11 @@
         "price": "$72.00"
       }
     ],
-    "checkedAt": "2026-09-13T17:39:05.690Z"
+    "checkedAt": "2026-09-13T19:45:19.313Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:08.346Z"
+    "checkedAt": "2026-09-13T19:45:21.766Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "itemUrls": [
@@ -505,35 +505,35 @@
       "https://www.m-g.com.au/product/pokemon-30th-celebration-tech-sticker-blister/",
       "https://www.m-g.com.au/product/pokemon-30th-celebration-ultra-premium-day-night-collection/"
     ],
-    "checkedAt": "2026-09-13T17:39:12.645Z"
+    "checkedAt": "2026-09-13T19:45:24.971Z"
   },
   "Hobbyco - Trading Card Games": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:15.153Z"
+    "checkedAt": "2026-09-13T19:45:27.474Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:17.644Z"
+    "checkedAt": "2026-09-13T19:45:29.988Z"
   },
   "Troll Australia - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:20.250Z"
+    "checkedAt": "2026-09-13T19:45:32.254Z"
   },
   "PokeTrader Australia": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:23.456Z"
+    "checkedAt": "2026-09-13T19:45:35.880Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:26.280Z"
+    "checkedAt": "2026-09-13T19:45:38.631Z"
   },
   "The Card Cave - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:28.952Z"
+    "checkedAt": "2026-09-13T19:45:41.197Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-13T17:39:31.953Z"
+    "checkedAt": "2026-09-13T19:45:43.812Z"
   },
   "_heartbeat": {
     "lastSentDate": "2026-09-13"
