@@ -34,5 +34,9 @@
   {
     "timestamp": "2026-09-12T05:32:10.097Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
+  },
+  {
+    "timestamp": "2026-09-13T00:57:03.959Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\n🧪 Self-test: 12/12 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
