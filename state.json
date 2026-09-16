@@ -1,20 +1,20 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-16T01:44:40.116Z"
+    "checkedAt": "2026-09-16T05:21:34.913Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-09-16T01:44:42.639Z"
+    "checkedAt": "2026-09-16T05:21:36.684Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-09-16T01:44:45.092Z"
+    "checkedAt": "2026-09-16T05:21:34.227Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-09-16T01:44:52.824Z"
+    "checkedAt": "2026-09-16T05:21:34.385Z"
   },
   "Kmart - Pokemon TCG search": {},
   "Target AU - Pokemon TCG search": {
@@ -24,13 +24,13 @@
       "https://www.target.com.au/p/pokemon-3-th-anniversary-battle-figure-multipack/73242727",
       "https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710"
     ],
-    "checkedAt": "2026-09-16T01:45:04.983Z"
+    "checkedAt": "2026-09-16T05:21:50.931Z"
   },
   "Collectible Madness - Pokemon TCG": {
     "products": [
       {
         "handle": "pokemon-japanese-tcg-30th-celebration-m6a-booster-box",
-        "available": true,
+        "available": false,
         "price": "$225.00"
       },
       {
@@ -114,7 +114,7 @@
         "price": "$284.00"
       }
     ],
-    "checkedAt": "2026-09-16T01:45:07.404Z"
+    "checkedAt": "2026-09-16T05:21:35.430Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -128,46 +128,11 @@
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:25.908Z"
+    "checkedAt": "2026-09-16T05:21:34.941Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
-    "itemUrls": [
-      "https://www.amazon.com.au/Pokemon-TCG-30th-Celebration-Poster/dp/B0H77W4411/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-1",
-      "https://www.amazon.com.au/Pokemon-TCG-30th-Celebration-Poster/dp/B0H77W4411/ref=sr_1_1_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-1",
-      "https://www.amazon.com.au/Pokemon-Anniversary-First-Partner-Chinese/dp/B0H82Z5XX1/ref=sr_1_2?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-2",
-      "https://www.amazon.com.au/Pokemon-Anniversary-First-Partner-Chinese/dp/B0H82Z5XX1/ref=sr_1_2_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-2",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Pikachu-V-Union-Box-CS0G/dp/B0FK2BN732/ref=sr_1_3?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-3",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Pikachu-V-Union-Box-CS0G/dp/B0FK2BN732/ref=sr_1_3_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-3",
-      "https://aax-fe.amazon.com.au/x/c/JGf7Bc4KvwaJtGUNBzhMnSsAAAGgp-PwpgcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCOHbnm/clv1c_ek-ABPHXLcTWXmxht18NJxJ0Sk4jVsLPD4lKdL3Cvh_ZDuuLp_YPPpIGlx6VL7xI8o-_cHMYyJNk4PvVgGApr4cHRDd4SxAgALkjIod9in1UDwGtcvkhzzDludaUxnI9-Szzld4NT4XATriEeebFUL-AI5Cfi0WqE8b81xGwiN5fO2kcDexFVWcWpxlMPXGODnm_Tu8Zg8cD5cQ_NU5b9H_zhcmdbGT-jJZcNglm6RssmqBVvI235S0JIySC32KiIUG30LKDv1YlkGmoHqjlDqE78X_HLuzs-uNqW7Y23l_NbZlDeryl9pLSkiY143FVOjSFlqMhT_Ii9LIIGPCmFRvqQUfygz_hqb75VBu5aIewy0Yk1_J_uyukS8ApTHmjmfuFOA5KwKbSTFTuzoJFZXU9RdAiB4s9F9YtU-T3wtflBRlf1v4FSk-yAL81x3HayPDNwcVBejRzb_yVjok8aHGT1ZPHR1K6_TaUS78yELAbazR1aA1yLDimAUBuJhLFmu4zvlG7GiW_LerNqv_TyKyzZH5y8S5JxE7qTtJKEJ0I2Nru1q1O4Od5M6MraaZaJNEZWY_XI-7qCz-IHjOx3WybNReimS54x7KabiGStuyQ4INjNQIuWaPsfPtDLvHh3j0uiz5IJL769yxzt7rsRdTncIlJ8lkgW1Y02dCg37oXthMmPE8mdG6TgG132LwU54ULIU0-ohpCl5oJ6hObcMnoAq2rgUfXrU_1VgChV-Ra1S-TT_MvGHVMLIItVrQ3We9siQ2UGymZcvB8HUXcDCmQCuTycw7qNp0yIEuSZfrGy978R6oX4-QY-zxaZMxGTFZ5Tg5XzQ1QZ459_wsROVj-rceZ3ho1oTHXI-OrTktn4uK4sxJDh28lu098TwUe9tkQcw6ox1LPJ27NOeVKHfqmPbD-GH-Y5EYBoUYs9N-OgVX6Zmo-lg4HrIF-G57rqo9lkRvvYe59ww8qM7A0YspnklQleH74OxkuAYORet0JrrYFEyq_bIm-J-iEE5qMi1S2FW4a88TWZwfe08n2ZdkZ3BXlpgqv0JKZQrm56TRp6n4Z5LvIPWpqFeUxI8NEBNtLtMVnCsp-ATQN-iPgy-XOaBXr1NY7JB6Q6TRzhI8nZtTaNZIdf5fGofmaY9Q-ImZHS6X_rtnOhbyc55vc4luNDiEBUNDxgiGNuzXGsfo_YNWAX2qSCWRifJIbl7-00DsbEwRwDuV7J6E4aHbKGkVW3xlqO82YPrtVxtZzA8RdEAmvAk1rZ172oSoShj7kSV9KHyjj9mEyCNW7RYrnzFfJVZrWKklvvk8Y2AvOrnkngFY7wvoqvztKrWgf4vO_9BLcrztEwVVL1BalfvEfEXpOJv8x4TLLHnYrQ4NLQOSCNQszH0c3DgDaOiDf4JFSp897oxOmfuDJFu_lDF82XYWVGn5oCyXbGAY2GK8EbxakRQM5Q8bGDuqJ3lDC6ZWJeb_wGcFRqC3wgv4EHVxQBQWOj_RkIy9uOv41eLrIdUc18ug_Z0QjLdYt31uI5-BsiZ703BqNN3Weow1Q7xktRHc8__vlU3kApuCyDIEiDb3kK9iAJV_uJADtMfmIPcpWwflevo6YDoAksPSlzifD7kgCODNOUSKlpE6Ecub1hUPibe0N16xcXPCC64o3wzbihQX6Xsw94rcBaFwjFcWTKxr4E79m15rlb5n3AGbzIkmyapvF8Dym_HvcCA/https://www.amazon.com.au/Homotte-Trading-Standard-Collection-Protection/dp/B09YXSL6L6/ref=sxin_14_sbv_search_btf?content-id=amzn1.sym.34d6b0bd-f044-45c5-94c2-2b14f3964e4c%3Aamzn1.sym.34d6b0bd-f044-45c5-94c2-2b14f3964e4c&cv_ct_cx=pokemon+tcg+30th+celebration&keywords=pokemon+tcg+30th+celebration&pd_rd_i=B09YXSL6L6&pd_rd_r=7cf4a905-d53e-49cd-aae8-eba02bd2169c&pd_rd_w=ZktIF&pd_rd_wg=zzIiz&pf_rd_p=34d6b0bd-f044-45c5-94c2-2b14f3964e4c&pf_rd_r=9SMCRZNBREX7Z989BAY3&qid=1789523128&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-0a53d72a-e58c-4324-b739-134d51de9f78",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Celebrations-Pikachu-Anniversary-Surprise/dp/B09JMF3M1P/ref=sr_1_4?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-4",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Celebrations-Pikachu-Anniversary-Surprise/dp/B09JMF3M1P/ref=sr_1_4_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-4",
-      "https://www.amazon.com.au/Takara-Pokemon-Anniversary-Moncolle-Legends/dp/B0HG8T9QR5/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-5",
-      "https://www.amazon.com.au/Takara-Pokemon-Anniversary-Moncolle-Legends/dp/B0HG8T9QR5/ref=sr_1_5_so_TOY_FIGURE?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-5",
-      "https://www.amazon.com.au/Takara-Pok%C3%A9mon-Anniversary-Moncolle-Travel/dp/B0GG8RPTFL/ref=sr_1_6?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-6",
-      "https://www.amazon.com.au/Takara-Pok%C3%A9mon-Anniversary-Moncolle-Travel/dp/B0GG8RPTFL/ref=sr_1_6_so_TOY_FIGURE?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-6",
-      "https://www.amazon.com.au/Pokemon-Greninja-SWSH144-Celebrations-Anniversary/dp/B0BJKHCPP8/ref=sr_1_7?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-7",
-      "https://www.amazon.com.au/Pokemon-Greninja-SWSH144-Celebrations-Anniversary/dp/B0BJKHCPP8/ref=sr_1_7_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-7",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Anniversary-Celebrations-Duplicates-Guaranteed/dp/B09RCDMWZG/ref=sr_1_8?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-8",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Anniversary-Celebrations-Duplicates-Guaranteed/dp/B09RCDMWZG/ref=sr_1_8_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-8",
-      "https://www.amazon.com.au/Pokemon-TCG-2025-Mini-Portfolio/dp/B0DXTZL4Y2/ref=sr_1_9?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-9",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Celebrations-Venusaur-Anniversary-Surprise/dp/B09JMFQHD7/ref=sr_1_10?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-10",
-      "https://www.amazon.com.au/Pok%C3%A9mon-Celebrations-Venusaur-Anniversary-Surprise/dp/B09JMFQHD7/ref=sr_1_10_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-10",
-      "https://www.amazon.com.au/Pokemon-Trading-Album-Pockets-Capacity/dp/B0G1RMNZG2/ref=sr_1_11?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-11",
-      "https://www.amazon.com.au/International-BIRTHDAY-Celebrations-COLLECTION-Multicolored/dp/B09MMHDQ17/ref=sr_1_12?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-12",
-      "https://www.amazon.com.au/International-BIRTHDAY-Celebrations-COLLECTION-Multicolored/dp/B09MMHDQ17/ref=sr_1_12_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-12",
-      "https://www.amazon.com.au/Pokemon-Scizor-Full-Ultra-Rare/dp/B08F3ZX7YX/ref=sr_1_13?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-13",
-      "https://www.amazon.com.au/Pokemon-Scizor-Full-Ultra-Rare/dp/B08F3ZX7YX/ref=sr_1_13_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-13",
-      "https://www.amazon.com.au/VIPPKM-Card-Set-Compatible-Including/dp/B0FV883SGC/ref=sr_1_14?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-14",
-      "https://www.amazon.com.au/VIPPKM-Card-Set-Compatible-Including/dp/B0FV883SGC/ref=sr_1_14_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-14",
-      "https://www.amazon.com.au/BANDAI-PC50465-Coleccionables-Pok%C3%A9mon-Information/dp/B0D6WJH3SN/ref=sr_1_15?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-15",
-      "https://www.amazon.com.au/BANDAI-PC50465-Coleccionables-Pok%C3%A9mon-Information/dp/B0D6WJH3SN/ref=sr_1_15_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-15",
-      "https://www.amazon.com.au/RiTeDei-Beautiful-Elegant-Characters-Dimensional/dp/B0GG9C7TKG/ref=sr_1_16?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-16",
-      "https://www.amazon.com.au/RiTeDei-Beautiful-Elegant-Characters-Dimensional/dp/B0GG9C7TKG/ref=sr_1_16_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-16",
-      "https://www.amazon.com.au/Takara-Tomy-Pok%C3%A9mon-Moncolle-Strinder/dp/B0GQ3M2LS3/ref=sr_1_17?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-17",
-      "https://www.amazon.com.au/Takara-Tomy-Pok%C3%A9mon-Moncolle-Strinder/dp/B0GQ3M2LS3/ref=sr_1_17_so_TOY_FIGURE?dib=eyJ2IjoiMSJ9.iST4tviCcBZMpPG_hvFUxfbXwSnfK46_kCdmpEFXKaojPsyk3cihvxmT816nQf_sZxGI6VAlabDHMLFVYMeH73bR67jBeDIE_QnuoejTtK3WMtWSFtbKrbxzEAMuaD_0qgIASkofvKt9buzyBcCKjGso6VRZf_58mq25EsrlUVnYJG8qv15vW9xOnlQgkrolp7Mm4bXFG3AQ-CPHaUMtmQtWDHe7Hn1-R7Cys0CnyPs1MQ85fBDzgMNh6twSQWEA.afxzUA4JthzdYBqxFGxFhP5gorwuf72_blh_nJ0ZsL4&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1789523128&sr=8-17",
-      "https://aax-fe.amazon.com.au/x/c/JEN8z1JnXgazgpc9H1V3ckYAAAGgp-PwqAcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBsnXVp/clv1c_ek-wBPfXbcbaXw5XYzvPPx-2U8BARJzUGPMP5jL_tgFx4zxWFZAoL28y4pTh2GYB99mINDMMFoccnMWygPkBp4NnETB94oF3ouSqrww9qckj38QhGvmGyvnr5uH0JH08rSgLjJr-j4TsLEyq6FYO2Xras5FcllLsmiTInxZrzpwKcRt9XM8Uls6Hq4M_AuuFImY0CFtJNzfoFGb7LEH6QooDGd0dh8I6OJ4Pq3zhszKl6GDSJV-3ufA8SJ-XQfBpzqdh53J7IWiQGfkH9TOx3ioCeucTxXDNg0W1Tp8T-jQIeJ7FXf0BDFMokyOMSTiO0vwn1AJxcqqZ-zhcPaa8gtgPS2fX2obR8UmAVvQqyb2W2hdD8ld9S6_YS31s-KBRMdmY_lpSmIFE_QQWbTIP9JmT7p6_oapg55_DoBWMIhHSyz8QoVpdBYNDFBddcWrWi-qPwd0Ruve76L2r-WGqmF55Is8oL5KuRO2wPr9kwBmj1xSMfw2fSLDCFQf4t5kHXQ56AKPKyAbRj95fmS4xNBHnslraN6jNIiE3dFw6cwRo3foJv-Vx3xPt_EnwzRNry1QiqRO3MNieR1rgemrD5GrbWnS8jOhGMNgQ1GKYdqjLeeuf2E8DQD3vwuPHcE1iEkcZqrmA86BLeknBvzhwms059FW_dqAmDfSr5b8A0JzATEuE8KQDsHZR3kEJr5QeVS-vNb5SsEt6s5y864bbUFM5smZd84xLIoPlbbcxA4gxncj8ORaRlmBUZkRFbTruXzJexeInV95T5BXZDT8TLJV6phwhXB6dxK5nrL0ED_tyFulYCJTZ8-1v_Bfr_W2DrbJqiN1dsA1E1cnVrJqm5n4stqmIHaAZ4DpOp2wYhAfsbwX8eOt8VxcoQi1VHQx_SiO5nklKsh26Ty9QbYy1otFrW5H7nGmkYIgILp9U8LtWyp_xmvV9hRHAdADDsFzEBl5B363iS0seZeIxoDq0Lf8vqYksDmXj0L7eV6LIKSQmDTteJF8V6TqsL-RVjgqmWhs-z05be-MVtJroEpe4hAAyCxcXShp0IwuxQ1kgbm0IegCWsLZXeX35rUvtGwbLg9gB1dZHxfQhYokuEmapoEKjQu9VL-BmrVZiXVMzUlCMis4sPyyMrEURCTrqOMuE6YDXNgNt7LBrtgHroHEjT0lGONn5OLNG5IYoT9nz1f0jg1L_VqVyrL1h4yHB0DyEAQRO32N8CoAMFpsX4yvMg-1ut350EpxNPMfkNc9KD9me3CbM7kCTfMVFS0ciQhOKokGrtVVZ7ExZYrQUcU1f4uDRxw3biSJQU-wl7w8Svsu3evos2dtsoARWvYYHPtrkVHbmPgBftUFCKrXxdcw8PYEjQQkw-4GCMeoMWcdaKAiSzgNil0d_MhVaRMdfgXCiXfib6Re3iSKsQR1AidXJcw-4f3VJH3EjNQ5_5VPAMpuQWpWojUaPYEDVui7fr5IEH19fkLRU-0G9_lIRqCOUA-lhEmmBd0ij90JMPAacIzT1yLXGes9AvLRL3QJgHHY_6Vmm02uODuZVqsLRbh0Y2bXNWBHH930dssZFSjeE4gAKdAuzTQfImE5is2BbBbTcfwQnCxLR_XsKo2554QRZkIqBSJXPuI44xfbrf-QnyUiKmNtiux12HSFFQRGTbZx7kq1AMzCVFIgDx_MOFg1vWsODzBwAFrUYUtBLR7hKxzL0h3naUg/https://www.amazon.com.au/Premium-Zippered-Trading-Card-Binder/dp/B0DXQ24ZNJ/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.8eb261fa-1e69-4ee6-b364-1076a07311af%3Aamzn1.sym.8eb261fa-1e69-4ee6-b364-1076a07311af&cv_ct_cx=pokemon+tcg+30th+celebration&keywords=pokemon+tcg+30th+celebration&pd_rd_i=B0DXQ24ZNJ&pd_rd_r=41597ba9-b94e-4f74-85bb-9b514b762598&pd_rd_w=GoDRa&pd_rd_wg=OLLNx&pf_rd_p=8eb261fa-1e69-4ee6-b364-1076a07311af&pf_rd_r=9SMCRZNBREX7Z989BAY3&qid=1789523128&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-44a6c796-1229-4ca3-bc21-478569de6f28"
-    ],
-    "checkedAt": "2026-09-16T01:45:29.305Z"
+    "hash": "0",
+    "checkedAt": "2026-09-16T05:21:34.543Z"
   },
   "_setWatch": {
     "knownSetIds": [
@@ -346,11 +311,11 @@
       "base2",
       "base1"
     ],
-    "checkedAt": "2026-09-15T23:46:08.276Z"
+    "checkedAt": "2026-09-16T05:21:52.690Z"
   },
   "Good Games TCG - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:20.917Z"
+    "checkedAt": "2026-09-16T05:21:38.272Z"
   },
   "Kollecter - 30th Celebration": {
     "products": [
@@ -395,7 +360,7 @@
         "price": "$0.00"
       }
     ],
-    "checkedAt": "2026-09-16T01:45:23.395Z"
+    "checkedAt": "2026-09-16T05:21:38.122Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -471,7 +436,7 @@
         "price": "$29.99"
       }
     ],
-    "checkedAt": "2026-09-16T01:45:36.796Z"
+    "checkedAt": "2026-09-16T05:21:36.187Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "itemUrls": [
@@ -479,12 +444,12 @@
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-futuristic-box",
       "https://www.puckandson.com.au/product-page/preorder-pok%C3%A9mon-tcg-japanese--30th-celebration-m6a-booster-box"
     ],
-    "checkedAt": "2026-09-16T01:45:39.468Z"
+    "checkedAt": "2026-09-16T05:21:35.108Z"
   },
   "OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)": {},
   "Raptor Games - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:47.197Z"
+    "checkedAt": "2026-09-16T05:21:35.144Z"
   },
   "Gameology - Pokemon Preorders": {
     "products": [
@@ -496,7 +461,7 @@
       {
         "handle": "pokemon-tcg-30th-celebration-elite-trainer-box",
         "available": false,
-        "price": "$150.00"
+        "price": "$151.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-knock-out-collection",
@@ -514,11 +479,11 @@
         "price": "$71.00"
       }
     ],
-    "checkedAt": "2026-09-16T01:45:49.819Z"
+    "checkedAt": "2026-09-16T05:21:35.849Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:52.457Z"
+    "checkedAt": "2026-09-16T05:21:35.339Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "itemUrls": [
@@ -536,327 +501,97 @@
       "https://www.m-g.com.au/product/pokemon-30th-celebration-tech-sticker-blister/",
       "https://www.m-g.com.au/product/pokemon-30th-celebration-ultra-premium-day-night-collection/"
     ],
-    "checkedAt": "2026-09-16T01:45:55.089Z"
+    "checkedAt": "2026-09-16T05:21:35.520Z"
   },
   "Hobbyco - Trading Card Games": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:57.432Z"
+    "checkedAt": "2026-09-16T05:21:36.203Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "products": [],
-    "checkedAt": "2026-09-16T01:45:59.898Z"
+    "checkedAt": "2026-09-16T05:21:35.710Z"
   },
   "Troll Australia - Pokemon TCG": {
     "products": [
       {
-        "handle": "mewtwo-ex-157-128-me-30th-celebration-30c",
+        "handle": "ditto-106-30th-celebration-106-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$36.00"
+      },
+      {
+        "handle": "victini-102-30th-celebration-102-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$118.00"
+      },
+      {
+        "handle": "zeraora-103-30th-celebration-103-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$118.00"
+      },
+      {
+        "handle": "nidorina-101-30th-celebration-pokemon-center-exclusive-101-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$353.00"
+      },
+      {
+        "handle": "greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep",
         "available": true,
-        "price": "$974.00"
+        "price": "$24.00"
       },
       {
-        "handle": "mew-ex-158-128-me-30th-celebration-30c",
+        "handle": "nidorina-101-30th-celebration-101-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$22.00"
+      },
+      {
+        "handle": "umbreon-ex-110-30th-celebration-110-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$587.00"
+      },
+      {
+        "handle": "espeon-ex-108-30th-celebration-108-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$587.00"
+      },
+      {
+        "handle": "pikachu-ex-107-30th-celebration-107-me-mega-evolution-promo-mep",
+        "available": false,
+        "price": "$587.00"
+      },
+      {
+        "handle": "lucario-095-30th-celebration-095-me-mega-evolution-promo-mep",
         "available": true,
-        "price": "$2122.00"
+        "price": "$12.00"
       },
       {
-        "handle": "pikachu-me-30th-celebration-30c-12",
+        "handle": "pikachu-ex-109-30th-celebration-109-me-mega-evolution-promo-mep",
         "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-11",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-10",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-9",
-        "available": false,
-        "price": "$52.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-8",
-        "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-7",
-        "available": false,
-        "price": "$81.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-6",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-5",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-4",
-        "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-3",
-        "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-2",
-        "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c-1",
-        "available": false,
-        "price": "$57.00"
-      },
-      {
-        "handle": "pikachu-me-30th-celebration-30c",
-        "available": false,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-031-128-me-30th-celebration-30c",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "moltres-130-128-me-30th-celebration-30c",
-        "available": true,
-        "price": "$28.00"
-      },
-      {
-        "handle": "scraggy-140-128-me-30th-celebration-30c",
-        "available": true,
-        "price": "$67.00"
-      },
-      {
-        "handle": "sylveon-ex-153-128-me-30th-celebration-30c",
-        "available": false,
-        "price": "$493.00"
-      },
-      {
-        "handle": "pikachu-051-128-me-30th-celebration-30c",
-        "available": false,
-        "price": "$56.00"
-      },
-      {
-        "handle": "pikachu-029-128-me-30th-celebration-30c",
-        "available": false,
-        "price": "$79.00"
-      },
-      {
-        "handle": "greninja-ex-148-128-me-30th-celebration-30c",
-        "available": true,
-        "price": "$382.00"
-      },
-      {
-        "handle": "alolan-exeggutor-129-128-me-30th-celebration-30c",
-        "available": false,
-        "price": "$102.00"
-      },
-      {
-        "handle": "chandelure-137-128-me-30th-celebration-30c",
-        "available": true,
-        "price": "$59.00"
-      },
-      {
-        "handle": "pikachu-58-102-me-30th-celebration-classic-collection-30c",
-        "available": false,
-        "price": "$270.00"
-      },
-      {
-        "handle": "sneasel-25-111-me-30th-celebration-classic-collection-30c",
-        "available": false,
-        "price": "$279.00"
-      },
-      {
-        "handle": "darkrai-cresselia-legend-bottom-100-102-me-30th-celebration-classic-collection-30c",
-        "available": false,
-        "price": "$197.00"
-      },
-      {
-        "handle": "mew-vmax-114-264-me-30th-celebration-classic-collection-30c",
-        "available": true,
-        "price": "$110.00"
+        "price": "$353.00"
       }
     ],
-    "checkedAt": "2026-09-16T01:46:03.000Z"
+    "checkedAt": "2026-09-16T05:21:37.037Z"
   },
   "PokeTrader Australia": {
     "products": [],
-    "checkedAt": "2026-09-16T01:46:05.865Z"
+    "checkedAt": "2026-09-16T05:21:37.337Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-09-16T01:46:08.519Z"
+    "checkedAt": "2026-09-16T05:21:36.517Z"
   },
   "The Card Cave - Pokemon": {
     "products": [
       {
-        "handle": "pokemon-tcg-mew-vmax-114-264-me-30th-celebration-classic-collection-classic-collection",
+        "handle": "pokemon-tcg-30th-anniversary-booster-pack",
         "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-solgaleo-gx-089-149-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-metagross-delta-species-011-113-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-raikou-050-185-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-genesect-ex-team-plasma-011-101-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-buzzwole-gx-057-111-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-misty-018-132-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-shining-celebi-106-105-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-dark-tyranitar-019-109-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-darkrai-cresselia-legend-top-099-102-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-darkrai-cresselia-legend-bottom-100-102-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-uxie-043-146-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-magikarp-203-193-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-scizor-ex-108-115-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-gengar-prime-094-102-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-m-gardevoir-ex-106-160-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-delcatty-005-109-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-palkia-lv-x-106-106-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-greninja-break-041-122-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-zacian-v-138-202-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-sneasel-025-111-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-n-101-101-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-erikas-jigglypuff-069-132-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-pikachu-058-102-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-rayquaza-ex-085-124-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-arceus-vstar-123-172-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-crobat-g-047-127-me-30th-celebration-classic-collection-classic-collection",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-mewtwo-063-128-me-30th-celebration-rare",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-snorlax-119-128-me-30th-celebration-null",
-        "available": false,
-        "price": "$0.00"
-      },
-      {
-        "handle": "pokemon-tcg-hakamo-o-111-128-me-30th-celebration-null",
-        "available": false,
-        "price": "$0.00"
+        "price": "$14.99"
       }
     ],
-    "checkedAt": "2026-09-16T01:46:11.604Z"
+    "checkedAt": "2026-09-16T05:21:36.744Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [],
-    "checkedAt": "2026-09-16T01:46:14.044Z"
+    "checkedAt": "2026-09-16T05:21:37.453Z"
   },
   "_heartbeat": {
     "lastSentDate": "2026-09-16"
@@ -926,6 +661,18 @@
     "The Card Cave - Pokemon::pokemon-tcg-crobat-g-047-127-me-30th-celebration-classic-collection-classic-collection::new": 1789523171604,
     "The Card Cave - Pokemon::pokemon-tcg-mewtwo-063-128-me-30th-celebration-rare::new": 1789523171604,
     "The Card Cave - Pokemon::pokemon-tcg-snorlax-119-128-me-30th-celebration-null::new": 1789523171604,
-    "The Card Cave - Pokemon::pokemon-tcg-hakamo-o-111-128-me-30th-celebration-null::new": 1789523171604
+    "The Card Cave - Pokemon::pokemon-tcg-hakamo-o-111-128-me-30th-celebration-null::new": 1789523171604,
+    "The Card Cave - Pokemon::pokemon-tcg-30th-anniversary-booster-pack::new": 1789536096744,
+    "Troll Australia - Pokemon TCG::ditto-106-30th-celebration-106-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::victini-102-30th-celebration-102-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::zeraora-103-30th-celebration-103-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::nidorina-101-30th-celebration-pokemon-center-exclusive-101-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::nidorina-101-30th-celebration-101-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::umbreon-ex-110-30th-celebration-110-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::espeon-ex-108-30th-celebration-108-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::pikachu-ex-107-30th-celebration-107-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::lucario-095-30th-celebration-095-me-mega-evolution-promo-mep::new": 1789536097037,
+    "Troll Australia - Pokemon TCG::pikachu-ex-109-30th-celebration-109-me-mega-evolution-promo-mep::new": 1789536097037
   }
 }
