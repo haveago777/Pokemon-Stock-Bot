@@ -1,0 +1,44 @@
+name: Watch Pokemon TCG Stock
+
+on:
+  schedule:
+    # Every 5 minutes - GitHub's documented floor for scheduled workflows;
+    # writing anything tighter than this isn't actually honored by GitHub.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Send a one-off test Telegram message instead of checking sites (use this to confirm Telegram works)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run stock checker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TEST_ALERT: ${{ github.event.inputs.test_alert }}
+        run: node checker.js
+
+      - name: Commit updated state
+        run: |
+          git config user.name "stock-bot"
+          git config user.email "stock-bot@users.noreply.github.com"
+          git add state.json docs/alerts-log.json config.json
+          git diff --quiet --cached || git commit -m "Update state [skip ci]"
+          git push
