@@ -62,5 +62,13 @@
   {
     "timestamp": "2026-09-15T22:56:06.693Z",
     "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2119.00 (was $2120.00)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
+  },
+  {
+    "timestamp": "2026-09-16T00:52:36.578Z",
+    "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Mewtwo ex (157/128) (ME: 30th Celebration) (30C) — $1025.00 (was $1026.00)\n  https://www.trollaustralia.com.au/products/mewtwo-ex-157-128-me-30th-celebration-30c\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2118.00 (was $2119.00)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
+  },
+  {
+    "timestamp": "2026-09-16T00:52:49.791Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n21 source(s) reachable, 9 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Target AU - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\n🧪 Self-test: 12/12 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
