@@ -118,5 +118,9 @@
   {
     "timestamp": "2026-09-17T01:43:05.222Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-17T06:43:37.432Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nTroll Australia - Pokemon TCG\n\n• Mew - G/RGB (G/RGB) (ME: 30th Celebration) (30C) — $7251.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/mew-g-rgb-g-rgb-me-30th-celebration-30c\n• Mew - R/RGB (R/RGB) (ME: 30th Celebration) (30C) — $7251.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/mew-r-rgb-r-rgb-me-30th-celebration-30c\n• Mew - B/RGB (B/RGB) (ME: 30th Celebration) (30C) — $7251.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/mew-b-rgb-b-rgb-me-30th-celebration-30c"
   }
 ]
