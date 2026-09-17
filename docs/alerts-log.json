@@ -110,5 +110,13 @@
   {
     "timestamp": "2026-09-16T23:40:29.154Z",
     "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Greninja ex - 099 (30th Celebration) (099) (ME: Mega Evolution Promo) (MEP) — $12.00 (was $16.25)\n  https://www.trollaustralia.com.au/products/greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep\n• Lucario - 095 (30th Celebration) (095) (ME: Mega Evolution Promo) (MEP) — $12.00 (was $16.25)\n  https://www.trollaustralia.com.au/products/lucario-095-30th-celebration-095-me-mega-evolution-promo-mep"
+  },
+  {
+    "timestamp": "2026-09-17T01:43:04.673Z",
+    "message": "📣 <b>New Pokémon TCG set announced</b>\n\n• 30th Celebration: Classic Collection (Mega Evolution) — release 2026/09/16\n• 30th Celebration (Mega Evolution) — release 2026/09/16\n\n✅ Automatically added to activeSets - now tracking these sets across all retailers."
+  },
+  {
+    "timestamp": "2026-09-17T01:43:05.222Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
