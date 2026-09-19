@@ -138,5 +138,9 @@
   {
     "timestamp": "2026-09-19T00:36:11.594Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-19T09:25:37.258Z",
+    "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Greninja ex - 099 (30th Celebration) (099) (ME: Mega Evolution Promo) (MEP) — $2.00 (was $3.00)\n  https://www.trollaustralia.com.au/products/greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep"
   }
 ]
