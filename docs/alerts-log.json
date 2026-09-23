@@ -154,5 +154,9 @@
   {
     "timestamp": "2026-09-22T01:52:49.783Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-23T01:26:27.864Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
