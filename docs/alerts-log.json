@@ -182,5 +182,13 @@
   {
     "timestamp": "2026-09-24T19:29:00.562Z",
     "message": "🆕 <b>New listing(s) detected</b>\nGood Games TCG - Pokemon\n\n• Mew (G/RGB) [Mega Evolution: 30th Celebration] — $4653.00 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-g-rgb-mega-evolution-30th-celebration\n• Mew (B/RGB) [Mega Evolution: 30th Celebration] — $4139.20 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-b-rgb-mega-evolution-30th-celebration\n• Mew (R/RGB) [Mega Evolution: 30th Celebration] — $6591.30 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-r-rgb-mega-evolution-30th-celebration"
+  },
+  {
+    "timestamp": "2026-09-25T00:53:38.769Z",
+    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $228.00 (was $229.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
+  },
+  {
+    "timestamp": "2026-09-25T00:53:42.124Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
