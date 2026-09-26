@@ -198,5 +198,9 @@
   {
     "timestamp": "2026-09-26T00:57:18.498Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-26T11:16:06.059Z",
+    "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   }
 ]
