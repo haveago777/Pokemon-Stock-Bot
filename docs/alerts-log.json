@@ -210,5 +210,9 @@
   {
     "timestamp": "2026-09-27T01:55:36.984Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-27T20:36:27.213Z",
+    "message": "💰 <b>Price drop</b>\nGameology - Pokemon Preorders\n\n• Pokemon TCG 30th Anniversary Celebration Futuristic Box Japanese — $574.00 (was $575.00)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-futuristic-box-japanese"
   }
 ]
