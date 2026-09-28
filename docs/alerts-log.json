@@ -218,5 +218,13 @@
   {
     "timestamp": "2026-09-27T23:24:07.679Z",
     "message": "💰 <b>Price drop</b>\nGameology - Pokemon Preorders\n\n• Pokemon TCG 30th Anniversary Celebration Futuristic Box Japanese — $573.00 (was $574.00)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-futuristic-box-japanese"
+  },
+  {
+    "timestamp": "2026-09-28T01:51:01.618Z",
+    "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
+  },
+  {
+    "timestamp": "2026-09-28T01:51:04.221Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
