@@ -234,5 +234,13 @@
   {
     "timestamp": "2026-09-28T16:39:13.959Z",
     "message": "🆕 <b>New listing(s) detected</b>\nCard Traders Australia - Pokemon Sealed\n\n• Pokemon Korean M6a 30th Celebrations 30th Anniversary Celebration Booster Box — $240.00 (in stock)\n  https://cardtradersaustralia.com.au/products/pokemon-korean-m6a-30th-celebrations-30th-anniversary-celebration-booster-box"
+  },
+  {
+    "timestamp": "2026-09-29T02:04:03.374Z",
+    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00 (was $230.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
+  },
+  {
+    "timestamp": "2026-09-29T02:04:08.916Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
