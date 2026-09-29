@@ -242,5 +242,13 @@
   {
     "timestamp": "2026-09-29T02:04:08.916Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-29T08:23:21.454Z",
+    "message": "🚨 <b>Back in stock</b>\nGameology - Pokemon Preorders\n\n• Pokemon TCG 30th Anniversary Celebration Booster Box M6a Japanese — $260.00\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-booster-box-m6a-japanese\n• Pokemon TCG 30th Anniversary Celebration Futuristic Box Japanese — $658.00\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-futuristic-box-japanese"
+  },
+  {
+    "timestamp": "2026-09-29T08:23:21.502Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• Pokemon Center Exclusive | 30th Celebration Double Deck Box — $40.00 (in stock)\n  https://raptorgames.com/products/pokemon-center-exclusive-30th-celebration-double-deck-box\n• Pokemon Center Exclusive | 30th Celebration Card Sleeves (65 Sleeves) — $25.00 (in stock)\n  https://raptorgames.com/products/pokemon-center-exclusive-30th-celebration-card-sleeves-65-sleeves\n• [Chinese] 30th Anniversary Celebration Pokemon TCG Booster Box — $180.00 (in stock)\n  https://raptorgames.com/products/30th-anniversary-celebration-booster-box-simplified-chinese-pokemon-tcg\n• [Chinese] 30th Anniversary Celebration Pokemon TCG Booster Pack — $10.00 (in stock)\n  https://raptorgames.com/products/chinese-30th-anniversary-celebration-pokemon-tcg-booster-pack"
   }
 ]
