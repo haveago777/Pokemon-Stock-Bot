@@ -262,5 +262,9 @@
   {
     "timestamp": "2026-09-30T02:18:40.644Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-09-30T08:44:45.478Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• PREORDER PICK UP ONLY: Pokemon TCG: 30th Celebration Booster Bundle — $100.00 (in stock)\n  https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-booster-bundle\n• PREORDER PICK UP ONLY: Pokemon TCG: 30th Celebration Mini Tin — $50.00 (in stock)\n  https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-mini-tin"
   }
 ]
