@@ -306,5 +306,9 @@
   {
     "timestamp": "2026-10-02T01:07:51.200Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-02T06:59:41.070Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Connections from Hallmark 30th Birthday Card - 30 Today!\n  https://www.target.com.au/p/connections-from-hallmark-3-th-birthday-card-3-today/71570211"
   }
 ]

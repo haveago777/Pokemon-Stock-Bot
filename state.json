@@ -1,38 +1,37 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-02T01:07:41.420Z"
+    "checkedAt": "2026-10-02T06:59:36.298Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-02T01:07:44.888Z"
+    "checkedAt": "2026-10-02T06:59:37.628Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-10-02T01:07:41.224Z"
+    "checkedAt": "2026-10-02T06:59:36.202Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-02T01:07:41.286Z"
+    "checkedAt": "2026-10-02T06:59:36.344Z"
   },
   "Kmart - Pokemon TCG search": {},
   "Target AU - Pokemon TCG search": {
     "itemUrls": [
-      "https://www.target.com.au/p/pokemon-tcg-3-th-celebration-booster-bundle-assorted/73301516",
-      "https://www.target.com.au/p/pokemon-tcg-3-th-celebration-mini-tin-assorted/73301691",
       "https://www.target.com.au/p/pokemon-3-th-anniversary-2-cm-pastel-plush-assorted/72817346",
       "https://www.target.com.au/p/pokemon-3-th-anniversary-battle-figure-multipack/73242727",
-      "https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710"
+      "https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710",
+      "https://www.target.com.au/p/connections-from-hallmark-3-th-birthday-card-3-today/71570211"
     ],
-    "checkedAt": "2026-10-02T01:07:48.303Z"
+    "checkedAt": "2026-10-02T06:59:41.071Z"
   },
   "Collectible Madness - Pokemon TCG": {
     "products": [
       {
         "handle": "pokemon-japanese-tcg-30th-celebration-m6a-booster-box",
         "available": true,
-        "price": "$229.00"
+        "price": "$230.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-mini-tin",
@@ -42,7 +41,7 @@
       {
         "handle": "pokemon-tcg-30th-celebration-tin",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-tech-sticker-collection",
@@ -52,7 +51,7 @@
       {
         "handle": "pokemon-tcg-30th-celebration-booster-bundle",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-battle-deck-umbreon-ex",
@@ -72,12 +71,12 @@
       {
         "handle": "pokemon-tcg-30th-celebration-greninja-ex-box",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-sylveon-ex-box",
         "available": false,
-        "price": "$53.00"
+        "price": "$54.00"
       },
       {
         "handle": "pokemon-tcg-30th-celebration-poster-collection",
@@ -90,7 +89,7 @@
         "price": "$57.00"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:44.975Z"
+    "checkedAt": "2026-10-02T06:59:36.024Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -104,7 +103,7 @@
   "Kollecter - Pokemon TCG": {},
   "TCGroup AU - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:42.398Z"
+    "checkedAt": "2026-10-02T06:59:36.762Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "itemUrls": [
@@ -364,11 +363,11 @@
       "base2",
       "base1"
     ],
-    "checkedAt": "2026-10-02T01:07:50.889Z"
+    "checkedAt": "2026-10-02T06:59:42.352Z"
   },
   "Good Games TCG - Pokemon": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:42.041Z"
+    "checkedAt": "2026-10-02T06:59:36.764Z"
   },
   "Kollecter - 30th Celebration": {
     "products": [
@@ -413,7 +412,7 @@
         "price": "$0.00"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:42.034Z"
+    "checkedAt": "2026-10-02T06:59:36.399Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -489,22 +488,16 @@
         "price": "$29.99"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:42.764Z"
+    "checkedAt": "2026-10-02T06:59:36.766Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
-    "checkedAt": "2026-10-02T01:07:42.756Z"
+    "checkedAt": "2026-10-02T06:59:36.754Z"
   },
   "OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)": {},
   "Raptor Games - Pokemon": {
-    "products": [
-      {
-        "handle": "raptor-games-gundam-card-game-stardust-trails-gd06-release-event-friday-30th-october-7pm",
-        "available": true,
-        "price": "$50.00"
-      }
-    ],
-    "checkedAt": "2026-10-02T01:07:42.762Z"
+    "products": [],
+    "checkedAt": "2026-10-02T06:59:36.760Z"
   },
   "Gameology - Pokemon Preorders": {
     "products": [
@@ -529,11 +522,11 @@
         "price": "$73.00"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:43.209Z"
+    "checkedAt": "2026-10-02T06:59:36.946Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:43.228Z"
+    "checkedAt": "2026-10-02T06:59:37.002Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "itemUrls": [
@@ -552,11 +545,11 @@
       "https://www.m-g.com.au/product/pokemon-30th-celebration-tech-sticker-blister/",
       "https://www.m-g.com.au/product/pokemon-30th-celebration-ultra-premium-day-night-collection/"
     ],
-    "checkedAt": "2026-10-02T01:07:43.604Z"
+    "checkedAt": "2026-10-02T06:59:37.828Z"
   },
   "Hobbyco - Trading Card Games": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:43.678Z"
+    "checkedAt": "2026-10-02T06:59:37.024Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "products": [
@@ -566,23 +559,23 @@
         "price": "$240.00"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:43.731Z"
+    "checkedAt": "2026-10-02T06:59:37.024Z"
   },
   "Troll Australia - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:43.860Z"
+    "checkedAt": "2026-10-02T06:59:37.018Z"
   },
   "PokeTrader Australia": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:44.894Z"
+    "checkedAt": "2026-10-02T06:59:37.506Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:44.443Z"
+    "checkedAt": "2026-10-02T06:59:37.242Z"
   },
   "The Card Cave - Pokemon": {
     "products": [],
-    "checkedAt": "2026-10-02T01:07:44.649Z"
+    "checkedAt": "2026-10-02T06:59:37.359Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [
@@ -592,7 +585,7 @@
         "price": "$10.00"
       }
     ],
-    "checkedAt": "2026-10-02T01:07:45.134Z"
+    "checkedAt": "2026-10-02T06:59:37.748Z"
   },
   "_heartbeat": {
     "lastSentDate": "2026-10-02"
@@ -1147,6 +1140,7 @@
     "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)::https://www.amazon.com.au/Danilo-Promotions-LTD-PK076-Birthday/dp/B0FMKJ7RKF/ref=sr_1_42?dib=eyJ2IjoiMSJ9.N1k4l3D6ljbKPUy2__ypafQvanN_frveoQAI6tjrs6t6H8SdGOJ1i9MUfOvxXST_6u7JEp8U3jLk_49vyP6FtZa4GqZaiXWraJ30XmXn8U28k2w-IXPKoKhurwTnU0iSKjKsSl4g0RRK031FOU-tNviEaqrK2HEmfE-KranecIyJMI9RfziCmHBz8aX6-3IHO44GBcOl1yPrUvaHXio76RZnsB_WbbLG8MfEdBhwxRu9a_3zoDeP5_U4xzkt9nYR983ZC5_qhZjPuFUoLrB1sLYT8UYAucw-6e-Mo8w9b98.Aus0lBBgawsqGhdtmS8pyl_Rd6lF3lyAFVUy-uNEUT0&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1790903262&sr=8-42": 1790903264890,
     "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)::https://www.amazon.com.au/Danilo-Promotions-LTD-PK092-Birthday/dp/B0FLQLTDNX/ref=sr_1_43?dib=eyJ2IjoiMSJ9.N1k4l3D6ljbKPUy2__ypafQvanN_frveoQAI6tjrs6t6H8SdGOJ1i9MUfOvxXST_6u7JEp8U3jLk_49vyP6FtZa4GqZaiXWraJ30XmXn8U28k2w-IXPKoKhurwTnU0iSKjKsSl4g0RRK031FOU-tNviEaqrK2HEmfE-KranecIyJMI9RfziCmHBz8aX6-3IHO44GBcOl1yPrUvaHXio76RZnsB_WbbLG8MfEdBhwxRu9a_3zoDeP5_U4xzkt9nYR983ZC5_qhZjPuFUoLrB1sLYT8UYAucw-6e-Mo8w9b98.Aus0lBBgawsqGhdtmS8pyl_Rd6lF3lyAFVUy-uNEUT0&dib_tag=se&keywords=pokemon+tcg+30th+celebration&qid=1790903262&sr=8-43": 1790903264890,
     "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)::https://aax-fe.amazon.com.au/x/c/JJauvb_00RNoifcGUpmPwl8AAAGg-iccBgcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDua9_I/clv1c_ek-wBPf3LTbbTixSua1NO2ozBH7GHGldKmqHdm-THqntvzpvauIV3urYvmi-aojTxuvF2QHZQFr-f-Dlbn429B5KQOm2Ts1KDgicaLMf8zTBpA_tGyCg8XnkJqcl_3U1Txgdk9S7cxXJooACTFiTGjS7home3DTqhGTwzA_qTAUYQGkpftEsz9E0diP21neqU-ujOcHS1SPcQqemvdDQUise018yfP7bmMgVqbQ_4_n5rLHxwp2XeffoDUQCf7GLykT4aLv0gfeOe4Eeka8zPkg_DmW5irFTq_qvoXXEcCymI4E-zQBUxLmj7JV5SqXKD1hFL1NZ3GOeX-ogwPWGSDzFMuc-kL9waBu_tNJb3-Ot3n6xqBDhkzdzSTXiPPZ45vtC8yL2HWKRe0AJEdOuhMJiFqUrTIjC-0E7JrZfbM_LoaGwFEPCep3niNgypLFAeFQoLa5J39ojVZDzINCNSIBFXu5tqe_o0JqOe8A9cPRlz-0ZhV1dKjUVlFcD5yjCPYROIgyzQUF_tIvQOw3NPCCtbFgekDXX90R2tsKdN5sLU4YDigIF-sosSNKQFzXsZz9t3A8BWAKISy3DzPa12npkQ07DxHJl4IDy1uRieyz8HbBxJsDcX98WW6VAXqYFDx8Y_JZSgYAqLMs_62de5jKteGCFxa13_ckgxDugYTwz6Mw-D6GffeFbH7F0GHHD0iHyCEufsj-ypYZwOhxsa2JUQG5RR0_-okM6VIIE50ynNsC5L3HaKnQvUSXlbHsy3vDkS4YJ_dKrwU54B7PbDQ2oxSGYRFj_9DbqmRcXsocchgeKqlgRAmIszELIJb2O_oToFBNApFfIM_Ln8sn4PsBen5E5nr_wZ79Lj2tmlqqOFUuJsVgheJcH1MbvT5zevp8QCoD9WrRURzFSlrfj2q3Pl0gYI5Q_83xO0VmCCMt9CIvnhytS4fzhYzqdqSqzOVbiBEINWRvDiK0nVP-wjyHC3gJmFYvl7YGjDyTTDhGstNrRj_AbR2-BP0DW0kC7tBTgZP4lz8W0EaK0z1NEezSpVVc9jHECUxWPLsOBLelVF0ZbEDxApYZnnblADb0QhvylHOE6lqZ_QywW4dQRCGkq5N7_5rCTp8HgXLP-RXLM3J4EE8idKGHIKN4Z2Ll7WVDoAd9iq3qb5-Di-fjqlmwx2YvFr0waW-tbFdzodXV-UQ0Mk8YX2gEAoGMSs0ZDQPbT4GBe-GwLwNhElDvJSy-JZqL6_avD_oJbLc2HqiYmA4J6ODg8fbaWyICfl_JmMnU3z45oA2y2vQXSqQsShXyEkjh2pBQG9N3C8D_xeE0cduMwMFMeSNgZM-pa6Drz8vrkHuR9r2wR6yRh1W8KKzb0M90l1rvPU06VXs-P2JrBDc5IYR6rwvFe9nttmOVlxwPvaXCEY5BJX4yuZ5tBg14i92NNEZGfb6dIjYPIuMk93kgyENIud_oZZRNeBI84YBueaGTcmoK0xbq6kDOVBrUCQ5VRLAXmTwcpHrDf-Pb8mEIiAWzoAvZMGj2lbwYbOMvl0aPStHhyOuOX7Mwsy41_Xr97w8DVUflnGpK-X96mAapeq5pItWDqx4f2dhrU_feLGPgkPvzT2sPlvsqzmDi9SmXFuzTjjyx4Wc9HzvER-vy5E7Y8K5cSbMs6oXTEVaXjaNb3CJ6L9MijEKR-WjSjUUMg7UVLfmz0wwO2Xbj7MX9KNQd6OA/https://www.amazon.com.au/Premium-Zippered-Trading-Card-Binder/dp/B0DXQ24ZNJ/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.8eb261fa-1e69-4ee6-b364-1076a07311af%3Aamzn1.sym.8eb261fa-1e69-4ee6-b364-1076a07311af&cv_ct_cx=pokemon+tcg+30th+celebration&keywords=pokemon+tcg+30th+celebration&pd_rd_i=B0DXQ24ZNJ&pd_rd_r=1b1bdad7-05cd-4687-8a1d-f31a757844f9&pd_rd_w=mpygq&pd_rd_wg=AGcWY&pf_rd_p=8eb261fa-1e69-4ee6-b364-1076a07311af&pf_rd_r=68QW6DQ81CX74F9A9AB6&qid=1790903262&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-44a6c796-1229-4ca3-bc21-478569de6f28": 1790903264890,
-    "Target AU - Pokemon TCG search::https://www.target.com.au/p/pokemon-tcg-3-th-celebration-booster-bundle-assorted/73301516": 1790903268303
+    "Target AU - Pokemon TCG search::https://www.target.com.au/p/pokemon-tcg-3-th-celebration-booster-bundle-assorted/73301516": 1790903268303,
+    "Target AU - Pokemon TCG search::https://www.target.com.au/p/connections-from-hallmark-3-th-birthday-card-3-today/71570211": 1790924381071
   }
 }
