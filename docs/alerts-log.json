@@ -354,5 +354,9 @@
   {
     "timestamp": "2026-10-04T00:01:04.689Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n49 source(s) reachable, 7 not.\nNot reachable right now:\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Pokemon Center Australia - TCG\n• EB Games - Pokemon TCG featured page\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 24/24 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-04T01:55:34.287Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nDrop Store Collectables - Pokemon (confirmed Shopify)\n\n• Shrouded Fable Booster Bundle | Pokemon TCG — $189.95 (listed, not yet orderable)\n  https://dropstore.com.au/products/shrouded-fable-booster-bundle"
   }
 ]
