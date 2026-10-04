@@ -382,5 +382,9 @@
   {
     "timestamp": "2026-10-04T05:22:31.424Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
+  },
+  {
+    "timestamp": "2026-10-04T06:30:51.106Z",
+    "message": "🚨 <b>Back in stock</b>\nLight of Cards (confirmed Shopify)\n\n• Pokémon TCG - Bundle - M6a 30th Celebration - EN — $10.49\n  https://lightofcards.com.au/products/pokemon-tcg-bundle-m6a-30th-celebration-en\n• Pokémon TCG - Bundle - M6a 30th Celebration - JP — $5.24\n  https://lightofcards.com.au/products/pokemon-tcg-bundle-m6a-30th-celebration-jp\n• [Single Pack] Pokémon TCG - M6a - 30th Anniversary - JP — $18.89\n  https://lightofcards.com.au/products/single-pack-pokemon-tcg-m6a-30th-anniversary-jp\n• Pokemon TCG MEGA - M6a - 30th Celebration Booster Box - JP — $346.49 (~+15% over retail)\n  https://lightofcards.com.au/products/sealed-pokemon-tcg-m6a-30th-celebration-booster-box-jp\n• Pokémon TCG - 30th Anniversary Celebration - First Partner Illustration Series 1 - Chinese — $26.24\n  https://lightofcards.com.au/products/pokemon-tcg-30th-anniversary-celebration-first-partner-illustration-series-1-chinese"
   }
 ]
