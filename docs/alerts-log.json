@@ -390,5 +390,9 @@
   {
     "timestamp": "2026-10-04T11:15:35.838Z",
     "message": "🆕 <b>New listing(s) detected</b>\nX-Playground - Trading Cards (confirmed Shopify)\n\n• POKEMON Magikarp - ME: 30th Celebration Classic Collection (30C) — $142.00 (in stock)\n  https://x-playground.com/products/pokemon-magikarp-me-30th-celebration-classic-collection-30c"
+  },
+  {
+    "timestamp": "2026-10-05T00:02:07.604Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n48 source(s) reachable, 8 not.\nNot reachable right now:\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• EB Games - Pokemon TCG featured page\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
