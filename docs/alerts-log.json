@@ -418,5 +418,9 @@
   {
     "timestamp": "2026-10-05T23:30:58.648Z",
     "message": "🚨 <b>Back in stock</b>\nLight of Cards (confirmed Shopify)\n\n• Pokemon TCG MEGA - M6a - 30th Celebration Booster Box - JP — $329.99 (~+10% over retail)\n  https://lightofcards.com.au/products/sealed-pokemon-tcg-m6a-30th-celebration-booster-box-jp"
+  },
+  {
+    "timestamp": "2026-10-06T00:02:38.901Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n47 source(s) reachable, 9 not.\nNot reachable right now:\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• EB Games - Pokemon TCG featured page\n• Pokemon Center Australia - TCG\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n• Mighty Collectibles - Pokemon (WooCommerce, page watch)\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
