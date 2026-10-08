@@ -574,5 +574,9 @@
   {
     "timestamp": "2026-10-07T23:55:46.252Z",
     "message": "🚨 <b>Back in stock</b>\nLight of Cards (confirmed Shopify)\n\n• Pokémon TCG - Mega Kangaskhan ex Box — $99.99\n  https://lightofcards.com.au/products/pokemon-tcg-mega-kangaskhan-ex-box\n• Pokémon TCG - Mega Lucario Ex Premium Figure Collection — $139.99\n  https://lightofcards.com.au/products/pokemon-tcg-mega-lucario-ex-premium-figure-collection\n• Pokemon TCG MEGA - M6a - 30th Celebration Booster Box - JP — $329.99 (~+10% over retail)\n  https://lightofcards.com.au/products/sealed-pokemon-tcg-m6a-30th-celebration-booster-box-jp"
+  },
+  {
+    "timestamp": "2026-10-08T00:06:12.732Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n47 source(s) reachable, 9 not.\nNot reachable right now:\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• EB Games - Pokemon TCG featured page\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
