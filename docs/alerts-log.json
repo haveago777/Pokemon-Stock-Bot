@@ -578,5 +578,9 @@
   {
     "timestamp": "2026-10-08T00:06:12.732Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n47 source(s) reachable, 9 not.\nNot reachable right now:\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• EB Games - Pokemon TCG featured page\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-08T00:34:07.622Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• Pokémon TCG: 2-Pack Blister - Zarude — $25.00 (listed, not yet orderable)\n  https://raptorgames.com/products/pokemon-tcg-2-pack-blister-zarude"
   }
 ]
