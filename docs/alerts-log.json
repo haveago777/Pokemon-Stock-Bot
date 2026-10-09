@@ -650,5 +650,9 @@
   {
     "timestamp": "2026-10-09T00:01:03.938Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n48 source(s) reachable, 8 not.\nNot reachable right now:\n• Pokemon Center Australia - TCG\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• EB Games - Pokemon TCG featured page\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Kmart - Pokemon TCG search\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-09T00:15:40.286Z",
+    "message": "🚨 <b>Back in stock</b>\nTC Game - Japanese Booster Boxes (confirmed Shopify)\n\n• Pokemon 30th Celebration  Booster Pack - Japanese — $22.00\n  https://tcgame.com.au/products/pokemon-30th-celebration-booster-pack-japanese\n• Pokemon 30th Celebration  Booster Box - Japanese — $359.00 (~+20% over retail)\n  https://tcgame.com.au/products/pokemon-30th-celebration-booster-box-japanese"
   }
 ]
