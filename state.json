@@ -1,7 +1,7 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-09T23:05:37.440Z"
+    "checkedAt": "2026-10-09T23:10:37.092Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
@@ -9,7 +9,7 @@
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-10-09T23:05:31.472Z"
+    "checkedAt": "2026-10-09T23:10:36.970Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
@@ -2129,7 +2129,7 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-09T23:05:33.380Z"
+    "checkedAt": "2026-10-09T23:10:39.446Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -3869,11 +3869,11 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-09T23:05:34.666Z"
+    "checkedAt": "2026-10-09T23:10:41.035Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "0",
-    "checkedAt": "2026-10-09T23:05:31.856Z"
+    "checkedAt": "2026-10-09T23:10:43.930Z"
   },
   "_setWatch": {
     "knownSetIds": [
@@ -4114,7 +4114,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-09T23:05:32.007Z"
+    "checkedAt": "2026-10-09T23:10:44.033Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -4194,11 +4194,11 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-09T23:05:32.208Z"
+    "checkedAt": "2026-10-09T23:10:44.308Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
-    "checkedAt": "2026-10-09T23:05:32.591Z"
+    "checkedAt": "2026-10-09T23:10:44.895Z"
   },
   "OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)": {},
   "Raptor Games - Pokemon": {
@@ -4422,7 +4422,7 @@
       "rillaboom-swsh277-promo-sword-shield-promo-holo-nmlp-643794",
       "yamper-sv039sv122-shiny-rare-shining-fates-shiny-vault-nmlp-269819"
     ],
-    "checkedAt": "2026-10-09T23:05:33.466Z"
+    "checkedAt": "2026-10-09T23:10:46.747Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v2-all-pokemon",
@@ -17324,7 +17324,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-09T23:05:32.188Z"
+    "checkedAt": "2026-10-09T23:10:40.326Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -17344,7 +17344,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-09T23:05:32.840Z"
+    "checkedAt": "2026-10-09T23:10:41.668Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -17422,7 +17422,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-09T23:05:34.488Z"
+    "checkedAt": "2026-10-09T23:10:41.746Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
