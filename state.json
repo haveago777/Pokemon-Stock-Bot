@@ -1,7 +1,7 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-10T17:05:34.380Z"
+    "checkedAt": "2026-10-10T17:10:34.273Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
@@ -9,7 +9,7 @@
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-10-10T17:05:28.926Z"
+    "checkedAt": "2026-10-10T17:10:34.145Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
@@ -285,7 +285,7 @@
       {
         "handle": "pokemon-tcg-pitch-black-elite-trainer-box",
         "available": false,
-        "price": "$99.00"
+        "price": "$100.00"
       },
       {
         "handle": "pokemon-tcg-pitch-black-booster-box",
@@ -360,7 +360,7 @@
       {
         "handle": "pokemon-tcg-perfect-order-elite-trainer-box",
         "available": false,
-        "price": "$99.00"
+        "price": "$100.00"
       },
       {
         "handle": "pokemon-tcg-perfect-order-booster-box",
@@ -720,7 +720,7 @@
       {
         "handle": "pokemon-tcg-journey-together-booster-box-options",
         "available": false,
-        "price": "$342.00"
+        "price": "$343.00"
       },
       {
         "handle": "pokemon-tcg-obsidian-flames-checklane-blister",
@@ -1330,7 +1330,7 @@
       {
         "handle": "pokemon-tcg-mimikyu-ex-box",
         "available": false,
-        "price": "$99.00"
+        "price": "$100.00"
       },
       {
         "handle": "pokemon-tcg-crown-zenith-tin",
@@ -1471,11 +1471,6 @@
         "handle": "pokemon-tcg-pokemon-go-special-team-collection",
         "available": false,
         "price": "$42.00"
-      },
-      {
-        "handle": "pokemon-tcg-pokemon-go-elite-trainer-box",
-        "available": false,
-        "price": "$156.00"
       },
       {
         "handle": "pokemon-tcg-calyrex-vmax-league-battle-deck",
@@ -1660,7 +1655,7 @@
       {
         "handle": "pokemon-tcg-battle-styles-booster-box-options",
         "available": false,
-        "price": "$270.00"
+        "price": "$271.00"
       },
       {
         "handle": "pokemon-tcg-shining-fates-mini-tins",
@@ -2134,7 +2129,7 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-10T17:05:29.050Z"
+    "checkedAt": "2026-10-10T17:10:38.970Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -3874,7 +3869,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-10T17:05:30.160Z"
+    "checkedAt": "2026-10-10T17:10:43.051Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "0",
@@ -4119,7 +4114,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-10T17:05:29.169Z"
+    "checkedAt": "2026-10-10T17:10:42.456Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -17549,7 +17544,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-10T17:05:29.356Z"
+    "checkedAt": "2026-10-10T17:10:37.015Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -17647,7 +17642,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-10T17:05:31.770Z"
+    "checkedAt": "2026-10-10T17:10:44.774Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
