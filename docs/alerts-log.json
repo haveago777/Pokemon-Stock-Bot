@@ -698,5 +698,9 @@
   {
     "timestamp": "2026-10-10T00:03:23.024Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 10 not.\nNot reachable right now:\n• EB Games - Pokemon TCG featured page\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n• Big W - Pokemon TCG search\n• Set-announcement watcher\n\n🧪 Self-test: 29/29 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-10T00:05:34.198Z",
+    "message": "🆕 <b>New listing(s) detected</b>\nGametraders Chermside - Pokemon (verified collection path)\n\n• Pokemon - Glaceon Pop! Vinyl — $24.99 (in stock)\n  https://www.gametraderschermside.com.au/products/pokemon-glaceon-pop-vinyl\n• Pokemon - Mew Pop! Vinyl — $24.99 (in stock)\n  https://www.gametraderschermside.com.au/products/pokemon-mew-pop-vinyl\n• Pokemon - Sylveon Pop! Vinyl — $24.99 (in stock)\n  https://www.gametraderschermside.com.au/products/pokemon-sylveon-pop-vinyl"
   }
 ]
