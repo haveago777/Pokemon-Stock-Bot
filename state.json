@@ -1924,15 +1924,15 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-11T05:16:02.869Z"
+    "checkedAt": "2026-10-11T05:20:58.949Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-uriasl",
-    "checkedAt": "2026-10-11T05:16:07.661Z"
+    "hash": "4mh7m",
+    "checkedAt": "2026-10-11T05:21:04.269Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-11T05:16:07.672Z"
+    "checkedAt": "2026-10-11T05:21:04.487Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -3387,7 +3387,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-11T05:16:03.178Z"
+    "checkedAt": "2026-10-11T05:21:04.320Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -3591,7 +3591,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-11T05:15:59.624Z"
+    "checkedAt": "2026-10-11T05:21:03.552Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -3668,7 +3668,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-11T05:16:00.574Z"
+    "checkedAt": "2026-10-11T05:21:03.089Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -3829,7 +3829,7 @@
       "yamper-sv039sv122-shiny-rare-shining-fates-shiny-vault-nmlp-269819",
       "pokemon-tcg-mega-evolution-delta-reign-booster-bundle"
     ],
-    "checkedAt": "2026-10-11T05:16:02.251Z"
+    "checkedAt": "2026-10-11T05:21:04.295Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v2-all-pokemon",
@@ -3874,7 +3874,7 @@
       "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
       "pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-11T05:16:00.440Z"
+    "checkedAt": "2026-10-11T05:21:03.954Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16751,7 +16751,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-11T05:15:59.988Z"
+    "checkedAt": "2026-10-11T05:21:02.909Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -16770,7 +16770,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-11T05:16:09.458Z"
+    "checkedAt": "2026-10-11T05:21:05.999Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -16863,7 +16863,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-11T05:16:03.753Z"
+    "checkedAt": "2026-10-11T05:21:00.984Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -22997,12 +22997,12 @@
     "checkedAt": "2026-10-11T05:16:04.725Z"
   },
   "Kmart - Pokemon TCG": {
-    "hash": "83e2zd",
-    "checkedAt": "2026-10-11T05:16:07.171Z"
+    "hash": "lkf35r",
+    "checkedAt": "2026-10-11T05:21:04.152Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-x5m9ny",
-    "checkedAt": "2026-10-11T05:16:07.649Z"
+    "hash": "yqxcrb",
+    "checkedAt": "2026-10-11T05:21:04.223Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v2-all-pokemon",
@@ -23066,11 +23066,11 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-11T05:16:09.164Z"
+    "checkedAt": "2026-10-11T05:21:05.596Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "qgfa40",
-    "checkedAt": "2026-10-11T05:16:07.671Z"
+    "hash": "-kx3wvs",
+    "checkedAt": "2026-10-11T05:21:04.207Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v2-all-pokemon",
@@ -23134,6 +23134,6 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-11T05:16:08.878Z"
+    "checkedAt": "2026-10-11T05:21:05.889Z"
   }
 }
