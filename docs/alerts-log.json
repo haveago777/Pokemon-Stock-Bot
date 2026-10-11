@@ -898,5 +898,9 @@
   {
     "timestamp": "2026-10-11T05:14:57.981Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
+  },
+  {
+    "timestamp": "2026-10-11T05:56:06.132Z",
+    "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Light of Cards</b>\n<a href=\"https://lightofcards.com.au/products/pokemon-tcg-mega-kangaskhan-ex-box\">Mega Kangaskhan ex Box</a> — <b>$104.99</b> <i>(RRP ~$250)</i>\n<a href=\"https://lightofcards.com.au/products/pokemon-tcg-mega-lucario-ex-premium-figure-collection\">Mega Lucario Ex Premium Figure Collection</a> — <b>$146.99</b> <i>(RRP ~$150)</i>"
   }
 ]
