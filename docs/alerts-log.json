@@ -742,5 +742,9 @@
   {
     "timestamp": "2026-10-11T00:01:26.136Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n48 source(s) reachable, 8 not.\nNot reachable right now:\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• EB Games - Pokemon TCG featured page\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• TCG Collectors Australia - Pokemon\n• ZiNG Pop Culture - Pokemon TCG\n\n🎯 <b>Watched sets:</b> 30th\n<i>New sets are added automatically when announced.</i>\n• 30th: 136 listings, 31 in stock now\n• Other sealed Pokémon: 1890 listings, 479 in stock now\n🏪 55 sources · retail filter +30% · other alerts silent\n\n🧪 Self-test: 33/33 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-11T00:53:00.170Z",
+    "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
   }
 ]
