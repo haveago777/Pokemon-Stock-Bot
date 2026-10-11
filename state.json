@@ -1,7 +1,7 @@
 {
   "JB Hi-Fi - 30th Celebration Knock Out Collection": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-11T03:15:32.756Z"
+    "checkedAt": "2026-10-11T03:20:34.257Z"
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
@@ -14,7 +14,7 @@
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-11T03:15:32.396Z"
+    "checkedAt": "2026-10-11T03:20:36.417Z"
   },
   "Kmart - Pokemon TCG search": {
     "hash": "fb914p",
@@ -1999,7 +1999,7 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-11T03:15:33.045Z"
+    "checkedAt": "2026-10-11T03:20:44.352Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -16948,7 +16948,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-11T03:15:33.633Z"
+    "checkedAt": "2026-10-11T03:20:43.214Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -16967,7 +16967,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-11T03:15:33.154Z"
+    "checkedAt": "2026-10-11T03:20:41.536Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -23379,6 +23379,6 @@
   },
   "JB Hi-Fi - Pokemon TCG (search)": {
     "hash": "-gosk64",
-    "checkedAt": "2026-10-11T03:15:32.597Z"
+    "checkedAt": "2026-10-11T03:20:34.114Z"
   }
 }
