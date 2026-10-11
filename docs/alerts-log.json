@@ -762,5 +762,9 @@
   {
     "timestamp": "2026-10-11T04:01:03.912Z",
     "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Troll Australia</b>\n<a href=\"https://www.trollaustralia.com.au/products/sylveon-ex-100-30th-celebration-100-me-mega-evolution-promo-mep\">Sylveon ex - 100 (30th Celebration) (100) (ME: Mega Evolution Promo) (MEP)</a> — <b>$2.00</b>"
+  },
+  {
+    "timestamp": "2026-10-11T04:04:07.248Z",
+    "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
   }
 ]
