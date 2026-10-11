@@ -5,16 +5,16 @@
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-11T00:01:03.572Z"
+    "checkedAt": "2026-10-11T00:05:28.843Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
-    "checkedAt": "2026-10-11T00:00:57.086Z"
+    "checkedAt": "2026-10-11T00:05:28.711Z"
   },
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-11T00:00:56.867Z"
+    "checkedAt": "2026-10-11T00:05:32.092Z"
   },
   "Kmart - Pokemon TCG search": {
     "hash": "fb914p",
@@ -1225,7 +1225,7 @@
       {
         "handle": "pokemon-tcg-mimikyu-ex-box",
         "available": false,
-        "price": "$100.00"
+        "price": "$99.00"
       },
       {
         "handle": "pokemon-tcg-crown-zenith-tin",
@@ -1361,6 +1361,11 @@
         "handle": "pokemon-tcg-pokemon-go-special-team-collection",
         "available": false,
         "price": "$42.00"
+      },
+      {
+        "handle": "pokemon-tcg-pokemon-go-elite-trainer-box",
+        "available": false,
+        "price": "$156.00"
       },
       {
         "handle": "pokemon-tcg-calyrex-vmax-league-battle-deck",
@@ -1530,7 +1535,7 @@
       {
         "handle": "pokemon-tcg-battle-styles-booster-box-options",
         "available": false,
-        "price": "$271.00"
+        "price": "$270.00"
       },
       {
         "handle": "pokemon-tcg-shining-fates-mini-tins",
@@ -1994,7 +1999,7 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-11T00:00:57.377Z"
+    "checkedAt": "2026-10-11T00:05:36.543Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -16961,7 +16966,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-11T00:00:57.556Z"
+    "checkedAt": "2026-10-11T00:05:34.819Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
