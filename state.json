@@ -5,7 +5,7 @@
   },
   "JB Hi-Fi - 30th Celebration 5 Booster Tin": {
     "status": "UNKNOWN",
-    "checkedAt": "2026-10-11T01:35:32.144Z"
+    "checkedAt": "2026-10-11T01:40:35.784Z"
   },
   "JB Hi-Fi - Pokemon TCG collection (new listings)": {
     "hash": "7kskig",
@@ -14,7 +14,7 @@
   "EB Games - Pokemon TCG search": {},
   "Big W - Pokemon TCG search": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-11T01:35:27.261Z"
+    "checkedAt": "2026-10-11T01:40:35.823Z"
   },
   "Kmart - Pokemon TCG search": {
     "hash": "fb914p",
@@ -1999,7 +1999,7 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-11T01:35:28.398Z"
+    "checkedAt": "2026-10-11T01:40:44.101Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {},
   "Pokemon Center Australia - TCG": {
@@ -3519,7 +3519,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-11T01:35:29.351Z"
+    "checkedAt": "2026-10-11T01:40:48.550Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "mode": "v2-all-pokemon",
@@ -3833,7 +3833,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-11T01:35:27.927Z"
+    "checkedAt": "2026-10-11T01:40:44.606Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {},
   "PokeBox Australia - 30th Anniversary Celebration": {
@@ -17057,7 +17057,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-11T01:35:27.561Z"
+    "checkedAt": "2026-10-11T01:40:40.741Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -17076,7 +17076,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-11T01:35:26.813Z"
+    "checkedAt": "2026-10-11T01:40:38.277Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -17174,7 +17174,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-11T01:35:29.195Z"
+    "checkedAt": "2026-10-11T01:40:42.859Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -23491,6 +23491,6 @@
   },
   "JB Hi-Fi - Pokemon TCG (search)": {
     "hash": "-gosk64",
-    "checkedAt": "2026-10-11T01:35:27.059Z"
+    "checkedAt": "2026-10-11T01:40:35.657Z"
   }
 }
