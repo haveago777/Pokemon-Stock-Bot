@@ -1,0 +1,260 @@
+{
+  "checkIntervalNote": "Actual interval is set by the cron schedule in .github/workflows/watch.yml, not here.",
+  "activeSets": [],
+  "activeSetsNote": "Empty activeSets = alert on ALL new sealed Pokemon product + back-in-stock for anything first seen in last 45 days. Add set names here only if you want extra back-in-stock priority for older sets.",
+  "targets": [
+    {
+      "name": "Nearby - EB Games Pokemon",
+      "url": "https://www.ebgames.com.au/featured/pokemon-trading-card-game",
+      "type": "page",
+      "playwright": true,
+      "priority": true,
+      "nearby": true
+    },
+    {
+      "name": "Nearby - JB Hi-Fi Pokemon search",
+      "url": "https://www.jbhifi.com.au/search?q=pokemon+tcg",
+      "type": "page",
+      "playwright": true,
+      "priority": true,
+      "nearby": true
+    },
+    {
+      "name": "JB Hi-Fi - Pokemon TCG search",
+      "url": "https://www.jbhifi.com.au/search?q=pokemon+tcg",
+      "type": "page",
+      "playwright": true,
+      "priority": true,
+      "keyword": "pokemon,elite,booster,etb,tin,collection,box,bundle"
+    },
+    {
+      "name": "EB Games - Pokemon TCG",
+      "url": "https://www.ebgames.com.au/featured/pokemon-trading-card-game",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "Big W - Pokemon TCG",
+      "url": "https://www.bigw.com.au/search?q=pokemon%20tcg",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "Kmart - Pokemon TCG",
+      "url": "https://www.kmart.com.au/search/?q=pokemon%20tcg",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "Target AU - Pokemon TCG",
+      "url": "https://www.target.com.au/c/toys/trading-card-games/pokemon-cards/W1852642",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "Pokemon Center Australia - TCG",
+      "url": "https://www.pokemoncenter.com/en-au/category/tcg-cards",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "ZiNG Pop Culture - Pokemon TCG",
+      "url": "https://www.zingpopculture.com.au/featured/pokemon-trading-card-game",
+      "type": "page",
+      "playwright": true,
+      "priority": true
+    },
+    {
+      "name": "Collectible Madness - Pokemon TCG",
+      "url": "https://collectiblemadness.com.au/collections/pokemon-trading-card-game/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Good Games TCG - Pokemon (product feed)",
+      "url": "https://tcg.goodgames.com.au/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Good Games - 30th Celebration hub page (wave status updates)",
+      "url": "https://www.goodgames.com.au/pages/pokemon-30th-celebration",
+      "type": "page"
+    },
+    {
+      "name": "Kollecter - 30th Celebration",
+      "url": "https://www.kollecter.com.au/collections/pokemon-tcg-30th-celebration/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "TCGroup AU - Pokemon TCG",
+      "url": "https://www.tcgroupau.com.au/collections/english-pokemon/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "PokeBox Australia - 30th Anniversary Celebration",
+      "url": "https://www.pokebox.com.au/collections/pokemon-tcg-30th-anniversary-celebration/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Raptor Games - Pokemon",
+      "url": "https://raptorgames.com/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gameology - Pokemon Preorders",
+      "url": "https://www.gameology.com.au/collections/pokemon-preorders/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gametraders Seaford - Pokemon TCG",
+      "url": "https://gametradersseaford.com.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gametraders Rouse Hill - Pokemon (verified collection path)",
+      "url": "https://www.gametradersrousehill.com.au/collections/pokemon/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)",
+      "url": "https://gametraderssouthpoint.com.au/collections/pokemon-trading-card/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gametraders Chermside - Pokemon (verified collection path)",
+      "url": "https://www.gametraderschermside.com.au/collections/pokemon/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Hobbyco - Trading Card Games",
+      "url": "https://www.hobbyco.com.au/collections/trading-card-games/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Card Traders Australia - Pokemon Sealed",
+      "url": "https://cardtradersaustralia.com.au/collections/pokemon-sealed/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Troll Australia - Pokemon TCG",
+      "url": "https://www.trollaustralia.com.au/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "PokeTrader Australia",
+      "url": "https://www.poketrader.com.au/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Gamers Combined - Pokemon TCG",
+      "url": "https://gamerscombined.com.au/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "The Card Cave - Pokemon",
+      "url": "https://thecardcave.com.au/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Trading Card Masters - Pokemon English",
+      "url": "https://www.tradingcardmasters.com.au/collections/pokemon-english-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Eclipse Games - Pokemon TCG",
+      "url": "https://eclipsegames.com.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "ACE Collectibles - Pokemon Pre-Order (Adelaide, confirmed Shopify)",
+      "url": "https://www.acecollectibles.com.au/collections/pre-order/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "One Stop Poke Shop (Sydney, confirmed Shopify)",
+      "url": "https://onestoppokeshop.com.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Kawaii Collector (confirmed Shopify)",
+      "url": "https://kawaiicollector.com.au/collections/pokemon-tcg-box-set/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Cherry Collectables - Booster Boxes (confirmed Shopify)",
+      "url": "https://www.cherrycollectables.com.au/collections/pokemon-booster-boxes/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Games Empire - Pokemon (confirmed Shopify)",
+      "url": "https://gamesempire.com.au/collections/pokemon/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Trainer Town - Pokemon (confirmed Shopify)",
+      "url": "https://trainertown.com.au/collections/pokemon-cards/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Treasure Collectables (confirmed Shopify)",
+      "url": "https://www.treasurecollectables.com.au/collections/all/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "GD Games - Pokemon (confirmed Shopify)",
+      "url": "https://www.gdgames.com.au/collections/pokemon-tcg-australia/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Hobby Collectors Australia - Pokemon Sealed (confirmed Shopify)",
+      "url": "https://hobbycollectorsaustralia.com.au/collections/pokemon-sealed-1/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Drop Store Collectables - Pokemon (confirmed Shopify)",
+      "url": "https://dropstore.com.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Loot Vault - Pokemon (confirmed Shopify)",
+      "url": "https://lootvault.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Low Pop Trading Co - Pokemon (confirmed Shopify)",
+      "url": "https://www.lowpop.com.au/collections/pokemon/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Urban Empire Collectables - Pokemon (Newcastle, confirmed Shopify)",
+      "url": "https://urbanempirecollectables.com/collections/pokemon-1/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Everson Emporium - Pokemon (Ipswich QLD, confirmed Shopify)",
+      "url": "https://eetcg.com.au/collections/pokemon-tcg/products.json",
+      "type": "shopify"
+    },
+    {
+      "name": "Light of Cards (confirmed Shopify)",
+      "url": "https://lightofcards.com.au/products.json",
+      "type": "shopify"
+    }
+  ],
+  "nearby": {
+    "postcode": "3216",
+    "enabled": true,
+    "retailers": [
+      "JB Hi-Fi",
+      "EB Games"
+    ],
+    "maxDistanceKm": 40,
+    "note": "Nearby checks run via Playwright on priority product pages. Best results currently from JB Hi-Fi and EB Games. Kmart/Target/Big W public stock-by-postcode tools are limited or heavily protected."
+  },
+  "priceTolerance": 0.35,
+  "showRetailInAlert": true
+}
