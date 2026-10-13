@@ -1599,15 +1599,15 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-13T01:31:09.101Z"
+    "checkedAt": "2026-10-13T01:35:55.363Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-c6e5l5",
-    "checkedAt": "2026-10-13T01:31:19.916Z"
+    "hash": "-867bz4",
+    "checkedAt": "2026-10-13T01:36:02.375Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-13T01:31:19.873Z"
+    "checkedAt": "2026-10-13T01:36:02.303Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2737,7 +2737,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-13T01:31:10.704Z"
+    "checkedAt": "2026-10-13T01:35:55.468Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2785,7 +2785,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-13T01:31:08.912Z"
+    "checkedAt": "2026-10-13T01:35:55.209Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2857,7 +2857,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-13T01:31:09.117Z"
+    "checkedAt": "2026-10-13T01:35:55.035Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -2935,6 +2935,11 @@
         "handle": "mawile-v-tg17tg30-ultra-rare-silver-tempest-trainer-gallery-holo-nmm-909132",
         "available": true,
         "price": "$25.00"
+      },
+      {
+        "handle": "toxtricity-v-sv112sv122-ultra-rare-shining-fates-shiny-vault-holo-nmm-737761",
+        "available": true,
+        "price": "$5.00"
       }
     ],
     "knownHandles": [
@@ -2977,7 +2982,7 @@
       "yamper-sv039sv122-shiny-rare-shining-fates-shiny-vault-nmlp-269819",
       "pokemon-tcg-mega-evolution-delta-reign-booster-bundle"
     ],
-    "checkedAt": "2026-10-13T01:31:10.635Z"
+    "checkedAt": "2026-10-13T01:35:56.875Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v2-all-pokemon",
@@ -3023,7 +3028,7 @@
       "pokemon-tcg-mega-greninja-ex-league-battle-deck",
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-13T01:31:09.792Z"
+    "checkedAt": "2026-10-13T01:35:55.328Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -3032,7 +3037,7 @@
       "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
       "pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-13T01:31:09.600Z"
+    "checkedAt": "2026-10-13T01:35:55.295Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "mode": "v2-all-pokemon",
@@ -3095,7 +3100,7 @@
       "tcg-mega-evolutions-5-pitch-black-booster-1pc",
       "tcg-pokemon-2-pack-blister-1pc"
     ],
-    "checkedAt": "2026-10-13T01:31:10.841Z"
+    "checkedAt": "2026-10-13T01:35:56.604Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "mode": "v2-all-pokemon",
@@ -3531,7 +3536,7 @@
       "pokemon-melmetal-ex-box",
       "pokemon-pitch-black-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-13T01:31:10.143Z"
+    "checkedAt": "2026-10-13T01:35:55.948Z"
   },
   "Troll Australia - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -4069,7 +4074,7 @@
       "basic-fire-energy-002-2",
       "basic-lightning-energy-004-4"
     ],
-    "checkedAt": "2026-10-13T01:31:12.099Z"
+    "checkedAt": "2026-10-13T01:35:58.113Z"
   },
   "PokeTrader Australia": {
     "mode": "v2-all-pokemon",
@@ -4868,7 +4873,7 @@
       "pokemon-tcg-perfect-order-3-booster-blister",
       "pokemon-tcg-ascended-heroes-tine"
     ],
-    "checkedAt": "2026-10-13T01:31:11.738Z"
+    "checkedAt": "2026-10-13T01:35:56.936Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -6350,7 +6355,7 @@
       "pokemon-card-sword-shield-vmax-japanese-triple-starter-set-available-now",
       "4-x-pack-ultra-pro-one-touch-magnetic-case-23pt-holds-pokemon-not-35pt"
     ],
-    "checkedAt": "2026-10-13T01:31:10.777Z"
+    "checkedAt": "2026-10-13T01:35:56.759Z"
   },
   "The Card Cave - Pokemon": {
     "mode": "v2-all-pokemon",
@@ -6466,7 +6471,7 @@
       "pokemon-tcg-japanese-30th-japanese-m6a-booster-pack",
       "pokemon-tcg-hoopa-v-swsh176-307-swsh-sword-shield-promo-cards-promo"
     ],
-    "checkedAt": "2026-10-13T01:31:12.207Z"
+    "checkedAt": "2026-10-13T01:35:58.397Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [],
@@ -15553,7 +15558,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-13T01:31:09.289Z"
+    "checkedAt": "2026-10-13T01:35:55.817Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -15572,7 +15577,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-13T01:31:21.164Z"
+    "checkedAt": "2026-10-13T01:36:03.093Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15587,7 +15592,7 @@
       "pokemon-tcg-charizard-ex-premium-collection",
       "pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tins-box-of-10"
     ],
-    "checkedAt": "2026-10-13T01:31:09.942Z"
+    "checkedAt": "2026-10-13T01:35:55.331Z"
   },
   "Gametraders Rouse Hill - Pokemon (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15595,7 +15600,7 @@
     "knownHandles": [
       "pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
-    "checkedAt": "2026-10-13T01:31:09.735Z"
+    "checkedAt": "2026-10-13T01:35:55.845Z"
   },
   "Gametraders Chermside - Pokemon (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15650,7 +15655,7 @@
       "pokemon-mew-pop-vinyl",
       "pokemon-sylveon-pop-vinyl"
     ],
-    "checkedAt": "2026-10-13T01:31:10.210Z"
+    "checkedAt": "2026-10-13T01:35:55.855Z"
   },
   "Good Games TCG - Pokemon (product feed)": {
     "mode": "v2-all-pokemon",
@@ -15660,7 +15665,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-13T01:31:11.492Z"
+    "checkedAt": "2026-10-13T01:35:57.150Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -15710,13 +15715,13 @@
       "pokemon-tcg-simplified-chinese-vol-2-30th-anniversary-celebrations-first-partner-blind-box",
       "pokemon-tcg-dream-painting-eevee-friends-s-chinese-blind-box"
     ],
-    "checkedAt": "2026-10-13T01:31:11.707Z"
+    "checkedAt": "2026-10-13T01:35:56.847Z"
   },
   "ACE Collectibles - Pokemon Pre-Order (Adelaide, confirmed Shopify)": {
     "mode": "v2-all-pokemon",
     "products": [],
     "knownHandles": [],
-    "checkedAt": "2026-10-13T01:31:11.837Z"
+    "checkedAt": "2026-10-13T01:35:57.073Z"
   },
   "One Stop Poke Shop (Sydney, confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -15974,7 +15979,7 @@
       "pokemon-pokemon-old-maid-pokemon-taruka-set",
       "pokemon-tcg-100-starter-deck-2025-japanese"
     ],
-    "checkedAt": "2026-10-13T01:31:11.878Z"
+    "checkedAt": "2026-10-13T01:35:57.232Z"
   },
   "Kawaii Collector (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16268,7 +16273,7 @@
       "pokemon-tcg-gx-league-battle-deck-pikachu-zekrom-gx-rebel-clash-sword-and-shield-pre-order",
       "pokemon-tcg-polteageist-v-box"
     ],
-    "checkedAt": "2026-10-13T01:31:12.141Z"
+    "checkedAt": "2026-10-13T01:35:57.350Z"
   },
   "Cherry Collectables - Booster Boxes (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16351,7 +16356,7 @@
       "pokemon-tcg-s-chinese-cbb3c-gem-pack-vol-3-booster-box",
       "pokemon-tcg-s-chinese-csv10c-chasing-glory-together-booster-box"
     ],
-    "checkedAt": "2026-10-13T01:31:13.326Z"
+    "checkedAt": "2026-10-13T01:35:57.639Z"
   },
   "Games Empire - Pokemon (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16427,7 +16432,7 @@
       "pokemon-tcg-league-battle-deck-miraidon-ex",
       "pokemon-tcg-urshifu-vmax-league-battle-deck-rapid-strike-blue"
     ],
-    "checkedAt": "2026-10-13T01:31:13.414Z"
+    "checkedAt": "2026-10-13T01:35:58.857Z"
   },
   "Trainer Town - Pokemon (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16552,7 +16557,7 @@
       "pokemon-tcg-glory-of-team-rocket-booster-box-japanese",
       "pokemon-tcg-mega-moonlit-tin-clefable-gengar"
     ],
-    "checkedAt": "2026-10-13T01:31:13.443Z"
+    "checkedAt": "2026-10-13T01:35:57.744Z"
   },
   "Treasure Collectables (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16602,7 +16607,7 @@
       "pokemon-tcg-30th-celebration-ex-box-x6-sealed-case",
       "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection"
     ],
-    "checkedAt": "2026-10-13T01:31:14.039Z"
+    "checkedAt": "2026-10-13T01:35:57.951Z"
   },
   "Northern Beaches Pokemon (WooCommerce, page watch)": {
     "mode": "v2-all-pokemon",
@@ -16736,7 +16741,7 @@
       "mega-battle-deck-mega-gengar-ex-pokemon-tcg",
       "team-rockets-mewtwo-ex-box-pokemon-tcg"
     ],
-    "checkedAt": "2026-10-13T01:31:14.060Z"
+    "checkedAt": "2026-10-13T01:35:58.424Z"
   },
   "Eclipse Games - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -17720,7 +17725,7 @@
       "snow-hazard-sv2p-booster-box-japanese-pokemon",
       "pokemon-world-championships-2023-yokohama-deck-pikachu-japanese"
     ],
-    "checkedAt": "2026-10-13T01:31:12.984Z"
+    "checkedAt": "2026-10-13T01:35:57.531Z"
   },
   "GD Games - Pokemon (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -17999,7 +18004,7 @@
       "storm-emerald-booster-box-japanese-pokemon-tcg",
       "100x-ar-chr-bulk-random-card-japanese-pokemon-tcg"
     ],
-    "checkedAt": "2026-10-13T01:31:13.930Z"
+    "checkedAt": "2026-10-13T01:35:58.170Z"
   },
   "TC Game - Japanese Booster Boxes (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -18694,7 +18699,7 @@
       "pokemon-tcg-mega-evolution-delta-reign-booster-november-6th-2026",
       "pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-13T01:31:14.669Z"
+    "checkedAt": "2026-10-13T01:35:58.597Z"
   },
   "Urban Empire Collectables - Pokemon (Newcastle, confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -18729,7 +18734,7 @@
       "future-flash-sv4m-booster-box-japanese-pokemon-tcg",
       "ancient-roar-sv4k-booster-pack-japanese-pokemon-tcg"
     ],
-    "checkedAt": "2026-10-13T01:31:14.682Z"
+    "checkedAt": "2026-10-13T01:35:58.646Z"
   },
   "Low Pop Trading Co - Pokemon (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -18874,7 +18879,7 @@
       "pokemon-tcg-prismatic-evolutions-mini-tin",
       "pokemon-tcg-phantasmal-flames-booster-pack"
     ],
-    "checkedAt": "2026-10-13T01:31:14.668Z"
+    "checkedAt": "2026-10-13T01:35:59.051Z"
   },
   "EB Games - Pokemon TCG featured page": {
     "hash": "-ho9qy7",
@@ -19369,7 +19374,7 @@
       "pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-bundle-copy",
       "pre-order-pokemon-tcg-mega-evolution-delta-reign-three-booster-blister"
     ],
-    "checkedAt": "2026-10-13T01:31:14.282Z"
+    "checkedAt": "2026-10-13T01:35:58.336Z"
   },
   "Goldfields Games (Castlemaine VIC, confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -20525,7 +20530,7 @@
       "pokemon-tcg-scarlet-violet-elite-trainer-box",
       "pokemon-tcg-mega-evolution-delta-reign-build-battle-box-me06"
     ],
-    "checkedAt": "2026-10-13T01:31:15.841Z"
+    "checkedAt": "2026-10-13T01:35:58.531Z"
   },
   "Light of Cards (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -20924,7 +20929,7 @@
       "pokemon-tcg-mega-kangaskhan-ex-box",
       "pokemon-tcg-mega-lucario-ex-premium-figure-collection"
     ],
-    "checkedAt": "2026-10-13T01:31:16.219Z"
+    "checkedAt": "2026-10-13T01:35:59.246Z"
   },
   "priceCalib": {
     "last": "2026-10-04T05:25:37.845Z"
@@ -20995,15 +21000,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-13T01:32:43.410Z"
+    "checkedAt": "2026-10-13T01:37:25.754Z"
   },
   "Kmart - Pokemon TCG": {
-    "hash": "-d7tyrr",
-    "checkedAt": "2026-10-13T01:31:19.922Z"
+    "hash": "i5q3x1",
+    "checkedAt": "2026-10-13T01:36:02.186Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "j1tirm",
-    "checkedAt": "2026-10-13T01:31:19.750Z"
+    "hash": "7f13ap",
+    "checkedAt": "2026-10-13T01:36:02.357Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v2-all-pokemon",
@@ -21067,11 +21072,11 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-13T01:31:20.692Z"
+    "checkedAt": "2026-10-13T01:36:03.417Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-i70qlt",
-    "checkedAt": "2026-10-13T01:31:19.764Z"
+    "hash": "qudigp",
+    "checkedAt": "2026-10-13T01:36:02.338Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v2-all-pokemon",
@@ -21135,6 +21140,6 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-13T01:31:21.116Z"
+    "checkedAt": "2026-10-13T01:36:03.824Z"
   }
 }
