@@ -50,7 +50,7 @@
       {
         "handle": "pokemon-japanese-tcg-30th-celebration-m6a-booster-box",
         "available": false,
-        "price": "$243.00"
+        "price": "$242.00"
       },
       {
         "handle": "pokemon-japanese-tcg-inferno-x-box-m2-booster-box",
@@ -95,7 +95,7 @@
       {
         "handle": "pokemon-tcg-delta-reign-booster-box",
         "available": false,
-        "price": "$243.00"
+        "price": "$242.00"
       },
       {
         "handle": "pokemon-tcg-shrouded-fable-booster-bundle-acrylic-case",
@@ -1564,15 +1564,15 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-14T06:05:55.934Z"
+    "checkedAt": "2026-10-14T06:11:06.907Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-w9ho22",
-    "checkedAt": "2026-10-14T06:06:01.049Z"
+    "hash": "-q3erqs",
+    "checkedAt": "2026-10-14T06:11:11.652Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-14T06:06:00.977Z"
+    "checkedAt": "2026-10-14T06:11:08.261Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -15256,7 +15256,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-14T06:05:56.639Z"
+    "checkedAt": "2026-10-14T06:11:10.807Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -15274,7 +15274,7 @@
       "https://www.target.com.au/p/pokemon-tcg-mega-evolution-phantasmal-flames-blisters-assorted/72086971",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-14T06:06:04.271Z"
+    "checkedAt": "2026-10-14T06:11:10.248Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15325,7 +15325,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-14T06:06:00.213Z"
+    "checkedAt": "2026-10-14T06:11:11.932Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -20514,15 +20514,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-14T06:05:55.780Z"
+    "checkedAt": "2026-10-14T06:11:05.837Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "ll9iak",
-    "checkedAt": "2026-10-14T06:06:00.951Z"
+    "hash": "28b8rr",
+    "checkedAt": "2026-10-14T06:11:08.042Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v2-all-pokemon",
@@ -20586,11 +20586,11 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-14T06:06:03.628Z"
+    "checkedAt": "2026-10-14T06:11:09.285Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "soi6o8",
-    "checkedAt": "2026-10-14T06:06:00.902Z"
+    "hash": "-tv2kua",
+    "checkedAt": "2026-10-14T06:11:08.079Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v2-all-pokemon",
@@ -20654,7 +20654,7 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-14T06:06:03.058Z"
+    "checkedAt": "2026-10-14T06:11:10.142Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -20698,7 +20698,7 @@
       "P_43762040",
       "P_89074909"
     ],
-    "checkedAt": "2026-10-14T06:05:55.101Z"
+    "checkedAt": "2026-10-14T06:11:02.363Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -20749,6 +20749,11 @@
         "price": "$100.00"
       },
       {
+        "handle": "P_42325802",
+        "available": false,
+        "price": "$6.00"
+      },
+      {
         "handle": "P_43665945",
         "available": true,
         "price": "$69.00"
@@ -20757,11 +20762,6 @@
         "handle": "P_43818549",
         "available": true,
         "price": "$45.00"
-      },
-      {
-        "handle": "P_42325802",
-        "available": false,
-        "price": "$6.00"
       },
       {
         "handle": "P_43485390",
@@ -20819,14 +20819,14 @@
         "price": "$99.00"
       },
       {
-        "handle": "P_43818617",
-        "available": true,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43665921",
         "available": false,
         "price": "$44.00"
+      },
+      {
+        "handle": "P_43818617",
+        "available": true,
+        "price": "$54.00"
       },
       {
         "handle": "P_43519804",
@@ -20852,6 +20852,11 @@
         "handle": "P_43615643",
         "available": true,
         "price": "$99.00"
+      },
+      {
+        "handle": "P_43818556",
+        "available": true,
+        "price": "$20.00"
       }
     ],
     "knownHandles": [
@@ -20902,6 +20907,6 @@
       "P_43756056",
       "P_43519781"
     ],
-    "checkedAt": "2026-10-14T06:05:55.148Z"
+    "checkedAt": "2026-10-14T06:11:02.390Z"
   }
 }
