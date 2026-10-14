@@ -982,5 +982,9 @@
   {
     "timestamp": "2026-10-14T00:01:29.371Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Other sealed Pokémon: 1391 listings, 311 in stock now\n🏪 45 sources · retail filter +15% · other alerts silent\n\n⚠️ Self-test: 32/33 checks passed.\nFailed: Alert settings from config are applied (priorityKeywords, loose packs)\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-14T05:16:07.894Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>GD Games</b>\n<a href=\"https://www.gdgames.com.au/products/white-flare-booster-box-japanese-pokemon-tcg\">White Flare Booster Box - Japanese Pokemon TCG</a> — <b>$249.95</b> <i>(RRP ~$250)</i>"
   }
 ]
