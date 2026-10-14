@@ -978,5 +978,9 @@
   {
     "timestamp": "2026-10-13T23:56:06.318Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Card Traders Australia - Pokemon Sealed</b>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-astral-radiance-origin-forme-palkia-vstar-league-battle-deck\">Astral Radiance Origin Forme Palkia VSTAR League Battle Deck</a> — <b>$40.00</b> <i>(RRP ~$80)</i>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-league-battle-deck-single-strike-urshifu-vmax\">League Battle Deck Single Strike Urshifu VMAX</a> — <b>$40.00</b> <i>(RRP ~$80)</i>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-league-battle-deck-rapid-strike-urshifu-vmax\">League Battle Deck Rapid Strike Urshifu VMAX</a> — <b>$40.00</b> <i>(RRP ~$80)</i>"
+  },
+  {
+    "timestamp": "2026-10-14T00:01:29.371Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Other sealed Pokémon: 1391 listings, 311 in stock now\n🏪 45 sources · retail filter +15% · other alerts silent\n\n⚠️ Self-test: 32/33 checks passed.\nFailed: Alert settings from config are applied (priorityKeywords, loose packs)\n\nNo separate message means nothing new to report today."
   }
 ]
