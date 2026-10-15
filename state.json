@@ -55,7 +55,7 @@
       {
         "handle": "pokemon-japanese-tcg-high-class-pack-mega-dream-ex-m2a-booster-box",
         "available": false,
-        "price": "$128.00"
+        "price": "$127.00"
       },
       {
         "handle": "pokemon-japanese-tcg-nihil-zero-munikis-zero-m3-booster-box",
@@ -95,7 +95,7 @@
       {
         "handle": "pokemon-tcg-shrouded-fable-booster-bundle-acrylic-case",
         "available": false,
-        "price": "$128.00"
+        "price": "$127.00"
       },
       {
         "handle": "pokemon-tcg-archaludon-ex-box",
@@ -680,7 +680,7 @@
       {
         "handle": "pokemon-tcg-twilight-masquerade-booster-box-options",
         "available": false,
-        "price": "$128.00"
+        "price": "$127.00"
       },
       {
         "handle": "pokemon-tcg-triple-whammy-back-issue-collector-tin",
@@ -765,7 +765,7 @@
       {
         "handle": "pokemon-tcg-paradox-rift-booster-box-options",
         "available": false,
-        "price": "$277.00"
+        "price": "$276.00"
       },
       {
         "handle": "pokemon-tcg-pokeball-tins-series-9",
@@ -975,7 +975,7 @@
       {
         "handle": "pokemon-tcg-lost-origin-booster-box-options",
         "available": false,
-        "price": "$277.00"
+        "price": "$276.00"
       },
       {
         "handle": "pokemon-tcg-pokemon-go-poke-ball-tin",
@@ -1584,15 +1584,15 @@
       "pokemon-crimson-invasion-booster-box",
       "pokemon-forbidden-light-booster-box"
     ],
-    "checkedAt": "2026-10-15T04:05:47.437Z"
+    "checkedAt": "2026-10-15T04:11:00.164Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-3iqiz4",
-    "checkedAt": "2026-10-15T04:05:51.694Z"
+    "hash": "6isvdj",
+    "checkedAt": "2026-10-15T04:11:08.334Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-15T04:05:51.889Z"
+    "checkedAt": "2026-10-15T04:11:05.886Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2492,7 +2492,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-15T04:05:48.990Z"
+    "checkedAt": "2026-10-15T04:11:11.601Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2540,7 +2540,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-15T04:05:46.776Z"
+    "checkedAt": "2026-10-15T04:11:03.927Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2607,7 +2607,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-15T04:05:46.884Z"
+    "checkedAt": "2026-10-15T04:11:08.434Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -2671,7 +2671,7 @@
       "hisuian-goodra-gg21gg70-crown-zenith-galarian-gallery-holo-nmm-523049",
       "magmortar-gg03gg70-trainer-gallery-rare-crown-zenith-galarian-gallery-holo-nmm-729762"
     ],
-    "checkedAt": "2026-10-15T04:05:48.707Z"
+    "checkedAt": "2026-10-15T04:11:09.715Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v2-all-pokemon",
@@ -2711,7 +2711,7 @@
       "pokemon-tcg-mega-greninja-ex-league-battle-deck",
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-15T04:05:47.140Z"
+    "checkedAt": "2026-10-15T04:11:08.411Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -2720,7 +2720,7 @@
       "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
       "pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-15T04:05:47.183Z"
+    "checkedAt": "2026-10-15T04:11:08.455Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "mode": "v2-all-pokemon",
@@ -15247,7 +15247,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-15T04:05:46.763Z"
+    "checkedAt": "2026-10-15T04:11:00.906Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -15265,7 +15265,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-15T04:05:51.836Z"
+    "checkedAt": "2026-10-15T04:11:07.270Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15288,7 +15288,7 @@
     "knownHandles": [
       "pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
-    "checkedAt": "2026-10-15T04:05:47.504Z"
+    "checkedAt": "2026-10-15T04:11:08.394Z"
   },
   "Gametraders Chermside - Pokemon (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -15316,7 +15316,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-15T04:05:48.692Z"
+    "checkedAt": "2026-10-15T04:11:08.315Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -20265,15 +20265,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-15T04:05:46.523Z"
+    "checkedAt": "2026-10-15T04:11:00.400Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-vthias",
-    "checkedAt": "2026-10-15T04:05:51.658Z"
+    "hash": "hes6p4",
+    "checkedAt": "2026-10-15T04:11:08.332Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v2-all-pokemon",
@@ -20339,11 +20339,11 @@
       "https://www.jbhifi.com.au/products/skylight-15-smart-family-calendar-w-disney-mode",
       "https://www.jbhifi.com.au/products/jackson-15-6-oneplace-family-calendar-white"
     ],
-    "checkedAt": "2026-10-15T04:05:52.191Z"
+    "checkedAt": "2026-10-15T04:11:08.194Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-5i5ihg",
-    "checkedAt": "2026-10-15T04:05:51.617Z"
+    "hash": "butp3g",
+    "checkedAt": "2026-10-15T04:11:08.329Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v2-all-pokemon",
@@ -20409,7 +20409,7 @@
       "https://www.jbhifi.com.au/products/skylight-15-smart-family-calendar-w-disney-mode",
       "https://www.jbhifi.com.au/products/jackson-15-6-oneplace-family-calendar-white"
     ],
-    "checkedAt": "2026-10-15T04:05:52.499Z"
+    "checkedAt": "2026-10-15T04:11:07.946Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -20440,15 +20440,15 @@
         "price": "$37.95"
       },
       {
-        "handle": "P_87877335",
-        "available": false,
-        "price": "$68.00",
-        "firstSeen": "2026-10-14T23:35:54.163Z"
-      },
-      {
         "handle": "P_110128516",
         "available": false,
         "price": "$29.00",
+        "firstSeen": "2026-10-14T23:35:54.163Z"
+      },
+      {
+        "handle": "P_87877335",
+        "available": false,
+        "price": "$68.00",
         "firstSeen": "2026-10-14T23:35:54.163Z"
       }
     ],
@@ -20462,7 +20462,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-15T04:05:46.243Z"
+    "checkedAt": "2026-10-15T04:10:59.692Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -20478,14 +20478,14 @@
         "price": "$8.50"
       },
       {
-        "handle": "P_43718733",
-        "available": false,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43675661",
         "available": false,
         "price": "$8.50"
+      },
+      {
+        "handle": "P_43718733",
+        "available": false,
+        "price": "$54.00"
       },
       {
         "handle": "P_43718696",
@@ -20513,6 +20513,11 @@
         "price": "$69.00"
       },
       {
+        "handle": "P_42325802",
+        "available": false,
+        "price": "$6.00"
+      },
+      {
         "handle": "P_43485390",
         "available": false,
         "price": "$40.00"
@@ -20521,11 +20526,6 @@
         "handle": "P_43818549",
         "available": false,
         "price": "$45.00"
-      },
-      {
-        "handle": "P_42325802",
-        "available": false,
-        "price": "$6.00"
       },
       {
         "handle": "P_43818594",
@@ -20568,6 +20568,12 @@
         "price": "$19.00"
       },
       {
+        "handle": "P_43172382",
+        "available": false,
+        "price": "$6.00",
+        "firstSeen": "2026-10-14T06:31:11.148Z"
+      },
+      {
         "handle": "P_43675364",
         "available": false,
         "price": "$30.00"
@@ -20592,12 +20598,6 @@
         "handle": "P_43718702",
         "available": false,
         "price": "$20.00"
-      },
-      {
-        "handle": "P_43172382",
-        "available": false,
-        "price": "$6.00",
-        "firstSeen": "2026-10-14T06:31:11.148Z"
       },
       {
         "handle": "P_43781645",
@@ -20694,6 +20694,6 @@
       "P_43781645",
       "P_43580675"
     ],
-    "checkedAt": "2026-10-15T04:05:46.313Z"
+    "checkedAt": "2026-10-15T04:10:59.741Z"
   }
 }
