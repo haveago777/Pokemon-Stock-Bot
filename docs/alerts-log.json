@@ -1002,5 +1002,9 @@
   {
     "timestamp": "2026-10-15T00:01:29.122Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 1337 sealed listings this run (279 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n⚠️ Self-test: 31/33 checks passed.\nFailed: Screenshot cases: set-named single, card bundle, single pack, Chinese are rejected, Round-2 screenshot cases: SWSH promo card, $0 listing, loose pack\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-15T00:21:08.679Z",
+    "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
   }
 ]
