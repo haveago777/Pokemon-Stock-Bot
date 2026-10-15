@@ -88,7 +88,7 @@
       {
         "handle": "pokemon-japanese-tcg-storm-emeralda-m6-booster-box",
         "available": true,
-        "price": "$120.00"
+        "price": "$119.00"
       },
       {
         "handle": "pokemon-tcg-delta-reign-booster-bundle",
@@ -433,7 +433,7 @@
       {
         "handle": "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
         "available": false,
-        "price": "$282.00"
+        "price": "$281.00"
       },
       {
         "handle": "pokemon-tcg-phantasmal-flames-elite-trainer-box",
@@ -728,7 +728,7 @@
       {
         "handle": "pokemon-tcg-armarouge-ex-premium-collection",
         "available": false,
-        "price": "$70.00"
+        "price": "$69.00"
       },
       {
         "handle": "pokemon-tcg-twilight-masquerade-checklane-blister",
@@ -1003,7 +1003,7 @@
       {
         "handle": "pokemon-tcg-ultra-premium-collection-charizard-1",
         "available": false,
-        "price": "$170.00"
+        "price": "$169.00"
       },
       {
         "handle": "pokemon-tcg-november-2022-collector-chest",
@@ -1278,7 +1278,7 @@
       {
         "handle": "pokemon-tcg-vivid-voltage-booster-box-options",
         "available": false,
-        "price": "$282.00"
+        "price": "$281.00"
       }
     ],
     "knownHandles": [
@@ -1680,15 +1680,15 @@
       "pokemon-tcg-deck-crafters-collection",
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-15T14:01:26.902Z"
+    "checkedAt": "2026-10-15T14:06:01.059Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "izrf4a",
-    "checkedAt": "2026-10-15T14:01:30.444Z"
+    "hash": "q5yuwi",
+    "checkedAt": "2026-10-15T14:06:08.852Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-15T14:01:30.122Z"
+    "checkedAt": "2026-10-15T14:06:05.506Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2528,7 +2528,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-15T14:01:29.183Z"
+    "checkedAt": "2026-10-15T14:06:06.185Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2617,7 +2617,7 @@
       "pokemon-tcg-30th-celebration-ultra-premium-collection-day",
       "pokemon-tcg-30th-celebration-ultra-premium-collection-night"
     ],
-    "checkedAt": "2026-10-15T14:01:24.330Z"
+    "checkedAt": "2026-10-15T14:06:00.038Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2684,7 +2684,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-15T14:01:24.629Z"
+    "checkedAt": "2026-10-15T14:06:06.432Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -2742,7 +2742,7 @@
       "hisuian-goodra-gg21gg70-crown-zenith-galarian-gallery-holo-nmm-523049",
       "magmortar-gg03gg70-trainer-gallery-rare-crown-zenith-galarian-gallery-holo-nmm-729762"
     ],
-    "checkedAt": "2026-10-15T14:01:26.646Z"
+    "checkedAt": "2026-10-15T14:06:04.821Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v2-all-pokemon",
@@ -2782,7 +2782,7 @@
       "pokemon-tcg-mega-greninja-ex-league-battle-deck",
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-15T14:01:25.056Z"
+    "checkedAt": "2026-10-15T14:06:06.818Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -14376,7 +14376,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-15T14:01:24.822Z"
+    "checkedAt": "2026-10-15T14:05:59.968Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v2-all-pokemon",
@@ -14394,7 +14394,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-mega-lucario-ex-league-battle-deck-assorted/72979198"
     ],
-    "checkedAt": "2026-10-15T14:01:32.077Z"
+    "checkedAt": "2026-10-15T14:06:09.649Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v2-all-pokemon",
@@ -14445,7 +14445,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-15T14:01:27.181Z"
+    "checkedAt": "2026-10-15T14:06:05.337Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v2-all-pokemon",
@@ -19215,15 +19215,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-15T14:01:23.811Z"
+    "checkedAt": "2026-10-15T14:05:59.497Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "a66e7g",
-    "checkedAt": "2026-10-15T14:01:30.080Z"
+    "hash": "-x2s9r9",
+    "checkedAt": "2026-10-15T14:06:08.673Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v2-all-pokemon",
@@ -19289,11 +19289,11 @@
       "https://www.jbhifi.com.au/products/skylight-15-smart-family-calendar-w-disney-mode",
       "https://www.jbhifi.com.au/products/jackson-15-6-oneplace-family-calendar-white"
     ],
-    "checkedAt": "2026-10-15T14:01:31.182Z"
+    "checkedAt": "2026-10-15T14:06:09.184Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-9tuebx",
-    "checkedAt": "2026-10-15T14:01:30.110Z"
+    "hash": "65g74r",
+    "checkedAt": "2026-10-15T14:06:08.658Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v2-all-pokemon",
@@ -19357,7 +19357,7 @@
       "https://www.jbhifi.com.au/products/logitech-mx-creative-console-graphite",
       "https://www.jbhifi.com.au/products/gift-card-digital-500"
     ],
-    "checkedAt": "2026-10-15T14:01:31.795Z"
+    "checkedAt": "2026-10-15T14:06:09.548Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -19393,7 +19393,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-15T14:01:23.835Z"
+    "checkedAt": "2026-10-15T14:05:59.189Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v2-all-pokemon",
@@ -19409,14 +19409,14 @@
         "price": "$8.50"
       },
       {
-        "handle": "P_43718733",
-        "available": false,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43675661",
         "available": false,
         "price": "$8.50"
+      },
+      {
+        "handle": "P_43718733",
+        "available": false,
+        "price": "$54.00"
       },
       {
         "handle": "P_43718696",
@@ -19444,6 +19444,11 @@
         "price": "$69.00"
       },
       {
+        "handle": "P_42325802",
+        "available": false,
+        "price": "$6.00"
+      },
+      {
         "handle": "P_43485390",
         "available": false,
         "price": "$40.00"
@@ -19452,11 +19457,6 @@
         "handle": "P_43818549",
         "available": false,
         "price": "$45.00"
-      },
-      {
-        "handle": "P_42325802",
-        "available": false,
-        "price": "$6.00"
       },
       {
         "handle": "P_43818594",
@@ -19510,6 +19510,12 @@
         "price": "$30.00"
       },
       {
+        "handle": "P_43172382",
+        "available": false,
+        "price": "$6.00",
+        "firstSeen": "2026-10-14T06:31:11.148Z"
+      },
+      {
         "handle": "P_43612154",
         "available": false,
         "price": "$40.00",
@@ -19529,12 +19535,6 @@
         "handle": "P_43718702",
         "available": false,
         "price": "$20.00"
-      },
-      {
-        "handle": "P_43172382",
-        "available": false,
-        "price": "$6.00",
-        "firstSeen": "2026-10-14T06:31:11.148Z"
       },
       {
         "handle": "P_43781645",
@@ -19622,6 +19622,6 @@
       "P_43580675",
       "P_43848645"
     ],
-    "checkedAt": "2026-10-15T14:01:23.842Z"
+    "checkedAt": "2026-10-15T14:05:59.302Z"
   }
 }
