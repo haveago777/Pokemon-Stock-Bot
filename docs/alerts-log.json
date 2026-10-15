@@ -1006,5 +1006,9 @@
   {
     "timestamp": "2026-10-15T00:21:08.679Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
+  },
+  {
+    "timestamp": "2026-10-15T02:35:57.024Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>The Card Cave</b>\n<a href=\"https://thecardcave.com.au/products/keldeo-xy118-xy-promo-pokemon-promo-holo-lp-556477\">KELDEO XY118 XY PROMO POKEMON PROMO HOLO LP</a> — <b>$34.99</b> <i>(RRP ~$80)</i>"
   }
 ]
