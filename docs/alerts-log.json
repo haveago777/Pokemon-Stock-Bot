@@ -998,5 +998,9 @@
   {
     "timestamp": "2026-10-14T10:31:20.289Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Drop Store Collectables</b>\n<a href=\"https://dropstore.com.au/products/mega-zygarde-ex-premium-collection-pokemon-tcg\">Mega Zygarde ex Premium Collection</a> — <b>$109.99</b> <i>(RRP ~$100)</i>  📈+10%"
+  },
+  {
+    "timestamp": "2026-10-15T00:01:29.122Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 1337 sealed listings this run (279 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n⚠️ Self-test: 31/33 checks passed.\nFailed: Screenshot cases: set-named single, card bundle, single pack, Chinese are rejected, Round-2 screenshot cases: SWSH promo card, $0 listing, loose pack\n\nNo separate message means nothing new to report today."
   }
 ]
