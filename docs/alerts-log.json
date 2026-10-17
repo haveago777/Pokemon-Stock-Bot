@@ -1062,5 +1062,9 @@
   {
     "timestamp": "2026-10-16T15:56:01.894Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Eclipse Games</b>\n<a href=\"https://eclipsegames.com.au/products/pokemon-tcg-mega-venusaur-ex-premium-collection-box\">TCG Mega Venusaur ex Premium Collection Box</a> — <b>$112.00</b> <i>(RRP ~$100)</i>  📈+12%"
+  },
+  {
+    "timestamp": "2026-10-17T00:01:28.525Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 898 sealed listings this run (162 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
