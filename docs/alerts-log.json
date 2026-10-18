@@ -1078,5 +1078,9 @@
   {
     "timestamp": "2026-10-17T17:41:10.655Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>ZiNG Pop Culture</b>\n<a href=\"https://www.zingpopculture.com.au/product/toys-and-collectibles/385553-harry-potter-tc-always-panini-booster\">( deposit) Buy 10 Get 1 FREE Harry Potter - TC - Always Panini Booster Pop Culture PREORDER Mon, 19 Oct 2026</a> — <b>$3.00</b> <i>(RRP ~$80)</i>"
+  },
+  {
+    "timestamp": "2026-10-18T00:01:33.691Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 898 sealed listings this run (164 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
