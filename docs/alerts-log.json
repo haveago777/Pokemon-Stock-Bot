@@ -1110,5 +1110,9 @@
   {
     "timestamp": "2026-10-19T00:01:35.291Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 901 sealed listings this run (162 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-19T04:51:14.912Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Kollecter - 30th Celebration</b>\n<a href=\"https://www.kollecter.com.au/products/pokemon-tcg-30th-celebration-knock-out-collection\">30th Celebration Knock Out Collection</a> — <b>$26.00</b> <i>(RRP ~$90)</i>"
   }
 ]
