@@ -1106,5 +1106,9 @@
   {
     "timestamp": "2026-10-18T22:31:25.595Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>ZiNG Pop Culture</b>\n<a href=\"https://www.zingpopculture.com.au/product/evercade/383860-evercade-neogeo-arcade-collection-2\">Evercade - NEOGEO Arcade Collection 2 Evercade</a> — <b>$49.95</b> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-10-19T00:01:35.291Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 901 sealed listings this run (162 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
