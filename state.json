@@ -96,7 +96,7 @@
       {
         "handle": "pokemon-tcg-delta-reign-booster-box",
         "available": false,
-        "price": "$242.00"
+        "price": "$243.00"
       },
       {
         "handle": "pokemon-tcg-shrouded-fable-booster-bundle-acrylic-case",
@@ -846,7 +846,7 @@
       {
         "handle": "pokemon-tcg-scarlet-violet-151-ultra-premium-collection",
         "available": false,
-        "price": "$214.00"
+        "price": "$215.00"
       },
       {
         "handle": "pokemon-tcg-scarlet-violet-151-poster-collection",
@@ -966,7 +966,7 @@
       {
         "handle": "pokemon-tcg-silver-tempest-booster-box-options",
         "available": false,
-        "price": "$249.00"
+        "price": "$250.00"
       },
       {
         "handle": "pokemon-tcg-stacking-tin-fighting-fire-darkness",
@@ -1056,7 +1056,7 @@
       {
         "handle": "pokemon-tcg-astral-radiance-booster-box-options",
         "available": false,
-        "price": "$249.00"
+        "price": "$250.00"
       },
       {
         "handle": "pokemon-tcg-boltund-v-box",
@@ -1603,15 +1603,15 @@
       "pokemon-tcg-deck-crafters-collection",
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T14:01:23.478Z"
+    "checkedAt": "2026-10-20T14:11:09.773Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-1apc9e",
-    "checkedAt": "2026-10-20T14:01:25.667Z"
+    "hash": "-p9uq53",
+    "checkedAt": "2026-10-20T14:11:09.470Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-20T14:01:25.514Z"
+    "checkedAt": "2026-10-20T14:11:09.476Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2411,7 +2411,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-20T14:01:21.733Z"
+    "checkedAt": "2026-10-20T14:11:12.142Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2462,7 +2462,7 @@
       "pokemon-tcg-30th-celebration-pokemon-ex-box",
       "pokemon-tcg-30th-celebration-knock-out-collection"
     ],
-    "checkedAt": "2026-10-20T14:01:20.570Z"
+    "checkedAt": "2026-10-20T14:11:06.497Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2524,7 +2524,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-10-20T14:01:20.924Z"
+    "checkedAt": "2026-10-20T14:11:11.122Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -2576,7 +2576,7 @@
       "hisuian-goodra-gg21gg70-crown-zenith-galarian-gallery-holo-nmm-523049",
       "magmortar-gg03gg70-trainer-gallery-rare-crown-zenith-galarian-gallery-holo-nmm-729762"
     ],
-    "checkedAt": "2026-10-20T14:01:21.870Z"
+    "checkedAt": "2026-10-20T14:11:11.514Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v3-sealed-positive",
@@ -2611,7 +2611,7 @@
       "pokemon-tcg-mega-greninja-ex-league-battle-deck",
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T14:01:21.346Z"
+    "checkedAt": "2026-10-20T14:11:13.886Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -2620,7 +2620,7 @@
       "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
       "pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box"
     ],
-    "checkedAt": "2026-10-20T14:01:20.980Z"
+    "checkedAt": "2026-10-20T14:11:11.112Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "mode": "v2-all-pokemon",
@@ -13382,7 +13382,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-20T14:01:20.556Z"
+    "checkedAt": "2026-10-20T14:11:11.270Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13396,7 +13396,7 @@
       "https://www.target.com.au/p/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster-assorted/72912683",
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100"
     ],
-    "checkedAt": "2026-10-20T14:01:26.832Z"
+    "checkedAt": "2026-10-20T14:11:13.493Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13411,7 +13411,7 @@
       "pokemon-tcg-charizard-ex-premium-collection",
       "pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tins-box-of-10"
     ],
-    "checkedAt": "2026-10-20T14:01:21.351Z"
+    "checkedAt": "2026-10-20T14:11:11.306Z"
   },
   "Gametraders Rouse Hill - Pokemon (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13419,7 +13419,7 @@
     "knownHandles": [
       "pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
-    "checkedAt": "2026-10-20T14:01:21.278Z"
+    "checkedAt": "2026-10-20T14:11:11.108Z"
   },
   "Gametraders Chermside - Pokemon (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13447,7 +13447,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-20T14:01:23.278Z"
+    "checkedAt": "2026-10-20T14:11:08.074Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v3-sealed-positive",
@@ -18103,15 +18103,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-20T14:01:20.368Z"
+    "checkedAt": "2026-10-20T14:11:03.714Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "mur8jj",
-    "checkedAt": "2026-10-20T14:01:25.493Z"
+    "hash": "-rb3c52",
+    "checkedAt": "2026-10-20T14:11:09.454Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v3-sealed-positive",
@@ -18123,11 +18123,11 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T14:01:26.308Z"
+    "checkedAt": "2026-10-20T14:11:11.093Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-5o134k",
-    "checkedAt": "2026-10-20T14:01:25.505Z"
+    "hash": "-ll9g4t",
+    "checkedAt": "2026-10-20T14:11:09.427Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v3-sealed-positive",
@@ -18139,7 +18139,7 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T14:01:26.703Z"
+    "checkedAt": "2026-10-20T14:11:10.725Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18165,7 +18165,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-20T14:01:19.957Z"
+    "checkedAt": "2026-10-20T14:11:03.336Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18234,11 +18234,6 @@
         "firstSeen": "2026-10-19T09:16:05.550Z"
       },
       {
-        "handle": "P_43818617",
-        "available": true,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43756063",
         "available": false,
         "price": "$50.00",
@@ -18248,6 +18243,11 @@
         "handle": "P_43665945",
         "available": false,
         "price": "$69.00"
+      },
+      {
+        "handle": "P_43818617",
+        "available": true,
+        "price": "$54.00"
       },
       {
         "handle": "P_43756056",
@@ -18317,9 +18317,9 @@
         "price": "$80.00"
       },
       {
-        "handle": "P_43675364",
+        "handle": "P_43172382",
         "available": false,
-        "price": "$30.00"
+        "price": "$6.00"
       }
     ],
     "knownHandles": [
@@ -18390,6 +18390,6 @@
       "P_43767236",
       "P_43755998"
     ],
-    "checkedAt": "2026-10-20T14:01:20.056Z"
+    "checkedAt": "2026-10-20T14:11:03.469Z"
   }
 }
