@@ -1603,15 +1603,15 @@
       "pokemon-tcg-deck-crafters-collection",
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T17:11:09.288Z"
+    "checkedAt": "2026-10-20T17:16:23.427Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-efrgc1",
-    "checkedAt": "2026-10-20T17:11:13.095Z"
+    "hash": "-4dk5k4",
+    "checkedAt": "2026-10-20T17:16:30.209Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-20T17:11:13.147Z"
+    "checkedAt": "2026-10-20T17:16:26.850Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2462,7 +2462,7 @@
       "pokemon-tcg-30th-celebration-pokemon-ex-box",
       "pokemon-tcg-30th-celebration-knock-out-collection"
     ],
-    "checkedAt": "2026-10-20T17:11:06.766Z"
+    "checkedAt": "2026-10-20T17:16:27.456Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -13382,7 +13382,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-20T17:11:07.550Z"
+    "checkedAt": "2026-10-20T17:16:26.107Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13396,7 +13396,7 @@
       "https://www.target.com.au/p/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster-assorted/72912683",
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100"
     ],
-    "checkedAt": "2026-10-20T17:11:14.518Z"
+    "checkedAt": "2026-10-20T17:16:28.434Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13447,7 +13447,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-20T17:11:10.061Z"
+    "checkedAt": "2026-10-20T17:16:27.773Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v3-sealed-positive",
@@ -18103,15 +18103,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-20T17:11:06.876Z"
+    "checkedAt": "2026-10-20T17:16:21.432Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-lifpjl",
-    "checkedAt": "2026-10-20T17:11:13.108Z"
+    "hash": "-vle1kh",
+    "checkedAt": "2026-10-20T17:16:26.788Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v3-sealed-positive",
@@ -18123,11 +18123,11 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T17:11:13.975Z"
+    "checkedAt": "2026-10-20T17:16:31.454Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-wfl4xn",
-    "checkedAt": "2026-10-20T17:11:13.124Z"
+    "hash": "pz0yny",
+    "checkedAt": "2026-10-20T17:16:26.839Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v3-sealed-positive",
@@ -18139,7 +18139,7 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T17:11:14.497Z"
+    "checkedAt": "2026-10-20T17:16:31.886Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18165,7 +18165,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-20T17:11:06.627Z"
+    "checkedAt": "2026-10-20T17:16:17.812Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18234,15 +18234,15 @@
         "firstSeen": "2026-10-19T09:16:05.550Z"
       },
       {
-        "handle": "P_43818617",
-        "available": true,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43756063",
         "available": false,
         "price": "$50.00",
         "firstSeen": "2026-10-18T07:05:52.678Z"
+      },
+      {
+        "handle": "P_43818617",
+        "available": true,
+        "price": "$54.00"
       },
       {
         "handle": "P_43665945",
@@ -18317,9 +18317,9 @@
         "price": "$80.00"
       },
       {
-        "handle": "P_43675364",
+        "handle": "P_43172382",
         "available": false,
-        "price": "$30.00"
+        "price": "$6.00"
       }
     ],
     "knownHandles": [
@@ -18390,6 +18390,6 @@
       "P_43767236",
       "P_43755998"
     ],
-    "checkedAt": "2026-10-20T17:11:07.070Z"
+    "checkedAt": "2026-10-20T17:16:17.859Z"
   }
 }
