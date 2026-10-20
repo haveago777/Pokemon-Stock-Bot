@@ -1608,15 +1608,15 @@
       "pokemon-tcg-deck-crafters-collection",
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T11:21:12.250Z"
+    "checkedAt": "2026-10-20T11:25:46.874Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-mv73p0",
-    "checkedAt": "2026-10-20T11:21:18.494Z"
+    "hash": "ec7s8h",
+    "checkedAt": "2026-10-20T11:25:53.005Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-20T11:21:18.424Z"
+    "checkedAt": "2026-10-20T11:25:49.722Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2467,7 +2467,7 @@
       "pokemon-tcg-30th-celebration-pokemon-ex-box",
       "pokemon-tcg-30th-celebration-knock-out-collection"
     ],
-    "checkedAt": "2026-10-20T11:21:12.273Z"
+    "checkedAt": "2026-10-20T11:25:54.415Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -13387,7 +13387,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-20T11:21:12.443Z"
+    "checkedAt": "2026-10-20T11:25:52.175Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13402,7 +13402,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pre-order-pokemon-tcg-3-th-celebration-ultra-premium-collection-night/73528173"
     ],
-    "checkedAt": "2026-10-20T11:21:20.008Z"
+    "checkedAt": "2026-10-20T11:25:55.699Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13453,7 +13453,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-20T11:21:17.269Z"
+    "checkedAt": "2026-10-20T11:25:53.147Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v3-sealed-positive",
@@ -18114,15 +18114,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-20T11:21:11.859Z"
+    "checkedAt": "2026-10-20T11:25:48.087Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-93h20s",
-    "checkedAt": "2026-10-20T11:21:18.437Z"
+    "hash": "-repq9x",
+    "checkedAt": "2026-10-20T11:25:52.925Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v3-sealed-positive",
@@ -18134,11 +18134,11 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T11:21:19.967Z"
+    "checkedAt": "2026-10-20T11:25:50.511Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-27bhft",
-    "checkedAt": "2026-10-20T11:21:18.406Z"
+    "hash": "7oriy",
+    "checkedAt": "2026-10-20T11:25:52.930Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v3-sealed-positive",
@@ -18150,7 +18150,7 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T11:21:19.604Z"
+    "checkedAt": "2026-10-20T11:25:50.360Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18176,7 +18176,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-20T11:21:11.710Z"
+    "checkedAt": "2026-10-20T11:25:44.459Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18328,9 +18328,9 @@
         "price": "$80.00"
       },
       {
-        "handle": "P_43675364",
+        "handle": "P_43172382",
         "available": false,
-        "price": "$30.00"
+        "price": "$6.00"
       }
     ],
     "knownHandles": [
@@ -18401,6 +18401,6 @@
       "P_43767236",
       "P_43755998"
     ],
-    "checkedAt": "2026-10-20T11:21:11.740Z"
+    "checkedAt": "2026-10-20T11:25:44.552Z"
   }
 }
