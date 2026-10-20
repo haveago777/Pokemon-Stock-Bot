@@ -1134,5 +1134,9 @@
   {
     "timestamp": "2026-10-19T13:16:08.602Z",
     "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Kmart - Pokemon TCG (Constructor API)</b>\n<a href=\"https://www.kmart.com.au/product/pokemon-trading-card-game:-2025-world-championships-deck-assorted-43767236/\">Trading Card Game: 2025 World Championships Deck - Assorted</a> — <b>$40.00</b> <i>(RRP ~$50)</i>"
+  },
+  {
+    "timestamp": "2026-10-20T00:01:29.308Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 895 sealed listings this run (160 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
