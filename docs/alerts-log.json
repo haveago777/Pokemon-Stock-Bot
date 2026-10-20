@@ -1138,5 +1138,9 @@
   {
     "timestamp": "2026-10-20T00:01:29.308Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 895 sealed listings this run (160 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-20T04:56:40.934Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Target AU</b>\n🔥 <a href=\"https://www.target.com.au/p/pre-order-pokemon-tcg-3-th-celebration-ultra-premium-collection-night/73528173\">Pre-Order Pokemon TCG: 30th Celebration Ultra-Premium Collection - Night</a> <i>(RRP ~$280)</i>"
   }
 ]
