@@ -1603,15 +1603,15 @@
       "pokemon-tcg-deck-crafters-collection",
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T14:31:14.620Z"
+    "checkedAt": "2026-10-20T14:36:00.865Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "leg7xj",
-    "checkedAt": "2026-10-20T14:31:17.222Z"
+    "hash": "5j1cgj",
+    "checkedAt": "2026-10-20T14:36:03.978Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-10-20T14:31:16.843Z"
+    "checkedAt": "2026-10-20T14:36:00.236Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2411,7 +2411,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-10-20T14:31:19.104Z"
+    "checkedAt": "2026-10-20T14:36:06.674Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2462,7 +2462,7 @@
       "pokemon-tcg-30th-celebration-pokemon-ex-box",
       "pokemon-tcg-30th-celebration-knock-out-collection"
     ],
-    "checkedAt": "2026-10-20T14:31:11.890Z"
+    "checkedAt": "2026-10-20T14:36:04.094Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2576,7 +2576,7 @@
       "hisuian-goodra-gg21gg70-crown-zenith-galarian-gallery-holo-nmm-523049",
       "magmortar-gg03gg70-trainer-gallery-rare-crown-zenith-galarian-gallery-holo-nmm-729762"
     ],
-    "checkedAt": "2026-10-20T14:31:13.411Z"
+    "checkedAt": "2026-10-20T14:36:04.435Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v3-sealed-positive",
@@ -2611,7 +2611,7 @@
       "pokemon-tcg-mega-greninja-ex-league-battle-deck",
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection"
     ],
-    "checkedAt": "2026-10-20T14:31:12.518Z"
+    "checkedAt": "2026-10-20T14:36:04.090Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13382,7 +13382,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-10-20T14:31:12.236Z"
+    "checkedAt": "2026-10-20T14:36:02.435Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13396,7 +13396,7 @@
       "https://www.target.com.au/p/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster-assorted/72912683",
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100"
     ],
-    "checkedAt": "2026-10-20T14:31:18.947Z"
+    "checkedAt": "2026-10-20T14:36:05.694Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13447,7 +13447,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-10-20T14:31:14.589Z"
+    "checkedAt": "2026-10-20T14:36:00.182Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v3-sealed-positive",
@@ -18103,23 +18103,31 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-tlp7bm",
-    "checkedAt": "2026-10-20T14:31:11.524Z"
+    "checkedAt": "2026-10-20T14:35:54.826Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-24fhom",
-    "checkedAt": "2026-10-20T14:31:17.181Z"
+    "hash": "5ob3s",
+    "checkedAt": "2026-10-20T14:36:03.998Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
-    "hash": "7jwt2u",
-    "checkedAt": "2026-10-20T14:31:17.190Z"
+    "mode": "v3-sealed-positive",
+    "itemUrls": [
+      "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
+      "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
+    ],
+    "knownUrls": [
+      "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
+      "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
+    ],
+    "checkedAt": "2026-10-20T14:36:03.306Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-94x67q",
-    "checkedAt": "2026-10-20T14:31:16.866Z"
+    "hash": "-qapoer",
+    "checkedAt": "2026-10-20T14:36:03.982Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v3-sealed-positive",
@@ -18131,7 +18139,7 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-10-20T14:31:17.951Z"
+    "checkedAt": "2026-10-20T14:36:03.906Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18157,7 +18165,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-10-20T14:31:11.210Z"
+    "checkedAt": "2026-10-20T14:35:54.520Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18226,11 +18234,6 @@
         "firstSeen": "2026-10-19T09:16:05.550Z"
       },
       {
-        "handle": "P_43818617",
-        "available": true,
-        "price": "$54.00"
-      },
-      {
         "handle": "P_43756063",
         "available": false,
         "price": "$50.00",
@@ -18240,6 +18243,11 @@
         "handle": "P_43665945",
         "available": false,
         "price": "$69.00"
+      },
+      {
+        "handle": "P_43818617",
+        "available": true,
+        "price": "$54.00"
       },
       {
         "handle": "P_43756056",
@@ -18309,9 +18317,9 @@
         "price": "$80.00"
       },
       {
-        "handle": "P_43675364",
+        "handle": "P_43172382",
         "available": false,
-        "price": "$30.00"
+        "price": "$6.00"
       }
     ],
     "knownHandles": [
@@ -18382,6 +18390,6 @@
       "P_43767236",
       "P_43755998"
     ],
-    "checkedAt": "2026-10-20T14:31:11.429Z"
+    "checkedAt": "2026-10-20T14:35:54.568Z"
   }
 }
