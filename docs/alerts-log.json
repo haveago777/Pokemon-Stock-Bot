@@ -1150,5 +1150,9 @@
   {
     "timestamp": "2026-10-21T09:11:12.728Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>GD Games</b>\n<a href=\"https://www.gdgames.com.au/products/ascended-heroes-mini-tins-pokemon-tcg\">Ascended Heroes Mini Tins</a> — <b>$69.95</b> <i>(RRP ~$70)</i>"
+  },
+  {
+    "timestamp": "2026-10-22T00:01:29.442Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 890 sealed listings this run (161 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
