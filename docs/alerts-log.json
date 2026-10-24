@@ -1166,5 +1166,9 @@
   {
     "timestamp": "2026-10-23T19:26:01.143Z",
     "message": "📍 <b>NEARBY SIGNAL</b> (3216)\nNearby - EB Games Pokemon\n• postcode 3216 mentioned\nhttps://www.ebgames.com.au/featured/pokemon-trading-card-game\n<i>Open the page and enter your postcode to confirm store stock.</i>"
+  },
+  {
+    "timestamp": "2026-10-24T00:01:32.076Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 888 sealed listings this run (156 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
