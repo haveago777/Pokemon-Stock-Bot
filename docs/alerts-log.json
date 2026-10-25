@@ -1174,5 +1174,9 @@
   {
     "timestamp": "2026-10-24T03:16:30.649Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Light of Cards</b>\n<a href=\"https://lightofcards.com.au/products/pre-order-pokemon-tcg-30th-anniversary-ditto-premium-collection\">[Pre-Order] Pokémon TCG: 30th Anniversary Ditto Premium Collection</a> — <b>$105.00</b> <i>(RRP ~$100)</i>  📈+5%"
+  },
+  {
+    "timestamp": "2026-10-25T00:01:39.790Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 883 sealed listings this run (153 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
