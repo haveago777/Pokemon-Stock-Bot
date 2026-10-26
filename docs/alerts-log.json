@@ -1178,5 +1178,9 @@
   {
     "timestamp": "2026-10-25T00:01:39.790Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 883 sealed listings this run (153 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-26T00:01:27.023Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n44 source(s) reachable, 0 blocked, 2 other failures.\n\n⚠️ Other failures (2):\n• Good Games TCG - Pokemon (product feed)\n• Troll Australia - Pokemon TCG\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 869 sealed listings this run (145 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
