@@ -1190,5 +1190,9 @@
   {
     "timestamp": "2026-10-27T06:06:14.743Z",
     "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>PokeTrader Australia</b>\n<a href=\"https://www.poketrader.com.au/products/pokemon-tcg-miraidon-ex-koraidon-ex-deluxe-battle-deck-select-a-deck\">TCG Miraidon ex/Koraidon ex Deluxe Battle Deck (SELECT A DECK]</a> — <b>$40.00</b> <i>(RRP ~$50)</i>"
+  },
+  {
+    "timestamp": "2026-10-28T00:01:42.397Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 893 sealed listings this run (159 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
