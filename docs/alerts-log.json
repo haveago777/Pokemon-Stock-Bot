@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-09T00:10:29.726Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-09T04:10:56.183Z",
     "message": "🧪 <b>Test alert</b>\nIf you're reading this in Telegram, the bot's Telegram pipeline works end-to-end."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-10-29T07:11:14.657Z",
     "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Drop Store Collectables</b>\n<a href=\"https://dropstore.com.au/products/mega-latias-ex-box-pokemon-tcg\">Mega Latias ex Box</a> — <b>$79.95</b> <i>(RRP ~$80)</i>"
+  },
+  {
+    "timestamp": "2026-10-29T21:16:11.458Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Target AU</b>\n<a href=\"https://www.target.com.au/p/pokemon-tcg-3-th-celebration-battle-deck-assorted/73301523\">30th Celebration Battle Deck - Assorted</a> <i>(RRP ~$50)</i>"
   }
 ]
