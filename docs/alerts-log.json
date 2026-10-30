@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-10T01:32:04.144Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-10T18:22:37.400Z",
     "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Pokemon Select 30th Anniversary Glitter Battle Figure - Assorted\n  https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-10-30T00:01:25.389Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 884 sealed listings this run (157 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-30T01:26:00.232Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Low Pop Trading Co</b>\n<a href=\"https://www.lowpop.com.au/products/pokemon-tcg-deck-crafter-s-collection\">Deck Crafter’s Collection</a> — <b>$20.00</b> <i>(RRP ~$90)</i>\n<a href=\"https://www.lowpop.com.au/products/pokemon-tcg-mega-greninja-ex-league-battle-deck\">Mega Greninja ex League Battle Deck</a> — <b>$54.99</b> <i>(RRP ~$50)</i>  📈+10%"
   }
 ]
