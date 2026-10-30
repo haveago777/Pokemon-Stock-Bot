@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-11T00:49:09.540Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-12T01:39:26.085Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\nNo separate message means nothing new to report today."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-10-30T01:35:53.459Z",
     "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-deck-crafters-collection\">TCG - Deck Crafter's Collection</a> — <b>$13.00</b> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-10-30T06:41:06.650Z",
+    "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Everson Emporium - Pokemon (Ipswich QLD, confirmed Shopify)</b>\n<a href=\"https://eetcg.com.au/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle\">Mega Evolution— Delta Reign Booster Bundle</a> — <b>$60.00</b> <i>(RRP ~$55)</i>  📈+9%"
   }
 ]
