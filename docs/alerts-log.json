@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-12T01:39:26.085Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-12T05:32:10.097Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-10-30T06:41:06.650Z",
     "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Everson Emporium - Pokemon (Ipswich QLD, confirmed Shopify)</b>\n<a href=\"https://eetcg.com.au/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle\">Mega Evolution— Delta Reign Booster Bundle</a> — <b>$60.00</b> <i>(RRP ~$55)</i>  📈+9%"
+  },
+  {
+    "timestamp": "2026-10-30T13:21:12.527Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Eclipse Games</b>\n<a href=\"https://eclipsegames.com.au/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-bundle\">TCG Mega Evolutions Perfect Order Booster Bundle</a> — <b>$53.00</b> <i>(RRP ~$55)</i>\n<a href=\"https://eclipsegames.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-bundle\">TCG Mega Evolutions 4 Chaos Rising Booster Bundle</a> — <b>$53.00</b> <i>(RRP ~$55)</i>"
   }
 ]
