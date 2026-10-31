@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-14T01:37:36.832Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n\n🧪 Self-test: 12/12 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
-    "timestamp": "2026-09-15T00:42:56.869Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• ZiNG Pop Culture - Pokemon TCG\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Set-announcement watcher\n\n🧪 Self-test: 12/12 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-15T05:21:16.691Z",
     "message": "🆕 <b>New listing(s) detected</b>\nTroll Australia - Pokemon TCG\n\n• Pikachu (ME: 30th Celebration) (30C) — $59.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-12\n• Pikachu (ME: 30th Celebration) (30C) — $56.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-11\n• Pikachu (ME: 30th Celebration) (30C) — $56.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-10\n• Pikachu (ME: 30th Celebration) (30C) — $52.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-9\n• Pikachu (ME: 30th Celebration) (30C) — $59.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-8\n• Pikachu (ME: 30th Celebration) (30C) — $81.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-7\n• Pikachu (ME: 30th Celebration) (30C) — $56.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-6\n• Pikachu (ME: 30th Celebration) (30C) — $56.00 (listed, not yet orderable)\n  https://www.trollaustralia.com.au/products/pikachu-me-30th-celebration-30c-5"
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-10-31T00:01:23.825Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 889 sealed listings this run (164 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-10-31T06:05:53.827Z",
+    "message": "📍 <b>NEARBY CHECK</b> (3216)\nKmart has orderable sealed stock online.\nLocal stores to check:\n• Kmart Waurn Ponds\n• Kmart Belmont\n• Kmart Corio\n\n• <a href=\"https://www.kmart.com.au/product/pokemon-trading-card-game:-30th-celebration-battle-deck-assorted-43818624/\">Trading Card Game: 30th Celebration Battle Deck - Assorted</a> — $40.00\n\n<i>Online stock ≠ guaranteed in every store. Call or check click &amp; collect before driving.</i>"
+  },
+  {
+    "timestamp": "2026-10-31T06:05:55.061Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Kmart - Pokemon TCG (Constructor API)</b>\n<a href=\"https://www.kmart.com.au/product/pokemon-trading-card-game:-30th-celebration-battle-deck-assorted-43818624/\">Trading Card Game: 30th Celebration Battle Deck - Assorted</a> — <b>$40.00</b> <i>(RRP ~$50)</i>"
   }
 ]
