@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-15T21:45:44.486Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTroll Australia - Pokemon TCG\n\n• Mewtwo ex (157/128) (ME: 30th Celebration) (30C) — $1026.00 (in stock)\n  https://www.trollaustralia.com.au/products/mewtwo-ex-157-128-me-30th-celebration-30c\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2120.00 (in stock)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
-  },
-  {
-    "timestamp": "2026-09-15T22:56:06.693Z",
-    "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2119.00 (was $2120.00)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
-  },
-  {
     "timestamp": "2026-09-16T00:52:36.578Z",
     "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Mewtwo ex (157/128) (ME: 30th Celebration) (30C) — $1025.00 (was $1026.00)\n  https://www.trollaustralia.com.au/products/mewtwo-ex-157-128-me-30th-celebration-30c\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2118.00 (was $2119.00)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-11-01T01:41:24.131Z",
     "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n🔥 🇯🇵 <a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-japanese-sv4m-future-flash\">Japanese - SV4M Future Flash Booster Box</a> — <b>$130.00</b> <i>(JP ref ~$160)</i>"
+  },
+  {
+    "timestamp": "2026-11-01T01:45:58.488Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n🔥 🇯🇵 <a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-japanese-sv5m-cyber-judge-booster-box\">Japanese - SV5M Cyber Judge Booster Box</a> — <b>$140.00</b> <i>(JP ref ~$160)</i>"
+  },
+  {
+    "timestamp": "2026-11-01T01:45:59.036Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n<a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-first-partner-illustration-collection-series-3\">First Partner Illustration Collection—Series 3</a> — <b>$68.00</b> <i>(RRP ~$70)</i>"
   }
 ]
