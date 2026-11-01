@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-15T07:38:28.280Z",
-    "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $225.00\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
     "timestamp": "2026-09-15T21:45:44.486Z",
     "message": "🆕 <b>New listing(s) detected</b>\nTroll Australia - Pokemon TCG\n\n• Mewtwo ex (157/128) (ME: 30th Celebration) (30C) — $1026.00 (in stock)\n  https://www.trollaustralia.com.au/products/mewtwo-ex-157-128-me-30th-celebration-30c\n• Mew ex (158/128) (ME: 30th Celebration) (30C) — $2120.00 (in stock)\n  https://www.trollaustralia.com.au/products/mew-ex-158-128-me-30th-celebration-30c"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-01T00:02:19.421Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Good Games TCG - Pokemon (product feed)\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 889 sealed listings this run (163 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-01T01:41:24.131Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n🔥 🇯🇵 <a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-japanese-sv4m-future-flash\">Japanese - SV4M Future Flash Booster Box</a> — <b>$130.00</b> <i>(JP ref ~$160)</i>"
   }
 ]
