@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-16T01:45:04.983Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n🔥 • Pokemon TCG: 30th Celebration Elite Trainer Box - Assorted\n  https://www.target.com.au/p/pokemon-tcg-3-th-celebration-elite-trainer-box-assorted/73301585"
-  },
-  {
     "timestamp": "2026-09-16T01:46:02.999Z",
     "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Mewtwo ex (157/128) (ME: 30th Celebration) (30C) — $974.00 (was $1025.00)\n  https://www.trollaustralia.com.au/products/mewtwo-ex-157-128-me-30th-celebration-30c\n• Moltres (130/128) (ME: 30th Celebration) (30C) — $28.00 (was $71.00)\n  https://www.trollaustralia.com.au/products/moltres-130-128-me-30th-celebration-30c\n• Scraggy (140/128) (ME: 30th Celebration) (30C) — $67.00 (was $100.00)\n  https://www.trollaustralia.com.au/products/scraggy-140-128-me-30th-celebration-30c\n• Greninja ex (148/128) (ME: 30th Celebration) (30C) — $382.00 (was $396.00)\n  https://www.trollaustralia.com.au/products/greninja-ex-148-128-me-30th-celebration-30c\n• Chandelure (137/128) (ME: 30th Celebration) (30C) — $59.00 (was $112.00)\n  https://www.trollaustralia.com.au/products/chandelure-137-128-me-30th-celebration-30c\n• Mew VMAX (114/264) (ME: 30th Celebration Classic Collection) (30C) — $110.00 (was $114.00)\n  https://www.trollaustralia.com.au/products/mew-vmax-114-264-me-30th-celebration-classic-collection-30c"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-02T05:24:10.774Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 901 sealed listings this run (174 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-02T22:29:42.872Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Target AU</b>\n<a href=\"https://www.target.com.au/p/pokemon-tcg-scarlet-violet-surging-sparks-blister-assorted/70522938\">Scarlet &amp; Violet—Surging Sparks Blister - Assorted*</a> <i>(RRP ~$15)</i>"
   }
 ]
