@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-16T01:46:11.604Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nThe Card Cave - Pokemon\n\n• POKEMON TCG - Mew VMAX 114/264 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-mew-vmax-114-264-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Solgaleo GX 089/149 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-solgaleo-gx-089-149-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Metagross (Delta Species) 011/113 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-metagross-delta-species-011-113-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Raikou 050/185 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-raikou-050-185-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Genesect EX (Team Plasma) 011/101 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-genesect-ex-team-plasma-011-101-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Buzzwole GX 057/111 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-buzzwole-gx-057-111-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Misty 018/132 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-misty-018-132-me-30th-celebration-classic-collection-classic-collection\n• POKEMON TCG - Shining Celebi 106/105 ME 30th Celebration Classic Collection - Classic Collection — $0.00 (listed, not yet orderable)\n  https://thecardcave.com.au/products/pokemon-tcg-shining-celebi-106-105-me-30th-celebration-classic-collection-classic-collection"
-  },
-  {
     "timestamp": "2026-09-16T03:46:27.535Z",
     "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-03T03:40:18.500Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> none yet\n<i>New sets are added automatically when announced.</i>\n• Scanning 901 sealed listings this run (176 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-03T11:22:38.085Z",
+    "message": "📊 <b>Monthly retail price check</b>\nAdjusted reference prices from what stores are charging:\n• Tin: $45 → $35 (115 prices)\n\nTolerance still applies on top. Tell Claude if any look wrong."
   }
 ]
