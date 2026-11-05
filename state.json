@@ -56,12 +56,12 @@
       {
         "handle": "pokemon-japanese-tcg-inferno-x-box-m2-booster-box",
         "available": false,
-        "price": "$153.00"
+        "price": "$154.00"
       },
       {
         "handle": "pokemon-japanese-tcg-high-class-pack-mega-dream-ex-m2a-booster-box",
         "available": false,
-        "price": "$128.00"
+        "price": "$129.00"
       },
       {
         "handle": "pokemon-japanese-tcg-nihil-zero-munikis-zero-m3-booster-box",
@@ -101,7 +101,7 @@
       {
         "handle": "pokemon-tcg-shrouded-fable-booster-bundle-acrylic-case",
         "available": false,
-        "price": "$128.00"
+        "price": "$129.00"
       },
       {
         "handle": "pokemon-tcg-archaludon-ex-box",
@@ -251,7 +251,7 @@
       {
         "handle": "pokemon-tcg-chaos-rising-booster-box",
         "available": false,
-        "price": "$221.00"
+        "price": "$222.00"
       },
       {
         "handle": "pokemon-tcg-perfect-order-checklane-blister",
@@ -286,7 +286,7 @@
       {
         "handle": "pokemon-tcg-perfect-order-booster-box",
         "available": false,
-        "price": "$221.00"
+        "price": "$222.00"
       },
       {
         "handle": "pokemon-tcg-pokeball-tins-q4-2025",
@@ -366,7 +366,7 @@
       {
         "handle": "pokemon-tcg-phantasmal-flames-checklane-blister",
         "available": false,
-        "price": "$15.00"
+        "price": "$16.00"
       },
       {
         "handle": "pokemon-tcg-mega-evolution-build-battle-box",
@@ -481,7 +481,7 @@
       {
         "handle": "pokemon-tcg-destined-rivals-checklane-blister",
         "available": false,
-        "price": "$10.00"
+        "price": "$11.00"
       },
       {
         "handle": "pokemon-tcg-destined-rivals-build-and-battle-box",
@@ -591,7 +591,7 @@
       {
         "handle": "pokemon-tcg-ultra-premium-collection-terapagos-ex",
         "available": false,
-        "price": "$178.00"
+        "price": "$179.00"
       },
       {
         "handle": "pokemon-tcg-miraidon-ex-koraidon-ex-deluxe-battle-deck",
@@ -671,7 +671,7 @@
       {
         "handle": "pokemon-tcg-twilight-masquerade-booster-box-options",
         "available": false,
-        "price": "$128.00"
+        "price": "$129.00"
       },
       {
         "handle": "pokemon-tcg-triple-whammy-back-issue-collector-tin",
@@ -761,7 +761,7 @@
       {
         "handle": "pokemon-tcg-paradox-rift-booster-box-options",
         "available": false,
-        "price": "$278.00"
+        "price": "$279.00"
       },
       {
         "handle": "pokemon-tcg-pokeball-tins-series-9",
@@ -971,7 +971,7 @@
       {
         "handle": "pokemon-tcg-lost-origin-booster-box-options",
         "available": false,
-        "price": "$278.00"
+        "price": "$279.00"
       },
       {
         "handle": "pokemon-tcg-enhanced-blister-pack",
@@ -1126,7 +1126,7 @@
       {
         "handle": "pokemon-tcg-battle-styles-booster-box-options",
         "available": false,
-        "price": "$271.00"
+        "price": "$272.00"
       },
       {
         "handle": "pokemon-tcg-shining-fates-mini-tins",
@@ -1569,15 +1569,15 @@
       "pokemon-tcg-ascended-heroes-focused-fighters-premium-collection",
       "pokemon-tcg-unova-heavy-hitters-premium-collection"
     ],
-    "checkedAt": "2026-11-04T23:57:01.203Z"
+    "checkedAt": "2026-11-05T05:14:48.868Z"
   },
   "ZiNG Pop Culture - Pokemon TCG": {
-    "hash": "-w0ts13",
-    "checkedAt": "2026-11-04T23:57:03.628Z"
+    "hash": "mrcy4s",
+    "checkedAt": "2026-11-05T05:14:54.445Z"
   },
   "Pokemon Center Australia - TCG": {
     "hash": "0",
-    "checkedAt": "2026-11-04T23:57:03.603Z"
+    "checkedAt": "2026-11-05T05:14:54.582Z"
   },
   "Good Games - Pokemon TCG": {
     "itemUrls": [],
@@ -2362,7 +2362,7 @@
       "cgc8-5-1999-pokemon-pikachu-black-star-promo-25-mewtwo-strikes-back",
       "cgc8-2021-pokemon-charizard-vmax-sv107-sv122-shining-fates"
     ],
-    "checkedAt": "2026-11-04T23:57:02.013Z"
+    "checkedAt": "2026-11-05T05:14:51.257Z"
   },
   "Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)": {
     "hash": "-cf3tqc",
@@ -2413,7 +2413,7 @@
       "pokemon-tcg-30th-celebration-pokemon-ex-box",
       "pokemon-tcg-30th-celebration-knock-out-collection"
     ],
-    "checkedAt": "2026-11-04T23:56:57.824Z"
+    "checkedAt": "2026-11-05T05:14:48.180Z"
   },
   "Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)": {
     "hash": "p7etvs",
@@ -2475,7 +2475,7 @@
       "pokemon-tcg-30th-celebration-mini-tin-assorted",
       "pokemon-tcg-30th-celebration-booster-pack"
     ],
-    "checkedAt": "2026-11-04T23:56:58.317Z"
+    "checkedAt": "2026-11-05T05:14:48.820Z"
   },
   "Puck & Son TCG - Pokemon (Wix site, not Shopify)": {
     "hash": "-3wyj5n",
@@ -2527,7 +2527,7 @@
       "hisuian-goodra-gg21gg70-crown-zenith-galarian-gallery-holo-nmm-523049",
       "magmortar-gg03gg70-trainer-gallery-rare-crown-zenith-galarian-gallery-holo-nmm-729762"
     ],
-    "checkedAt": "2026-11-04T23:57:00.874Z"
+    "checkedAt": "2026-11-05T05:14:51.020Z"
   },
   "Gameology - Pokemon Preorders": {
     "mode": "v3-sealed-positive",
@@ -2550,7 +2550,7 @@
       {
         "handle": "pokemon-tcg-deck-crafter-s-collection",
         "available": false,
-        "price": "$19.00",
+        "price": "$23.00",
         "firstSeen": "2026-10-11T06:05:51.381Z"
       },
       {
@@ -2579,7 +2579,7 @@
       "pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
       "pokemon-tcg-30th-celebration-battle-deck-espeon-ex-umbreon-ex-random-select"
     ],
-    "checkedAt": "2026-11-04T23:56:58.195Z"
+    "checkedAt": "2026-11-05T05:14:48.788Z"
   },
   "Gametraders Seaford - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -2588,7 +2588,7 @@
       "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
       "pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box"
     ],
-    "checkedAt": "2026-11-04T23:56:58.005Z"
+    "checkedAt": "2026-11-05T05:14:48.622Z"
   },
   "Mind Games - Pokemon (WooCommerce, not Shopify)": {
     "mode": "v2-all-pokemon",
@@ -2656,7 +2656,7 @@
       "tcg-mega-evolutions-5-pitch-black-booster-1pc",
       "tcg-pokemon-2-pack-blister-1pc"
     ],
-    "checkedAt": "2026-11-04T23:57:00.192Z"
+    "checkedAt": "2026-11-05T05:14:49.343Z"
   },
   "Card Traders Australia - Pokemon Sealed": {
     "mode": "v3-sealed-positive",
@@ -3050,7 +3050,7 @@
       "pokemon-league-battle-deck-rapid-strike-urshifu-vmax",
       "pokemon-celebrations-first-partner-collectors-binder"
     ],
-    "checkedAt": "2026-11-04T23:56:58.928Z"
+    "checkedAt": "2026-11-05T05:14:50.461Z"
   },
   "Troll Australia - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -3286,7 +3286,7 @@
       "2025-world-championship-deck-jose-cruz-galindo-resendiz-pult-bomb",
       "2023-world-championship-deck-mews-revenge-vance-kelley"
     ],
-    "checkedAt": "2026-11-04T23:57:02.217Z"
+    "checkedAt": "2026-11-05T05:14:51.477Z"
   },
   "PokeTrader Australia": {
     "mode": "v3-sealed-positive",
@@ -3682,7 +3682,7 @@
       "pokemon-tcg-ascended-heroes-tine",
       "pokemon-tcg-miraidon-ex-koraidon-ex-deluxe-battle-deck-select-a-deck"
     ],
-    "checkedAt": "2026-11-04T23:57:02.108Z"
+    "checkedAt": "2026-11-05T05:14:52.493Z"
   },
   "Gamers Combined - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -4089,7 +4089,7 @@
       "pokemon-card-sword-shield-vmax-japanese-triple-starter-set-available-now",
       "4-x-pack-ultra-pro-one-touch-magnetic-case-23pt-holds-pokemon-not-35pt"
     ],
-    "checkedAt": "2026-11-04T23:57:01.257Z"
+    "checkedAt": "2026-11-05T05:14:51.321Z"
   },
   "The Card Cave - Pokemon": {
     "mode": "v3-sealed-positive",
@@ -4180,14 +4180,14 @@
       "pokemon-tcg-lumineon-v-172-prize-pack-series-cards-ultra-rare",
       "pokemon-tcg-origin-forme-palkia-v-189-prize-pack-series-cards-ultra-rare"
     ],
-    "checkedAt": "2026-11-04T23:57:02.184Z"
+    "checkedAt": "2026-11-05T05:14:52.055Z"
   },
   "Trading Card Masters - Pokemon": {
     "products": [],
     "checkedAt": "2026-10-03T12:15:35.893Z"
   },
   "_heartbeat": {
-    "lastSentDate": "2026-11-04"
+    "lastSentDate": "2026-11-05"
   },
   "_cooldowns": {
     "Target AU - Pokemon TCG search::https://www.target.com.au/p/pokemon-select-3-th-anniversary-glitter-battle-figure-assorted/73242710": 1789064557401,
@@ -13348,7 +13348,7 @@
       "https://www.goodgames.com.au/products/fallout-rpg-starter-set",
       "https://www.goodgames.com.au/products/good-games-gift-card"
     ],
-    "checkedAt": "2026-11-04T23:56:58.834Z"
+    "checkedAt": "2026-11-05T05:14:49.204Z"
   },
   "Target AU - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -13363,7 +13363,7 @@
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-journey-together-blister-pack-assorted/71070100",
       "https://www.target.com.au/p/pokemon-tcg-scarlet-violet-surging-sparks-blister-assorted/70522938"
     ],
-    "checkedAt": "2026-11-04T23:57:06.069Z"
+    "checkedAt": "2026-11-05T05:14:57.494Z"
   },
   "Gametraders Southpoint ACT - Pokemon Trading Card (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13378,7 +13378,7 @@
       "pokemon-tcg-charizard-ex-premium-collection",
       "pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tins-box-of-10"
     ],
-    "checkedAt": "2026-11-04T23:56:58.012Z"
+    "checkedAt": "2026-11-05T05:14:48.789Z"
   },
   "Gametraders Rouse Hill - Pokemon (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13386,7 +13386,7 @@
     "knownHandles": [
       "pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
-    "checkedAt": "2026-11-04T23:56:58.051Z"
+    "checkedAt": "2026-11-05T05:14:48.602Z"
   },
   "Gametraders Chermside - Pokemon (verified collection path)": {
     "mode": "v3-sealed-positive",
@@ -13404,7 +13404,7 @@
       "pokemon-sylveon-pop-vinyl",
       "pokemon-lucario-pop-vinyl"
     ],
-    "checkedAt": "2026-11-04T23:56:58.162Z"
+    "checkedAt": "2026-11-05T05:14:48.757Z"
   },
   "Good Games TCG - Pokemon (product feed)": {
     "mode": "v3-sealed-positive",
@@ -13414,7 +13414,7 @@
       "mew-b-rgb-mega-evolution-30th-celebration",
       "mew-r-rgb-mega-evolution-30th-celebration"
     ],
-    "checkedAt": "2026-11-04T23:57:00.274Z"
+    "checkedAt": "2026-11-05T05:14:51.217Z"
   },
   "Trading Card Masters - Pokemon English": {
     "mode": "v3-sealed-positive",
@@ -13449,13 +13449,13 @@
       "pokemon-tcg-simplified-chinese-vol-2-30th-anniversary-celebrations-first-partner-blind-box",
       "pokemon-tcg-dream-painting-eevee-friends-s-chinese-blind-box"
     ],
-    "checkedAt": "2026-11-04T23:57:00.179Z"
+    "checkedAt": "2026-11-05T05:14:50.128Z"
   },
   "ACE Collectibles - Pokemon Pre-Order (Adelaide, confirmed Shopify)": {
     "mode": "v3-sealed-positive",
     "products": [],
     "knownHandles": [],
-    "checkedAt": "2026-11-04T23:57:00.173Z"
+    "checkedAt": "2026-11-05T05:14:50.129Z"
   },
   "One Stop Poke Shop (Sydney, confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -13697,7 +13697,7 @@
       "pokemon-tcg-first-partner-illustration-collection-series-3",
       "pokemon-tcg-japanese-sv5m-cyber-judge-booster-box"
     ],
-    "checkedAt": "2026-11-04T23:57:00.429Z"
+    "checkedAt": "2026-11-05T05:14:50.684Z"
   },
   "Kawaii Collector (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -13986,7 +13986,7 @@
       "pokemon-tcg-gx-league-battle-deck-pikachu-zekrom-gx-rebel-clash-sword-and-shield-pre-order",
       "pokemon-tcg-polteageist-v-box"
     ],
-    "checkedAt": "2026-11-04T23:57:00.413Z"
+    "checkedAt": "2026-11-05T05:14:50.665Z"
   },
   "Cherry Collectables - Booster Boxes (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -14039,7 +14039,7 @@
       "pokemon-tcg-s-chinese-cbb3c-gem-pack-vol-3-booster-box",
       "pokemon-tcg-s-chinese-csv10c-chasing-glory-together-booster-box"
     ],
-    "checkedAt": "2026-11-04T23:57:00.246Z"
+    "checkedAt": "2026-11-05T05:14:51.120Z"
   },
   "Games Empire - Pokemon (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -14110,7 +14110,7 @@
       "pokemon-tcg-league-battle-deck-miraidon-ex",
       "pokemon-tcg-urshifu-vmax-league-battle-deck-rapid-strike-blue"
     ],
-    "checkedAt": "2026-11-04T23:57:00.195Z"
+    "checkedAt": "2026-11-05T05:14:50.214Z"
   },
   "Trainer Town - Pokemon (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -14153,7 +14153,7 @@
       },
       {
         "handle": "pokemon-tcg-lumiose-city-mini-tin-sealed-display",
-        "available": true,
+        "available": false,
         "price": "$229.95"
       },
       {
@@ -14227,7 +14227,7 @@
       "pokemon-tcg-mega-moonlit-tin-clefable-gengar",
       "pokemon-tcg-chaosrising-elite-trainer-box-sealed-case"
     ],
-    "checkedAt": "2026-11-04T23:57:00.228Z"
+    "checkedAt": "2026-11-05T05:14:50.506Z"
   },
   "Treasure Collectables (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -14277,7 +14277,7 @@
       "pokemon-tcg-30th-celebration-ex-box-x6-sealed-case",
       "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection"
     ],
-    "checkedAt": "2026-11-04T23:57:00.222Z"
+    "checkedAt": "2026-11-05T05:14:50.996Z"
   },
   "Northern Beaches Pokemon (WooCommerce, page watch)": {
     "mode": "v2-all-pokemon",
@@ -14315,7 +14315,7 @@
       {
         "handle": "30th-celebration-mini-tin-random-artwork-pokemon-tcg",
         "available": true,
-        "price": "$69.95"
+        "price": "$49.95"
       },
       {
         "handle": "30th-celebration-poster-collection-pokemon-tcg",
@@ -14427,7 +14427,7 @@
       "mega-latias-ex-box-pokemon-tcg",
       "mega-symphonia-m1s-booster-box-japanese-pokemon-tcg"
     ],
-    "checkedAt": "2026-11-04T23:57:00.647Z"
+    "checkedAt": "2026-11-05T05:14:51.435Z"
   },
   "Eclipse Games - Pokemon TCG": {
     "mode": "v3-sealed-positive",
@@ -14470,7 +14470,7 @@
       {
         "handle": "pokemon-tcg-league-battle-deck-miraidon-ex",
         "available": false,
-        "price": "$30.00"
+        "price": "$31.00"
       },
       {
         "handle": "pokemon-tcg-enhanced-2-pack-blisters-latios-zekrom-palkia",
@@ -14495,7 +14495,7 @@
       {
         "handle": "pokemon-tcg-cynthias-garchomp-ex-premium-collection",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-card-game-scarlet-violet-start-deck-generations-reshiram-ex-morobarrel-ex-japanese",
@@ -14590,12 +14590,12 @@
       {
         "handle": "pokemon-tcg-surging-sparks-elite-trainer-box",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-tcg-surging-sparks-booster-box",
         "available": false,
-        "price": "$150.00"
+        "price": "$151.00"
       },
       {
         "handle": "pokemon-tcg-s2a-explosive-flame-walker-booster-box-japanese",
@@ -14630,12 +14630,12 @@
       {
         "handle": "pokemon-tcg-stellar-crown-booster-bundle-case",
         "available": false,
-        "price": "$150.00"
+        "price": "$151.00"
       },
       {
         "handle": "pokemon-tcg-stellar-crown-booster-box",
         "available": false,
-        "price": "$150.00"
+        "price": "$151.00"
       },
       {
         "handle": "pokemon-tcg-stellar-crown-elite-trainer-box",
@@ -14690,7 +14690,7 @@
       {
         "handle": "pokemon-tcg-s9a-battle-region-booster-box-japanese",
         "available": true,
-        "price": "$120.00"
+        "price": "$121.00"
       },
       {
         "handle": "pokemon-tcg-s10a-dark-phantasma-booster-box-japanese",
@@ -14710,7 +14710,7 @@
       {
         "handle": "pokemon-tcg-s10d-time-gazer-booster-box-japanese",
         "available": true,
-        "price": "$150.00"
+        "price": "$151.00"
       },
       {
         "handle": "pokemon-tcg-s12-paradigm-trigger-booster-box-japanese",
@@ -14750,7 +14750,7 @@
       {
         "handle": "pokemon-tcg-crown-zenith-special-collection-pikachu-vmax",
         "available": false,
-        "price": "$45.00"
+        "price": "$46.00"
       },
       {
         "handle": "pokemon-tcg-crown-zenith-mini-tin-assorted",
@@ -14765,7 +14765,7 @@
       {
         "handle": "pokemon-clay-burst-sv2d-booster-box-japanese",
         "available": false,
-        "price": "$120.00"
+        "price": "$121.00"
       },
       {
         "handle": "pokemon-tcg-urshifu-vmax-league-battle-deck",
@@ -14795,7 +14795,7 @@
       {
         "handle": "pokemon-tcg-scarlet-violet-151-elite-trainer-box",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-tcg-scarlet-violet-151-ultra-premium-collection-box",
@@ -14825,17 +14825,17 @@
       {
         "handle": "pokemon-tcg-chilling-reign-etb",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-tcg-temporal-forces-etb",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-tcg-temporal-forces-booster-bundle",
         "available": false,
-        "price": "$30.00"
+        "price": "$31.00"
       },
       {
         "handle": "pokemon-tcg-temporal-forces-booster-box",
@@ -14860,7 +14860,7 @@
       {
         "handle": "pokemon-paldean-fates-etb",
         "available": false,
-        "price": "$60.00"
+        "price": "$61.00"
       },
       {
         "handle": "scarlet-violet-paradox-rift-elite-trainer-box-pokemon-tcg",
@@ -14895,17 +14895,17 @@
       {
         "handle": "pokemon-tcg-brilliant-stars-etb",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "pokemon-tcg-astral-radiance-etb",
         "available": false,
-        "price": "$60.00"
+        "price": "$61.00"
       },
       {
         "handle": "pokemon-tcg-vivid-voltage-etb",
         "available": false,
-        "price": "$90.00"
+        "price": "$91.00"
       },
       {
         "handle": "pokemon-tcg-shining-fates-etb",
@@ -14925,7 +14925,7 @@
       {
         "handle": "pokemon-crown-zenith-etb",
         "available": false,
-        "price": "$75.00"
+        "price": "$76.00"
       },
       {
         "handle": "champions-path-pin-collection-wave-1",
@@ -14945,7 +14945,7 @@
       {
         "handle": "champions-path-hatterene-v-box",
         "available": false,
-        "price": "$45.00"
+        "price": "$46.00"
       },
       {
         "handle": "champions-path-dubwool-v-box",
@@ -14955,12 +14955,12 @@
       {
         "handle": "scarlet-violet-booster-box-36",
         "available": false,
-        "price": "$226.00"
+        "price": "$227.00"
       },
       {
         "handle": "virizion-v-box",
         "available": false,
-        "price": "$30.00"
+        "price": "$31.00"
       },
       {
         "handle": "celebrations-special-collection-pikachu-v-union",
@@ -15281,7 +15281,7 @@
       "pokemon-tcg-mega-evolutions-3-perfect-order-booster-bundle",
       "pokemon-tcg-mega-evolutions-4-chaos-rising-booster-bundle"
     ],
-    "checkedAt": "2026-11-04T23:57:01.397Z"
+    "checkedAt": "2026-11-05T05:14:52.545Z"
   },
   "GD Games - Pokemon (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -15368,9 +15368,9 @@
         "price": "$124.95"
       },
       {
-        "handle": "pokemon-30th-celebration-mini-tin-pokemon-tcg",
+        "handle": "pokemon-30th-celebration-knock-out-collection-pokemon-tcg",
         "available": true,
-        "price": "$54.95"
+        "price": "$59.95"
       },
       {
         "handle": "premium-clear-magnetic-acrylic-case-for-booster-box-pokemon-tcg",
@@ -15383,9 +15383,14 @@
         "price": "$79.95"
       },
       {
+        "handle": "storm-emerald-booster-box-no-shrink-japanese-pokemon-tcg",
+        "available": true,
+        "price": "$114.95"
+      },
+      {
         "handle": "storm-emerald-booster-box-japanese-pokemon-tcg",
         "available": true,
-        "price": "$129.95"
+        "price": "$124.95"
       }
     ],
     "knownHandles": [
@@ -15521,7 +15526,7 @@
       "white-flare-booster-box-japanese-pokemon-tcg",
       "ascended-heroes-mini-tins-pokemon-tcg"
     ],
-    "checkedAt": "2026-11-04T23:57:00.572Z"
+    "checkedAt": "2026-11-05T05:14:51.401Z"
   },
   "TC Game - Japanese Booster Boxes (confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -16214,7 +16219,7 @@
       "pokemon-tcg-mega-evolution-delta-reign-booster-bundle",
       "pokemon-tcg-mega-forces-tin-august-28th-2026"
     ],
-    "checkedAt": "2026-11-04T23:57:00.216Z"
+    "checkedAt": "2026-11-05T05:14:51.285Z"
   },
   "Urban Empire Collectables - Pokemon (Newcastle, confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -16249,7 +16254,7 @@
       "future-flash-sv4m-booster-box-japanese-pokemon-tcg",
       "ancient-roar-sv4k-booster-pack-japanese-pokemon-tcg"
     ],
-    "checkedAt": "2026-11-04T23:57:00.499Z"
+    "checkedAt": "2026-11-05T05:14:51.443Z"
   },
   "Low Pop Trading Co - Pokemon (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -16409,7 +16414,7 @@
       "pokemon-tcg-deck-crafter-s-collection",
       "pokemon-tcg-mega-greninja-ex-league-battle-deck"
     ],
-    "checkedAt": "2026-11-04T23:57:00.467Z"
+    "checkedAt": "2026-11-05T05:14:51.580Z"
   },
   "EB Games - Pokemon TCG featured page": {
     "hash": "-ho9qy7",
@@ -16849,7 +16854,7 @@
       "pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-bundle-copy",
       "pre-order-pokemon-tcg-mega-evolution-delta-reign-three-booster-blister"
     ],
-    "checkedAt": "2026-11-04T23:57:00.448Z"
+    "checkedAt": "2026-11-05T05:14:52.105Z"
   },
   "Goldfields Games (Castlemaine VIC, confirmed Shopify)": {
     "mode": "v2-all-pokemon",
@@ -17924,7 +17929,7 @@
       "pokemon-tcg-scarlet-violet-elite-trainer-box",
       "pokemon-tcg-mega-evolution-delta-reign-build-battle-box-me06"
     ],
-    "checkedAt": "2026-11-04T23:57:01.053Z"
+    "checkedAt": "2026-11-05T05:14:53.089Z"
   },
   "Light of Cards (confirmed Shopify)": {
     "mode": "v3-sealed-positive",
@@ -18090,7 +18095,7 @@
       "pokemon-tcg-mega-lucario-ex-premium-figure-collection",
       "pre-order-pokemon-tcg-30th-anniversary-ditto-premium-collection"
     ],
-    "checkedAt": "2026-11-04T23:57:02.689Z"
+    "checkedAt": "2026-11-05T05:14:52.920Z"
   },
   "priceCalib": {
     "last": "2026-11-03T11:22:37.455Z"
@@ -18161,15 +18166,15 @@
   },
   "Big W - Pokemon TCG": {
     "hash": "-16f75m",
-    "checkedAt": "2026-11-04T23:56:58.288Z"
+    "checkedAt": "2026-11-05T05:14:48.568Z"
   },
   "Kmart - Pokemon TCG": {
     "hash": "nohup5",
     "checkedAt": "2026-10-13T02:41:11.796Z"
   },
   "EB Games - Pokemon TCG": {
-    "hash": "-pmj1c1",
-    "checkedAt": "2026-11-04T23:57:03.542Z"
+    "hash": "u5muao",
+    "checkedAt": "2026-11-05T05:14:54.577Z"
   },
   "JB Hi-Fi - Pokemon TCG search": {
     "mode": "v3-sealed-positive",
@@ -18181,11 +18186,11 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-11-04T23:57:05.177Z"
+    "checkedAt": "2026-11-05T05:14:56.449Z"
   },
   "Nearby - EB Games Pokemon": {
-    "hash": "-gxjekk",
-    "checkedAt": "2026-11-04T23:57:03.600Z"
+    "hash": "-5qt98q",
+    "checkedAt": "2026-11-05T05:14:54.548Z"
   },
   "Nearby - JB Hi-Fi Pokemon search": {
     "mode": "v3-sealed-positive",
@@ -18197,7 +18202,7 @@
       "https://www.jbhifi.com.au/products/hubbl-4k-streaming-box",
       "https://www.jbhifi.com.au/products/apple-airpods-5-with-wireless-charging-case"
     ],
-    "checkedAt": "2026-11-04T23:57:05.959Z"
+    "checkedAt": "2026-11-05T05:14:55.896Z"
   },
   "Target - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18212,7 +18217,7 @@
       "P_87877335",
       "P_110128516"
     ],
-    "checkedAt": "2026-11-04T23:56:57.690Z"
+    "checkedAt": "2026-11-05T05:14:47.958Z"
   },
   "Kmart - Pokemon TCG (Constructor API)": {
     "mode": "v3-sealed-positive",
@@ -18427,7 +18432,7 @@
       "P_43744992",
       "P_43818624"
     ],
-    "checkedAt": "2026-11-04T23:56:58.003Z"
+    "checkedAt": "2026-11-05T05:14:48.050Z"
   },
   "priceRefs": {
     "\\btin\\b": 35
