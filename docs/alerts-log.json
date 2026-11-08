@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-09-18T00:57:04.577Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
-    "timestamp": "2026-09-18T10:04:17.855Z",
-    "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Greninja ex - 099 (30th Celebration) (099) (ME: Mega Evolution Promo) (MEP) — $3.00 (was $4.00)\n  https://www.trollaustralia.com.au/products/greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep"
-  },
-  {
-    "timestamp": "2026-09-19T00:36:11.594Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-19T09:25:37.258Z",
     "message": "💰 <b>Price drop</b>\nTroll Australia - Pokemon TCG\n\n• Greninja ex - 099 (30th Celebration) (099) (ME: Mega Evolution Promo) (MEP) — $2.00 (was $3.00)\n  https://www.trollaustralia.com.au/products/greninja-ex-099-30th-celebration-099-me-mega-evolution-promo-mep"
   },
@@ -1198,5 +1186,17 @@
   {
     "timestamp": "2026-11-08T14:52:15.961Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Hobby Collectors Australia - Pokemon Sealed</b>\n<a href=\"https://hobbycollectorsaustralia.com.au/products/pokemon-tcg-deck-crafters-collection-meowth-ex\">Deck Crafter's Collection (Meowth ex)</a> — <b>$25.00</b> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-11-08T22:57:55.156Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Good Games - 30th Celebration hub page (wave status updates)</b>\n🔥 <a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-elite-trainer-box\">30th Celebration Elite Trainer Box</a> <i>(RRP ~$110)</i>"
+  },
+  {
+    "timestamp": "2026-11-08T22:57:55.804Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Good Games - 30th Celebration hub page (wave status updates)</b>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-greninja-ex-box\">30th Celebration Greninja ex Box</a> <i>(RRP ~$80)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-sylveon-ex-box\">30th Celebration Sylveon ex Box</a> <i>(RRP ~$80)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-knock-out-collection\">30th Celebration Knock Out Collection</a> <i>(RRP ~$90)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-binder-collection\">30th Celebration Binder Collection</a> <i>(RRP ~$70)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-poster-collection\">30th Celebration Poster Collection</a> <i>(RRP ~$70)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-mini-tin-assorted\">30th Celebration Mini Tin - Assorted</a> <i>(RRP ~$70)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-booster-bundle\">30th Celebration Booster Bundle</a> <i>(RRP ~$55)</i>\n<a href=\"https://www.goodgames.com.au/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex\">30th Celebration Battle Deck - Espeon ex</a> <i>(RRP ~$50)</i>\n<i>+1 more at this store</i>"
+  },
+  {
+    "timestamp": "2026-11-08T22:57:56.648Z",
+    "message": "📣 <b>New Pokémon TCG set announced</b>\n\n• Delta Reign (Mega Evolution) — release 2026/11/06\n\n✅ Automatically added to activeSets - now tracking this set across all retailers."
   }
 ]

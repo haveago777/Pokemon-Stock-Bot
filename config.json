@@ -1,6 +1,8 @@
 {
   "checkIntervalNote": "Actual interval is set by the cron schedule in .github/workflows/watch.yml, not here.",
-  "activeSets": [],
+  "activeSets": [
+    "Delta Reign"
+  ],
   "activeSetsNote": "Empty activeSets = alert on ALL new sealed Pokemon product + back-in-stock for anything first seen in last 45 days. Add set names here only if you want extra back-in-stock priority for older sets.",
   "targets": [
     {
