@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-24T00:53:52.984Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-24T05:50:55.572Z",
     "message": "🆕 <b>New listing(s) detected</b>\nHobbyco - Trading Card Games\n\n• TCG 30th Celebration Knock Out Collection — $19.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-knock-out-collection\n• TCG 30th Celebration ex Box — $44.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-ex-box\n• TCG 30th Celebration Poster Box — $29.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-poster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-11T10:53:15.979Z",
     "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Low Pop Trading Co</b>\n🔥 🇯🇵 <a href=\"https://www.lowpop.com.au/products/pokemon-jp-aura-seeker-booster-box\">JP Aura Seeker Booster Box</a> — <b>$139.99</b> <i>(JP ref ~$160)</i>"
+  },
+  {
+    "timestamp": "2026-11-12T00:52:07.241Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 6 in stock now\n• Scanning 882 sealed listings this run (170 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
