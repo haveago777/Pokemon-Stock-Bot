@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-24T05:50:55.572Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nHobbyco - Trading Card Games\n\n• TCG 30th Celebration Knock Out Collection — $19.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-knock-out-collection\n• TCG 30th Celebration ex Box — $44.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-ex-box\n• TCG 30th Celebration Poster Box — $29.99 (listed, not yet orderable)\n  https://www.hobbyco.com.au/products/tcg-30th-celebration-poster-box"
-  },
-  {
     "timestamp": "2026-09-24T15:31:00.404Z",
     "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-12T00:52:07.241Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 6 in stock now\n• Scanning 882 sealed listings this run (170 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-13T02:49:57.777Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 5 in stock now\n• Scanning 873 sealed listings this run (165 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
