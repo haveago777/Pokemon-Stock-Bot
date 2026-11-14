@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-24T15:31:01.812Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nGameology - Pokemon Preorders\n\n🔥 • Pokemon TCG 30th Celebration Ultra Premium Collection Day / Night (Random Select) — $400.00 (listed, not yet orderable)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-night-random-select\n• Pokemon TCG 30th Celebration Booster Bundle — $66.00 (listed, not yet orderable)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-celebration-booster-bundle\n• Pokemon TCG 30th Celebration Mini Tin (Random Select) — $24.00 (listed, not yet orderable)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-celebration-mini-tin-random-select\n• Pokemon TCG 30th Celebration Figure Collection Mew / Mewtwo (Random Select) — $74.00 (listed, not yet orderable)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-celebration-figure-collection-mew-mewtwo-random-select"
-  },
-  {
     "timestamp": "2026-09-24T19:29:00.562Z",
     "message": "🆕 <b>New listing(s) detected</b>\nGood Games TCG - Pokemon\n\n• Mew (G/RGB) [Mega Evolution: 30th Celebration] — $4653.00 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-g-rgb-mega-evolution-30th-celebration\n• Mew (B/RGB) [Mega Evolution: 30th Celebration] — $4139.20 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-b-rgb-mega-evolution-30th-celebration\n• Mew (R/RGB) [Mega Evolution: 30th Celebration] — $6591.30 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-r-rgb-mega-evolution-30th-celebration"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-13T10:10:33.849Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Card Traders Australia - Pokemon Sealed</b>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-magnificent-maestros-box\">Magnificent Maestros Box</a> — <b>$80.00</b> <i>(RRP ~$80)</i>\n\n<b>Raptor Games</b>\n<a href=\"https://raptorgames.com/products/pokemon-windowsill-collection-re-ment\">Windowsill collection RE-MENT</a> — <b>$26.00</b> <i>(RRP ~$90)</i>\n<a href=\"https://raptorgames.com/products/pokemon-kaichu-collection-re-ment\">Kaichu Collection RE-MENT</a> — <b>$26.00</b> <i>(RRP ~$90)</i>\n<a href=\"https://raptorgames.com/products/pokemon-terrarium-collection-10-pokemon-30th-anniversary-ver-blind-box-re-ment\">Terrarium Collection 10 Pokemon 30th Anniversary ver. Blind Box RE-MENT</a> — <b>$26.00</b> <i>(RRP ~$90)</i>\n<a href=\"https://raptorgames.com/products/pokemon-journey-with-you-anniversary-the-dawn-of-adventure-blind-box-re-ment\">Journey with You! Anniversary The Dawn of Adventure Blind Box RE-MENT</a> — <b>$30.00</b> <i>(RRP ~$80)</i>\n\n<b>The Card Cave</b>\n<a href=\"https://thecardcave.com.au/products/pokemon-tcg-deck-crafters-collection-meowth-ex\">Deck Crafter's Collection - Meowth ex</a> — <b>$19.99</b> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-11-14T02:55:32.882Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 4 in stock now\n• Scanning 881 sealed listings this run (165 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
