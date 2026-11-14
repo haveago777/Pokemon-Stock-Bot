@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-24T19:29:00.562Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nGood Games TCG - Pokemon\n\n• Mew (G/RGB) [Mega Evolution: 30th Celebration] — $4653.00 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-g-rgb-mega-evolution-30th-celebration\n• Mew (B/RGB) [Mega Evolution: 30th Celebration] — $4139.20 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-b-rgb-mega-evolution-30th-celebration\n• Mew (R/RGB) [Mega Evolution: 30th Celebration] — $6591.30 (listed, not yet orderable)\n  https://tcg.goodgames.com.au/products/mew-r-rgb-mega-evolution-30th-celebration"
-  },
-  {
     "timestamp": "2026-09-25T00:53:38.769Z",
     "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $228.00 (was $229.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-14T02:55:32.882Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 4 in stock now\n• Scanning 881 sealed listings this run (165 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-14T09:53:01.741Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Card Traders Australia - Pokemon Sealed</b>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-fates-collide-theme-deck-battle-ruler-zygarde\">Fates Collide Theme Deck - Battle Ruler Zygarde</a> — <b>$30.00</b> <i>(RRP ~$35)</i>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-trainers-toolkit-2025\">Trainer's Toolkit (2025)</a> — <b>$80.00</b> <i>(RRP ~$90)</i>"
   }
 ]
