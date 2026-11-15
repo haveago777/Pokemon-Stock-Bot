@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-25T00:53:42.124Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
-    "timestamp": "2026-09-25T15:33:00.222Z",
-    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00 (was $233.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
     "timestamp": "2026-09-26T00:57:18.498Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-11-14T16:19:26.003Z",
     "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-bundle\">TCG - Delta Reign Booster Bundle</a> — <b>$49.00</b> <i>(RRP ~$55)</i>\n🔥 <a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-box\">TCG - Delta Reign Booster Box</a> — <b>$231.00</b> <i>(RRP ~$250)</i>"
+  },
+  {
+    "timestamp": "2026-11-15T00:26:25.936Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Treasure Collectables</b>\n<a href=\"https://www.treasurecollectables.com.au/products/pokemon-30th-anniversary-mini-tin-sealed-display-case-10-tins\">30th Anniversary Mini Tin Sealed Display Case (10 tins)</a> — <b>$409.95</b> <i>(RRP ~$1600)</i>"
+  },
+  {
+    "timestamp": "2026-11-15T00:26:26.736Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 18 listings, 6 in stock now\n• Scanning 885 sealed listings this run (172 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
