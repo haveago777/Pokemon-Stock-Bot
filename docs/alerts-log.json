@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28T01:51:01.618Z",
-    "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
-    "timestamp": "2026-09-28T01:51:04.221Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
     "timestamp": "2026-09-28T16:39:13.899Z",
     "message": "🆕 <b>New listing(s) detected</b>\nMind Games - Pokemon (WooCommerce, not Shopify)\n\n• Pokemon – 30th Celebration – Binder Box 10-10450-108 SOLD OUT $149.00 — $149.00\n  https://www.m-g.com.au/product/pokemon-30th-celebration-binder-box/"
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-11-17T22:29:43.598Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>GD Games</b>\n🇯🇵 <a href=\"https://www.gdgames.com.au/products/30th-celebration-first-partner-kanto-charmander-bulbasaur-squirtle-box-japanese-pokemon-tcg\">30th Celebration First Partner Kanto Charmander Bulbasaur Squirtle Box - Japanese Pokemon TCG</a> — <b>$59.95</b> <i>(JP ref ~$55)</i>  📈+9%"
+  },
+  {
+    "timestamp": "2026-11-18T03:50:13.910Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Target AU</b>\n<a href=\"https://www.target.com.au/p/pokemon-tcg-deck-crafter-s-collection/73493303\">Deck Crafter’s Collection</a> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-11-18T03:50:14.607Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 20 listings, 5 in stock now\n• Scanning 890 sealed listings this run (175 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
