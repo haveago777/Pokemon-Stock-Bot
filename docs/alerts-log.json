@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28T16:39:13.959Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nCard Traders Australia - Pokemon Sealed\n\n• Pokemon Korean M6a 30th Celebrations 30th Anniversary Celebration Booster Box — $240.00 (in stock)\n  https://cardtradersaustralia.com.au/products/pokemon-korean-m6a-30th-celebrations-30th-anniversary-celebration-booster-box"
-  },
-  {
-    "timestamp": "2026-09-29T02:04:03.374Z",
-    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00 (was $230.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
     "timestamp": "2026-09-29T02:04:08.916Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n23 source(s) reachable, 7 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• Pokemon Center Australia - TCG\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-11-18T12:21:24.832Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Raptor Games</b>\n<a href=\"https://raptorgames.com/products/pokemon-tcg-deck-crafters-collection-box\">TCG - Deck Crafter's Collection Box</a> — <b>$25.00</b> <i>(RRP ~$90)</i>"
+  },
+  {
+    "timestamp": "2026-11-19T02:04:15.014Z",
+    "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-bundle\">TCG - Delta Reign Booster Bundle</a> — <b>$48.00</b> <i>(RRP ~$55)</i>\n\n🆕 <b>NEW LISTINGS</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-sleeved-booster-case-144-packs\">TCG - Delta Reign Sleeved Booster Case (144 Packs)</a> — <b>$1033.00</b> <i>(RRP ~$1600)</i>"
+  },
+  {
+    "timestamp": "2026-11-19T02:04:16.516Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 7 in stock now\n• Scanning 892 sealed listings this run (172 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
