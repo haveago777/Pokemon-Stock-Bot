@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-09-29T08:23:21.454Z",
-    "message": "🚨 <b>Back in stock</b>\nGameology - Pokemon Preorders\n\n• Pokemon TCG 30th Anniversary Celebration Booster Box M6a Japanese — $260.00\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-booster-box-m6a-japanese\n• Pokemon TCG 30th Anniversary Celebration Futuristic Box Japanese — $658.00\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-futuristic-box-japanese"
-  },
-  {
-    "timestamp": "2026-09-29T08:23:21.502Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• Pokemon Center Exclusive | 30th Celebration Double Deck Box — $40.00 (in stock)\n  https://raptorgames.com/products/pokemon-center-exclusive-30th-celebration-double-deck-box\n• Pokemon Center Exclusive | 30th Celebration Card Sleeves (65 Sleeves) — $25.00 (in stock)\n  https://raptorgames.com/products/pokemon-center-exclusive-30th-celebration-card-sleeves-65-sleeves\n• [Chinese] 30th Anniversary Celebration Pokemon TCG Booster Box — $180.00 (in stock)\n  https://raptorgames.com/products/30th-anniversary-celebration-booster-box-simplified-chinese-pokemon-tcg\n• [Chinese] 30th Anniversary Celebration Pokemon TCG Booster Pack — $10.00 (in stock)\n  https://raptorgames.com/products/chinese-30th-anniversary-celebration-pokemon-tcg-booster-pack"
-  },
-  {
-    "timestamp": "2026-09-29T23:27:10.749Z",
-    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $228.00 (was $229.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
     "timestamp": "2026-09-30T02:18:38.152Z",
     "message": "💰 <b>Price drop</b>\nGameology - Pokemon Preorders\n\n• Pokemon TCG 30th Anniversary Celebration Booster Box M6a Japanese — $259.00 (was $260.00)\n  https://www.gameology.com.au/products/pokemon-tcg-30th-anniversary-celebration-booster-box-m6a-japanese"
   },
@@ -1198,5 +1186,17 @@
   {
     "timestamp": "2026-11-19T10:13:35.195Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Hobby Collectors Australia - Pokemon Sealed</b>\n<a href=\"https://hobbycollectorsaustralia.com.au/products/pokemon-tcg-mega-lucario-ex-league-battle-deck-60-cards-mega-evolution-series\">Mega Lucario ex League Battle Deck | 60 Cards | Mega Evolution Series</a> — <b>$54.95</b> <i>(RRP ~$50)</i>  📈+10%"
+  },
+  {
+    "timestamp": "2026-11-20T01:13:46.098Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Low Pop Trading Co</b>\n🔥 <a href=\"https://www.lowpop.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster-bundle-copy\">Mega Evolution - Flowing Fists Elite Trainer Box</a> — <b>$109.99</b> <i>(RRP ~$110)</i>"
+  },
+  {
+    "timestamp": "2026-11-20T01:13:46.595Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Low Pop Trading Co</b>\n<a href=\"https://www.lowpop.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster-copy\">Mega Evolution - Flowing Fists Booster Bundle</a> — <b>$49.99</b> <i>(RRP ~$55)</i>"
+  },
+  {
+    "timestamp": "2026-11-20T01:13:47.089Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 7 in stock now\n• Scanning 898 sealed listings this run (176 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
