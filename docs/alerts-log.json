@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-30T08:44:45.478Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• PREORDER PICK UP ONLY: Pokemon TCG: 30th Celebration Booster Bundle — $100.00 (in stock)\n  https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-booster-bundle\n• PREORDER PICK UP ONLY: Pokemon TCG: 30th Celebration Mini Tin — $50.00 (in stock)\n  https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-mini-tin"
-  },
-  {
     "timestamp": "2026-09-30T15:22:53.669Z",
     "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00 (was $231.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-22T06:14:40.405Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 6 in stock now\n• Scanning 909 sealed listings this run (173 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-22T14:42:44.477Z",
+    "message": "🚨 <b>(other) BACK IN STOCK</b>\n\n<b>Low Pop Trading Co</b>\n<a href=\"https://www.lowpop.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster-copy\">Mega Evolution - Flowing Fists Booster Bundle</a> — <b>$54.99</b> <i>(RRP ~$55)</i>"
   }
 ]
