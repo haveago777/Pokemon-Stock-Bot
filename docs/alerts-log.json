@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-09-30T15:22:54.944Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTrading Card Masters - Pokemon\n\n• 128 - Holofoil ME 30th Celebration - Illustration Rare — $10.00 (in stock)\n  https://www.tradingcardmasters.com.au/products/lycanroc-138-128-holofoil-me-30th-celebration-illustration-rare"
-  },
-  {
     "timestamp": "2026-10-01T03:55:06.028Z",
     "message": "🚨 <b>Back in stock</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon - TCG - 30th Celebration Mini Tin — $22.00\n  https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-mini-tin\n• Pokemon - TCG - 30th Celebration Booster Bundle — $54.00\n  https://collectiblemadness.com.au/products/pokemon-tcg-30th-celebration-booster-bundle"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-23T01:14:24.650Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 6 in stock now\n• Scanning 909 sealed listings this run (180 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-24T05:29:05.309Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 6 in stock now\n• Scanning 908 sealed listings this run (173 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
