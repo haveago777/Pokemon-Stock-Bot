@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-10-01T03:55:08.871Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Pokemon TCG: 30th Celebration Mini Tin - Assorted\n  https://www.target.com.au/p/pokemon-tcg-3-th-celebration-mini-tin-assorted/73301691"
-  },
-  {
     "timestamp": "2026-10-01T03:55:09.448Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n22 source(s) reachable, 8 not.\nNot reachable right now:\n• EB Games - Pokemon TCG search\n• Kmart - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• Amazon AU - Pokemon TCG search (unreliable, heavy bot-blocking)\n• ZiNG Pop Culture - Pokemon TCG\n• Set-announcement watcher\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-25T00:54:46.979Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• Big W - Pokemon TCG\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 6 in stock now\n• Scanning 906 sealed listings this run (172 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-25T09:25:27.819Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Light of Cards</b>\n<a href=\"https://lightofcards.com.au/products/sealed-case-pokemon-tcg-mega-evolution-pitch-black-build-battle-display-10-boxes\">[Sealed Case] Pokémon TCG - Mega Evolution - Pitch Black Build &amp; Battle Display - 10 Boxes</a> — <b>$647.99</b> <i>(RRP ~$1600)</i>\n<a href=\"https://lightofcards.com.au/products/sealed-case-pokemon-tcg-mega-evolution-chaos-rising-build-battle-display-10-boxes\">[Sealed Case] Pokémon TCG - Mega Evolution - Chaos Rising Build &amp; Battle Display - 10 Boxes</a> — <b>$755.99</b> <i>(RRP ~$1600)</i>"
   }
 ]
