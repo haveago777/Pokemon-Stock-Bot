@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-10-01T10:46:51.636Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nRaptor Games - Pokemon\n\n• Raptor Games - GUNDAM CARD GAME Stardust Trails GD06 Release Event - Friday 30th October 7pm — $50.00 (in stock)\n  https://raptorgames.com/products/raptor-games-gundam-card-game-stardust-trails-gd06-release-event-friday-30th-october-7pm"
-  },
-  {
     "timestamp": "2026-10-01T17:09:41.189Z",
     "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00 (was $230.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-25T19:31:00.063Z",
     "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-bundle\">TCG - Delta Reign Booster Bundle</a> — <b>$44.00</b> <i>(RRP ~$55)</i>"
+  },
+  {
+    "timestamp": "2026-11-26T02:25:33.337Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 20 listings, 5 in stock now\n• Scanning 910 sealed listings this run (174 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
