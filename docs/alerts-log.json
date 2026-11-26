@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-10-01T17:09:41.189Z",
-    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00 (was $230.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
     "timestamp": "2026-10-02T01:07:44.975Z",
     "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $229.00 (was $230.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-26T02:25:33.337Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 20 listings, 5 in stock now\n• Scanning 910 sealed listings this run (174 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-26T11:19:21.796Z",
+    "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n🔥 <a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-elite-trainer-box\">TCG - Delta Reign Elite Trainer Box</a> — <b>$99.00</b> <i>(RRP ~$110)</i>\n🔥 <a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-box\">TCG - Delta Reign Booster Box</a> — <b>$220.00</b> <i>(RRP ~$250)</i>"
   }
 ]
