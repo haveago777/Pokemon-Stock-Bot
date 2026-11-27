@@ -1,9 +1,5 @@
 [
   {
-    "timestamp": "2026-10-02T01:07:48.302Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Pokemon TCG: 30th Celebration Booster Bundle - Assorted\n  https://www.target.com.au/p/pokemon-tcg-3-th-celebration-booster-bundle-assorted/73301516\n• Pokemon TCG: 30th Celebration Mini Tin - Assorted\n  https://www.target.com.au/p/pokemon-tcg-3-th-celebration-mini-tin-assorted/73301691"
-  },
-  {
     "timestamp": "2026-10-02T01:07:51.200Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   },
@@ -1198,5 +1194,9 @@
   {
     "timestamp": "2026-11-26T20:19:10.964Z",
     "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Trainer Town</b>\n🔥 <a href=\"https://trainertown.com.au/products/pokemon-tcg-delta-reign-booster-box-sealed-case\">[Arriving] Pokémon - TCG - Delta Reign Booster Box Sealed Case</a> — <b>$1799.95</b> <i>(RRP ~$1600)</i>  📈+12%"
+  },
+  {
+    "timestamp": "2026-11-27T02:58:47.106Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 8 in stock now\n• Scanning 908 sealed listings this run (171 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
