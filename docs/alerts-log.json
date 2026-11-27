@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-10-02T01:07:51.200Z",
-    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n24 source(s) reachable, 6 not.\nNot reachable right now:\n• Kmart - Pokemon TCG search\n• EB Games - Pokemon TCG search\n• Pokemon Center Australia - TCG\n• Mr Toys Toyworld - Pokemon TCG (confirmed bot-blocked)\n• OVERHAULED Games - Pokemon 30th Anniversary (confirmed bot-blocked)\n• ZiNG Pop Culture - Pokemon TCG\n\n🧪 Self-test: 16/16 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
-  },
-  {
-    "timestamp": "2026-10-02T06:59:41.070Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nTarget AU - Pokemon TCG search\n\n• Connections from Hallmark 30th Birthday Card - 30 Today!\n  https://www.target.com.au/p/connections-from-hallmark-3-th-birthday-card-3-today/71570211"
-  },
-  {
     "timestamp": "2026-10-02T18:44:48.151Z",
     "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00 (was $231.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
   },
@@ -1198,5 +1190,13 @@
   {
     "timestamp": "2026-11-27T02:58:47.106Z",
     "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n46 source(s) reachable, 0 blocked, 0 other failures.\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 21 listings, 8 in stock now\n• Scanning 908 sealed listings this run (171 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
+  },
+  {
+    "timestamp": "2026-11-27T11:59:56.574Z",
+    "message": "🚨 <b>BACK IN STOCK</b>\n\n<b>Collectible Madness</b>\n<a href=\"https://collectiblemadness.com.au/products/pokemon-tcg-delta-reign-booster-bundle\">TCG - Delta Reign Booster Bundle</a> — <b>$45.00</b> <i>(RRP ~$55)</i>\n\n🆕 <b>NEW LISTINGS</b>\n\n<b>Collectible Madness</b>\n🔥 🇯🇵 <a href=\"https://collectiblemadness.com.au/products/pokemon-japanese-tcg-aura-seeker-m7-booster-box\">Japanese - TCG - Aura Seeker M7 Booster Box</a> — <b>$95.00</b> <i>(JP ref ~$160)</i>\n\n<b>GD Games</b>\n🔥 🇯🇵 <a href=\"https://www.gdgames.com.au/products/aura-seeker-booster-box-japanese-pokemon-tcg\">Aura Seeker Booster Box - Japanese Pokemon TCG</a> — <b>$99.95</b> <i>(JP ref ~$160)</i>"
+  },
+  {
+    "timestamp": "2026-11-27T11:59:57.260Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Card Traders Australia - Pokemon Sealed</b>\n<a href=\"https://cardtradersaustralia.com.au/products/pokemon-triple-whammy-tin-tyranitar\">Triple Whammy Tin Tyranitar</a> — <b>$40.00</b> <i>(RRP ~$35)</i>  📈+14%"
   }
 ]
