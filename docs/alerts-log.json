@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-10-03T03:25:28.764Z",
-    "message": "💰 <b>Price drop</b>\nCollectible Madness - Pokemon TCG\n\n• Pokemon Japanese - TCG - 30th CELEBRATION M6a Booster Box — $230.00 (was $328.00)\n  https://collectiblemadness.com.au/products/pokemon-japanese-tcg-30th-celebration-m6a-booster-box"
-  },
-  {
-    "timestamp": "2026-10-03T10:25:29.079Z",
-    "message": "🆕 <b>New listing(s) detected</b>\nPokeTrader Australia\n\n🔥 • Pokémon TCG 30th Celebration Elite Trainer Box  [LIMIT 1 PER HOUSELHOLD] — $100.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-elite-trainer-box\n• Pokémon TCG 30th Celebration Tech Sticker Collection (ONE AT RANDOM) [LIMIT 1 PER HOUSELHOLD] — $33.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-tech-sticker-collection-one-at-random\n• Pokémon TCG 30th Celebration Poster Collection [LIMIT 1 PER HOUSELHOLD] — $33.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-poster-collection\n• Pokémon TCG 30th Celebration Knock Out Collection [LIMIT 1 PER HOUSELHOLD] — $22.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-knock-out-collection\n• Pokemon TCG 30th Celebration ex Box (ONE BOX AT RANDOM) [LIMIT 1 PER HOUSELHOLD] — $45.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-ex-box-one-box-at-random\n• Pokémon TCG 30th Celebration Booster Bundle [LIMIT 1 PER HOUSELHOLD] — $60.00 (in stock)\n  https://www.poketrader.com.au/products/pokemon-tcg-30th-celebration-booster-bundle"
-  },
-  {
-    "timestamp": "2026-10-03T12:21:38.091Z",
-    "message": "🧪 <b>Test alert</b>\nIf this reached Telegram, the pipeline works end-to-end."
-  },
-  {
     "timestamp": "2026-10-03T19:31:04.728Z",
     "message": "🚨 <b>Back in stock</b>\nLight of Cards (confirmed Shopify)\n\n• Pokémon TCG - Articuno - 097 Promo - 30th Celebration — $2.69\n  https://lightofcards.com.au/products/pokemon-tcg-articuno-097-promo-30th-celebration\n• Pokémon TCG - Moltres - 096 Promo - 30th Celebration — $2.69\n  https://lightofcards.com.au/products/pokemon-tcg-moltres-096-promo-30th-celebration\n• Pokémon TCG - Zapdos - 098 Promo - 30th Celebration — $2.69\n  https://lightofcards.com.au/products/pokemon-tcg-zapdos-098-promo-30th-celebration\n• [Sealed] Pokémon TCG - Nidorina - 101 Promo - 30th Celebration — $29.99\n  https://lightofcards.com.au/products/sealed-pokemon-tcg-nidorina-101-promo-30th-celebration\n• Pokémon TCG - Bundle - M6a 30th Celebration - EN — $9.99\n  https://lightofcards.com.au/products/pokemon-tcg-bundle-m6a-30th-celebration-en\n• Pokémon TCG - Bundle - M6a 30th Celebration - JP — $4.99\n  https://lightofcards.com.au/products/pokemon-tcg-bundle-m6a-30th-celebration-jp\n• [Single Pack] Pokémon TCG - M6a - 30th Anniversary - JP — $17.99\n  https://lightofcards.com.au/products/single-pack-pokemon-tcg-m6a-30th-anniversary-jp\n• Pokemon TCG MEGA - M6a - 30th Celebration Booster Box - JP — $329.99\n  https://lightofcards.com.au/products/sealed-pokemon-tcg-m6a-30th-celebration-booster-box-jp"
   },
@@ -1198,5 +1186,17 @@
   {
     "timestamp": "2026-11-27T21:06:33.693Z",
     "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>Light of Cards</b>\n<a href=\"https://lightofcards.com.au/products/sealed-pokemon-tcg-mega-evolution-chaos-rising-build-battle-box\">[Sealed] Pokémon TCG - Mega Evolution - Chaos Rising Build &amp; Battle Box</a> — <b>$54.00</b> <i>(RRP ~$55)</i>"
+  },
+  {
+    "timestamp": "2026-11-28T03:15:29.140Z",
+    "message": "🆕 <b>NEW LISTINGS</b>\n\n<b>Gameology - Pokemon Preorders</b>\n🔥 🇯🇵 <a href=\"https://www.gameology.com.au/products/pokemon-tcg-aura-seeker-hadou-seeker-booster-box-m7-japanese\">TCG Aura Seeker Hadou Seeker Booster Box M7 Japanese</a> — <b>$110.00</b> <i>(JP ref ~$160)</i>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n🔥 <a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-perfect-order-elite-trainer-box\">Perfect Order Elite Trainer Box</a> — <b>$120.00</b> <i>(RRP ~$110)</i>  📈+9%"
+  },
+  {
+    "timestamp": "2026-11-28T03:15:29.730Z",
+    "message": "🆕 <b>(other) NEW LISTINGS</b>\n\n<b>One Stop Poke Shop (Sydney, confirmed Shopify)</b>\n<a href=\"https://onestoppokeshop.com.au/products/pokemon-tcg-unova-mini-tin\">Unova Mini Tin</a> — <b>$50.00</b> <i>(RRP ~$70)</i>\n\n<b>Troll Australia</b>\n<a href=\"https://www.trollaustralia.com.au/products/ascended-heroes-mega-emboar-ex-box\">Ascended Heroes Mega Emboar ex Box</a> — <b>$68.00</b> <i>(RRP ~$80)</i>"
+  },
+  {
+    "timestamp": "2026-11-28T03:15:30.464Z",
+    "message": "✅ <b>Daily heartbeat</b>\nBot is alive and running.\n45 source(s) reachable, 0 blocked, 1 other failures.\n\n⚠️ Other failures (1):\n• The Card Cave - Pokemon\n\n🎯 <b>Watched sets:</b> Delta Reign\n<i>New sets are added automatically when announced.</i>\n• Delta Reign: 23 listings, 8 in stock now\n• Scanning 929 sealed listings this run (188 currently orderable)\n🏪 45 sources · retail filter +15% · other alerts silent\n\n🧪 Self-test: 34/34 checks passed - all bot logic working correctly.\n\nNo separate message means nothing new to report today."
   }
 ]
